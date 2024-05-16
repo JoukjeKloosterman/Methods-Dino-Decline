@@ -1,0 +1,126 @@
+collection_no	source_database	collection.authorizer	occurrence.genus_reso	occurrence.genus_name	occurrence.species_reso	occurrence.species_name	original.genus_reso	original.genus_name	original.species_reso	original.species_name	type_specimen	collection.reference_no	country	state	period	epoch	stage	ma_max	ma_min	formation
+11582	PaleoDB	"E. Fara"		Saichania		chulsanensis					"GI SPS 100/151"	59136	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Baruungoyot
+11899	PaleoDB	"M. Carrano"		Anodontosaurus		lambei		Ankylosauria		indet.	"NMC 8530"	54104	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+11931	PaleoDB	"M. Carrano"	"n. gen."	Ankylosaurus	"n. sp."	magniventris					"AMNH 5895"	4210	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14437	Fossilworks	"J. Alroy"		Euoplocephalus		sp.						25474	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	80.7	"Judith River"
+14470	Fossilworks	"J. Alroy"		Euoplocephalus		sp.						2602	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.8	76.6	"Judith River"
+14492	Fossilworks	"J. Alroy"		Euoplocephalus		sp.						2602	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.5	72.5	"Judith River"
+14514	Fossilworks	"J. Alroy"		Ankylosaurus	cf.	magniventris					"AMNH 5895"	1129	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14534	Fossilworks	"J. Alroy"		Ankylosaurus		magniventris					"AMNH 5895"	960	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14541	Fossilworks	"J. Alroy"		Ankylosaurus		magniventris		Ankylosaurus		sp.	"AMNH 5895"	1419	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14544	Fossilworks	"J. Alroy"		Ankylosaurus		magniventris		Ankylosaurus		sp.	"AMNH 5895"	1419	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14585	Fossilworks	"J. Alroy"		Ankylosaurus		magniventris					"AMNH 5895"	1239	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+22694	ETE	"A. Behrensmeyer"		Euoplocephalus		sp.						5697	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	72.7	72.5	"Two Medicine"
+28243	Fossilworks	"J. Alroy"		Saichania		chulsanensis		Ankylosauridae		indet.	"GI SPS 100/151"	7761	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Baruungoyot
+32362	PaleoDB	"M. Carrano"	"n. gen."	Shamosaurus	"n. sp."	scutatus		Ankylosauria		indet.	"PIN 3779/2"	33967	Mongolia	Dornogov	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Dzunbain
+35379	PaleoDB	"M. Carrano"		Euoplocephalus		sp.						9558	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+35966	ETE	"M. Carrano"		Pinacosaurus	cf.	grangeri					"AMNH 6523"	40224	China	Shandong	Cretaceous	"Late/Upper Cretaceous"		89.300	84.900	Jiangjunding
+37013	PaleoDB	"M. Carrano"		Pinacosaurus		grangeri		Pinacosaurus		sp.	"AMNH 6523"	9901	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+37016	PaleoDB	"M. Carrano"		Pinacosaurus		sp.						9899	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+37807	PaleoDB	"M. Carrano"		Pinacosaurus	"n. sp."	mephistocephalus					"IMM 96BM3/1"	10079	China	"Nei Mongol"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Bayan Mandahu"
+38698	PaleoDB	"M. Carrano"		Tarchia		gigantea		Ankylosauridae		indet.	"PIN 551-29"	10137	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+38699	PaleoDB	"M. Carrano"		Tarchia		gigantea		Dyoplosaurus		sp.		9901	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+38700	PaleoDB	"M. Carrano"		Tarchia		gigantea	?	Ankylosauridae		indet.	"PIN 551-29"	9900	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+45329	ETE	"M. Carrano"		Pinacosaurus		grangeri					"AMNH 6523"	11795	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+45408	ETE	"M. Carrano"	"n. gen."	Tianzhenosaurus	"n. sp."	youngi		Ankylosauridae		indet.	HBV-10001	11821	China	Shanxi	Cretaceous	"Late/Upper Cretaceous"		99.700	70.600	Huiquanpu
+45681	ETE	"M. Carrano"		Oohkotokia		horneri		Dyoplosaurus		acutosquameus	"MOR 433"	12057	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+45733	ETE	"M. Carrano"	"n. gen."	Anodontosaurus	"n. sp."	lambei		Ankylosauria		indet.	"NMC 8530"	62882	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Horseshoe Canyon"
+45876	ETE	"M. Carrano"		Ankylosaurus		magniventris					"AMNH 5895"	63399	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Scollard
+45877	ETE	"M. Carrano"		Ankylosaurus		magniventris		Ankylosaurus		sp.	"AMNH 5895"	17480	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Scollard
+45878	ETE	"M. Carrano"		Ankylosaurus		magniventris		Dynamosaurus		imperiosus	"AMNH 5895"	9259	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+45879	ETE	"M. Carrano"		Ankylosaurus		magniventris					"AMNH 5895"	11822	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+46152	ETE	"M. Carrano"	"n. gen."	Pinacosaurus	"n. sp."	grangeri					"AMNH 6523"	14566	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+46332	ETE	"M. Carrano"	"n. gen."	Dyoplosaurus	"n. sp."	acutosquameus					"ROM 784"	12348	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+48618	ETE	"M. Carrano"		Euoplocephalus		tutus		Euoplocephalus		sp.	"NMC 210"	17480	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+50727	ETE	"M. Carrano"	"n. gen."	Heishansaurus	"n. sp."	pachycephalus						69375	China	Gansu	Cretaceous	"Early/Lower Cretaceous"		130.000	112.600	
+51907	ETE	"M. Carrano"	"n. gen."	Shanxia	"n. sp."	tianzhenensis					"IVPP V11276"	13826	China	Shanxi	Cretaceous	"Late/Upper Cretaceous"		99.700	66.043	Huiquanpu
+51966	ETE	"M. Carrano"		Anodontosaurus		lambei		Ankylosaurus		sp.	"NMC 8530"	58800	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+51975	ETE	"M. Carrano"		Talarurus		plicatospineus					"PIN 557"	13890	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		99.700	84.900	Baynshire
+52476	ETE	"M. Carrano"	"n. gen."	Platypelta	"n. sp."	coombsi		Euoplocephalus		sp.	"AMNH 5337"	10410	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+52477	ETE	"M. Carrano"		Palaeoscincus	"n. sp."	asper					"NMC 1349"	25127	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+53227	ETE	"M. Carrano"		Tarchia	"n. sp."	gigantea		Dyoplosaurus	"n. sp."	giganteus	"PIN 551-29"	24890	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+53229	ETE	"M. Carrano"	"n. gen."	Pinacosaurus	"n. sp."	grangeri	"n. gen."	Syrmosaurus	"n. sp."	viminocaudus	"PIN AS 614"	14386	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+54104	ETE	"M. Carrano"	"n. gen."	Nodocephalosaurus	"n. sp."	kirtlandensis					"SMP VP-900"	14623	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+55256	ETE	"M. Carrano"		Pinacosaurus		grangeri					"AMNH 6523"	14738	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+55258	ETE	"M. Carrano"		Tarchia		sp.		Ankylosauria		indet.		42291	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+55334	ETE	"M. Carrano"		Cedarpelta		bilbeyhallorum					"CEUM 12360"	16850	"United States"	Utah	Cretaceous	"Early/Lower Cretaceous"		122.460	109.000	"Cedar Mountain"
+55389	ETE	"M. Carrano"	"n. gen."	Tsagantegia	"n. sp."	longicranialis					"GIN AN MNP No. 700/17"	36629	Mongolia	Dornogov	Cretaceous	"Late/Upper Cretaceous"		99.700	84.900	Baynshire
+55683	ETE	"M. Carrano"	"n. gen."	Liaoningosaurus	"n. sp."	paradoxus					"IVPP V.12560"	14922	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"		130.000	122.460	Yixian
+58759	ETE	"M. Carrano"		Platypelta		coombsi		Ankylosauridae		indet.	"AMNH 5337"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58957	ETE	"M. Carrano"		Platypelta		coombsi	informal	Ankylosauria		indet.	"AMNH 5337"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59004	ETE	"M. Carrano"		Euoplocephalus		tutus					"NMC 210"	12046	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59015	ETE	"M. Carrano"	"n. gen."	Scolosaurus	"n. sp."	cutleri					"BMNH R.5161"	62853	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59023	ETE	"M. Carrano"		Scolosaurus		cutleri	informal	Ankylosauria		indet.	"BMNH R.5161"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59372	ETE	"M. Carrano"		Pinacosaurus		sp.						42291	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+60758	ETE	"M. Carrano"	"n. gen."	Minmi	"n. sp."	paravertebrata		Ankylosauria		indet.	"QM F10329"	46357	Australia	Queensland	Cretaceous	"Early/Lower Cretaceous"		140.200	125.450	Bungil
+60815	ETE	"M. Carrano"	"n. gen."	Cedarpelta	"n. sp."	bilbeyhallorum					"CEUM 12360"	2087	"United States"	Utah	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	"Cedar Mountain"
+61625	ETE	"M. Carrano"		Platypelta		coombsi		Euoplocephalus		sp.	"AMNH 5337"	17480	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+61627	ETE	"M. Carrano"		Euoplocephalus		sp.						17500	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+61628	ETE	"M. Carrano"		Euoplocephalus		sp.						17500	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+61631	ETE	"M. Carrano"		Euoplocephalus		sp.						17500	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"St. Mary River"
+62323	ETE	"M. Carrano"		Pinacosaurus	"n. sp."	grangeri		Pinacosaurus	"n. sp."	ninghsiensis		18019	China	Ningxia	Cretaceous	"Late/Upper Cretaceous"		99.700	66.043	
+62535	ETE	"M. Carrano"	?	Ankylosaurus		sp.		Ankylosauridae		indet.		18036	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+62541	ETE	"M. Carrano"		Oohkotokia		horneri		Euoplocephalus		sp.	"MOR 433"	18053	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+64630	ETE	"M. Carrano"		Anodontosaurus		lambei		Euoplocephalus		sp.	"NMC 8530"	63399	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+65334	ETE	"M. Carrano"		Pinacosaurus		grangeri					"AMNH 6523"	26796	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Baruungoyot
+65338	ETE	"M. Carrano"		Pinacosaurus		grangeri					"AMNH 6523"	26796	Mongolia	Dornogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Baruungoyot
+66924	ETE	"M. Carrano"	"n. gen."	Gobisaurus	"n. sp."	domoculus					"IVPP V12563"	19051	China	"Nei Mongol"	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Ulansuhai
+75289	ETE	"M. Carrano"		Ankylosaurus		magniventris		Ankylosaurus		sp.	"AMNH 5895"	2236	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75430	ETE	"M. Carrano"		Ankylosaurus		magniventris		Ankylosaurus		sp.	"AMNH 5895"	2236	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75435	ETE	"M. Carrano"		Ankylosaurus		magniventris		Ankylosaurus		sp.	"AMNH 5895"	2236	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.4	Ferris
+76107	ETE	"M. Carrano"		Nodocephalosaurus		kirtlandensis					"SMP VP-900"	25803	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+76761	PaleoDB	"M. Carrano"		Nodocephalosaurus		kirtlandensis					"SMP VP-900"	25980	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+76762	ETE	"M. Carrano"		Nodocephalosaurus		kirtlandensis					"SMP VP-900"	25980	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+76763	ETE	"M. Carrano"		Nodocephalosaurus		kirtlandensis					"SMP VP-900"	25980	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+77191	Fossilworks	"J. Alroy"		Shamosaurus		scutatus					"PIN 3779/2"	30554	Mongolia	Ovorhangai	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Dzunbain
+79687	ETE	"M. Carrano"	"n. gen."	Zhongyuanosaurus	"n. sp."	luoyangensis	"n. gen."	Zhongyuangosaurus	"n. sp."	luoyangensis	41HIII-0002	26778	China	Henan	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Haoling
+79702	ETE	"M. Carrano"	"n. gen."	Talarurus	"n. sp."	plicatospineus					"PIN 557"	14385	Mongolia	Dornogov	Cretaceous	"Late/Upper Cretaceous"		99.700	84.900	Baynshire
+79703	ETE	"M. Carrano"		Pinacosaurus		sp.		Syrmosaurus		sp.		14387	Mongolia	Ovorkhangai	Cretaceous	"Early/Lower Cretaceous"		145.500	99.700	Öösh
+91200	ETE	"M. Carrano"	"n. gen."	Crichtonsaurus	"n. sp."	bohlini					"IVPP V12745"	29879	China	Liaoning	Cretaceous	"Late/Upper Cretaceous"		99.700	89.300	Sunjiawan
+91201	ETE	"M. Carrano"		Crichtonsaurus	"n. sp."	benxiensis					"BXGM V0012"	30689	China	Liaoning	Cretaceous	"Late/Upper Cretaceous"		99.700	89.300	Sunjiawan
+94370	ETE	"M. Carrano"		Anodontosaurus		lambei					"NMC 8530"	4218	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+97950	ETE	"M. Carrano"		Cedarpelta		bilbeyhallorum					"CEUM 12360"	32617	"United States"	Utah	Cretaceous	"Early/Lower Cretaceous"		122.460	109.000	"Cedar Mountain"
+100261	ETE	"M. Carrano"		Pinacosaurus		sp.						42293	Mongolia	Omngov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+127664	PaleoDB	"R. Benson"		Tsagantegia		sp.						42292	Mongolia	Dornogov	Cretaceous	"Late/Upper Cretaceous"		99.700	84.900	Baynshire
+127678	ETE	"R. Benson"	?	Pinacosaurus		sp.						42292	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+127678	ETE	"R. Benson"		Pinacosaurus		sp.						42292	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+130798	PaleoDB	"R. Benson"		Pinacosaurus		sp.		Ankylosauria		indet.		42289	Mongolia	"Ömnögovi Aimag"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+130804	ETE	"R. Benson"	"n. gen."	Zaraapelta	"n. sp."	nomadis					"MPC D100/1338"	53759	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		99.700	84.900	Baynshire
+135807	PaleoDB	"C. Schweitzer"		Euoplocephalus		tutus		Anodontosaurus		lambei	"NMC 210"	43451	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Bearpaw Shale"
+138980	PaleoDB	"R. Benson"	"n. gen."	Oohkotokia	"n. sp."	horneri					"MOR 433"	44665	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+142497	PaleoDB	"M. Carrano"	?	Oohkotokia		sp.		Ankylosauridae		indet.		12319	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		85.800	70.600	"Two Medicine"
+144551	PaleoDB	"P. Mannion"		Scolosaurus	"n. sp."	thronus		Stegosauria		indet.	"ROM 1930 (incl. CMN 842)"	62883	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+144561	PaleoDB	"P. Mannion"		Anodontosaurus		lambei					"NMC 8530"	46759	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+155027		"M. Carrano"		Platypelta		coombsi		Euoplocephalus		sp.	"AMNH 5337"	17480	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+155220		"M. Carrano"	?	Platypelta		coombsi		Ankylosauridae		indet.	"AMNH 5337"	46759	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+155221		"M. Carrano"		Anodontosaurus	"n. sp."	inceptus		Anodontosaurus		lambei	"TMP 1997.132.1"	46759	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+155222		"M. Carrano"		Anodontosaurus		lambei					"NMC 8530"	46759	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+155223		"M. Carrano"		Anodontosaurus		lambei		Euoplocephalus		sp.	"NMC 8530"	17500	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+155224		"M. Carrano"		Anodontosaurus		inceptus		Ankylosauria		indet.	"TMP 1997.132.1"	54104	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+155225		"M. Carrano"		Anodontosaurus		lambei		Ankylosauria		indet.	"NMC 8530"	62882	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+155226		"M. Carrano"		Anodontosaurus		lambei					"NMC 8530"	46759	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+155227		"M. Carrano"		Anodontosaurus		lambei		Ankylosauria		indet.	"NMC 8530"	62882	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+155228		"M. Carrano"		Euoplocephalus		tutus	?	Scelidosaurus	"n. sp."	sp.		52721	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+155267		"M. Carrano"		Platypelta		coombsi		Euoplocephalus		sp.	"AMNH 5337"	17480	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+155994		"G. Lloyd"	"n. gen."	Taohelong	"n. sp."	jinchengensis						51075	China	Gansu	Cretaceous	"Early/Lower Cretaceous"		145.500	99.700	"Unit 5"
+156486		"R. Benson"	"n. gen."	Ahshislepelta	"n. sp."	minor					"SMP VP-1930"	51267	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+159589		"M. Carrano"		Euoplocephalus		sp.						52140	China	Xinjiang	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Subashi
+160135		"M. Carrano"	"n. gen."	Chuanqilong	"n. sp."	chaoyangensis					"CJPM V001"	52265	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+167657		"P. Mannion"		Pinacosaurus		grangeri					"AMNH 6523"	59136	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		85.800	70.600	Alagteeg
+169229		"M. Carrano"	"n. gen."	Ziapelta	"n. sp."	sanjuanensis					"NMMNH P-64484"	55263	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+179625		"M. Carrano"		Tarchia	"n. sp."	teresae	""""	Dyoplosaurus		giganteus	"PIN 3142/250"	59136	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+180299		"M. Carrano"		Tarchia		gigantea	""""	Ankylosauridae		indet.		9902	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180708		"M. Carrano"	"n. gen."	Jinyunpelta	"n. sp."	sinensis					"ZMNH M8960"	60063	China	Zhejiang	Cretaceous	"Early/Lower Cretaceous"	Albian	112.600	99.700	Liangtoutang
+181420		"M. Carrano"	"n. gen."	Saichania	"n. sp."	chulsanensis		Ankylosauridae		indet.	"GI SPS 100/151"	9899	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Baruungoyot
+181421		"M. Carrano"		Tarchia	"n. sp."	kielanae		Ankylosauridae		indet.	"ZPal MgD-I/111"	9899	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Baruungoyot
+188573		"M. Carrano"	cf.	Minmi		sp.						63251	Australia	Victoria	Cretaceous	"Early/Lower Cretaceous"	Aptian	122.460	112.600	Wonthaggi
+190394		"G. Lloyd"	"n. gen."	Zuul	"n. sp."	crurivastator					"ROM 75860"	62290	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.2	75.2	"Judith River"
+194876		"M. Carrano"		Nodocephalosaurus		kirtlandensis					"SMP VP-900"	66248	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+196405		"M. Carrano"		Euoplocephalus		sp.						17500	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+196406		"M. Carrano"		Euoplocephalus		sp.						17500	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+196407		"M. Carrano"		Euoplocephalus		sp.						17500	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+196419		"M. Carrano"		Scolosaurus		thronus		Euoplocephalus		tutus	"ROM 1930 (incl. CMN 842)"	16964	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+196420		"M. Carrano"		Euoplocephalus		tutus					"NMC 210"	16964	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+196592		"P. Holroyd"	"n. gen."	Akainacephalus	"n. sp."	johnsoni					"UMNH VP 20202"	66889	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.26	76.26	Kaiparowits
+205652		"M. Carrano"		Pinacosaurus		sp.						70504	China	"Nei Mongol"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wulansuhai
+206819		"M. Carrano"		Ankylosaurus		magniventris					"AMNH 5895"	71136	Canada	Saskatchewan	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Frenchman

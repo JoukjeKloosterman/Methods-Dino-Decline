@@ -1,0 +1,207 @@
+collection_no	source_database	collection.authorizer	occurrence.genus_reso	occurrence.genus_name	occurrence.species_reso	occurrence.species_name	original.genus_reso	original.genus_name	original.species_reso	original.species_name	type_specimen	collection.reference_no	country	state	period	epoch	stage	ma_max	ma_min	formation
+11890	PaleoDB	"M. Carrano"		Gorgosaurus		libratus		Gorgosaurus	"n. sp."	libratus	"CMN 2120"	36144	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+11893	PaleoDB	"M. Carrano"		Gorgosaurus		libratus		Gorgosaurus		sp.	"CMN 2120"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+11895	PaleoDB	"M. Carrano"		Gorgosaurus		libratus		Gorgosaurus		sp.	"CMN 2120"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+11896	PaleoDB	"M. Carrano"		Gorgosaurus		libratus		Gorgosaurus		sp.	"CMN 2120"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+11897	PaleoDB	"M. Carrano"	"n. gen."	Gorgosaurus	"n. sp."	libratus		Deinodon		sp.	"CMN 2120"	17545	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+11898	PaleoDB	"M. Carrano"		Albertosaurus		sarcophagus		Laelaps		incrassatus	"NMC 5600"	25123	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Scollard
+11899	PaleoDB	"M. Carrano"		Albertosaurus		sarcophagus		Theropoda		indet.	"NMC 5600"	54104	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+11900	ETE	"M. Carrano"		Albertosaurus	"n. sp."	sarcophagus		Albertosaurus	"n. sp."	arctunguis	"ROM 807"	12347	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Horseshoe Canyon"
+11901	PaleoDB	"M. Carrano"	"n. gen."	Albertosaurus	"n. sp."	sarcophagus		Laelaps		incrassatus	"NMC 5600"	25123	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Horseshoe Canyon"
+11902	PaleoDB	"M. Carrano"		Albertosaurus		sarcophagus					"NMC 5600"	4205	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Horseshoe Canyon"
+11903	PaleoDB	"M. Carrano"		Daspletosaurus		torosus					"NMC 8506"	4205	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+11904	PaleoDB	"M. Carrano"		Daspletosaurus		torosus					"NMC 8506"	62883	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+11915	PaleoDB	"M. Carrano"	"n. gen."	Daspletosaurus	"n. sp."	torosus		Gorgosaurus		sp.	"NMC 8506"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+11916	PaleoDB	"M. Carrano"		Albertosaurus		sp.		Daspletosaurus	cf.	torosus		4205	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+11917	ETE	"M. Carrano"		Tyrannosaurus		rex	cf.	Tyrannosaurus		rex	"NMC 9380 =AMNH 973"	4205	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Scollard
+11918	PaleoDB	"M. Carrano"	cf.	Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	4205	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Scollard
+13108	PaleoDB	"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	4373	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+14458	Fossilworks	"J. Alroy"		Daspletosaurus		sp.						2237	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Campanian	75.5	75.3	Mesaverde
+14492	Fossilworks	"J. Alroy"		Albertosaurus		sp.						2602	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.5	72.5	"Judith River"
+14494	Fossilworks	"J. Alroy"		Albertosaurus		sp.						3313	Canada	Saskatchewan	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.5	80.3	"Judith River"
+14526	Fossilworks	"J. Alroy"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	6201	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14537	Fossilworks	"J. Alroy"	cf.	Gorgosaurus		sp.						66164	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14537	Fossilworks	"J. Alroy"	cf.	Tyrannosaurus		sp.						66164	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14538	Fossilworks	"J. Alroy"	cf.	Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	1239	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14557	Fossilworks	"J. Alroy"	cf.	Albertosaurus		sp.						774	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14585	Fossilworks	"J. Alroy"	cf.	Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	1239	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14599	Fossilworks	"J. Alroy"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	1226	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"North Horn"
+14610	Fossilworks	"J. Alroy"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	1984	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+14640	Fossilworks	"J. Alroy"	cf.	Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	717	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Laramie
+14674	Fossilworks	"J. Alroy"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	2333	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14674	Fossilworks	"J. Alroy"	cf.	Nanotyrannus		lancensis	cf.	Gorgosaurus		lancensis	"CMNH 7541"	2333	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+22652	ETE	"A. Behrensmeyer"		Daspletosaurus	"n. sp."	horneri		Tyrannosauridae		indet.	"MOR 590"	5724	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+22654	ETE	"A. Behrensmeyer"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	5922	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+22657	ETE	"A. Behrensmeyer"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	5721	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	82.1	81.9	"Dinosaur Park"
+22659	ETE	"A. Behrensmeyer"		Gorgosaurus		libratus		Albertosaurus		libratus	"NMC 2120"	18556	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+22689	ETE	"A. Behrensmeyer"		Daspletosaurus		sp.						14615	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		83.8	83.6	"Two Medicine"
+22689	ETE	"A. Behrensmeyer"		Daspletosaurus		horneri		Tyrannosauridae		indet.	"MOR 590"	14615	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		83.8	83.6	"Two Medicine"
+26760	PaleoDB	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	7389	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+26760	PaleoDB	"M. Carrano"	?	Nanotyrannus		sp.						7389	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+34744	ETE	"M. Carrano"		Albertosaurus		sp.						9231	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+34826	PaleoDB	"M. Carrano"	?	Albertosaurus		sp.						9303	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	71.8	71.6	Fruitland
+35289	Fossilworks	"J. Alroy"		Albertosaurus		sp.		Theropoda		indet.		9505	"United States"	Georgia	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Blufftown
+36269	Fossilworks	"J. Alroy"	aff.	Albertosaurus		sp.						59350	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.4	78.2	Kirtland
+36608	PaleoDB	"M. Carrano"		Daspletosaurus		sp.						9814	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.0	75.3	"Two Medicine"
+37006	PaleoDB	"M. Carrano"		Tarbosaurus		bataar		Tyrannosauridae		indet.	"PIN 551-1"	9902	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+37007	PaleoDB	"M. Carrano"	?	Tarbosaurus		sp.						9901	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+37007	PaleoDB	"M. Carrano"		Tarbosaurus		sp.						9901	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+37010	PaleoDB	"M. Carrano"		Tarbosaurus		sp.		Deinodontidae		indet.		9901	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+37011	PaleoDB	"M. Carrano"		Tarbosaurus		bataar		Deinodontidae		indet.	"PIN 551-1"	9901	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+37020	PaleoDB	"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	9899	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+37811	ETE	"M. Carrano"		Tarbosaurus		bataar		Theropoda	"n. sp."	indet.		65750	China	Heilongjiang	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Yuliangze
+38023	PaleoDB	"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	9900	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+38024	PaleoDB	"M. Carrano"		Tarbosaurus		bataar		Deinodontidae		indet.	"PIN 551-1"	9901	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+38078	PaleoDB	"M. Carrano"		Tyrannosaurus		sp.						10219	"Russian Federation"	Volgograd	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	
+38134	PaleoDB	"M. Carrano"	cf.	Tarbosaurus		sp.		Tyrannosauridae		indet.		43271	"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+38134	PaleoDB	"M. Carrano"	""""	Tarbosaurus		bataar	""""	Albertosaurus		periculosus	"PIN uncat."	43271	"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+38544	PaleoDB	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	10351	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+38544	PaleoDB	"M. Carrano"		Tyrannosaurus		rex		Dromaeosauridae	"n. sp."	indet.		10351	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+38696	PaleoDB	"M. Carrano"		Tarbosaurus		sp.		Tyrannosauridae		indet.		9902	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+38702	PaleoDB	"M. Carrano"		Tarbosaurus		bataar		Tyrannosauridae		indet.	"PIN 551-1"	9900	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+38703	PaleoDB	"M. Carrano"		Tarbosaurus		sp.		Tyrannosauridae		indet.		9901	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+45098	PaleoDB	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.7	"Hell Creek"
+45099	PaleoDB	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45102	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45109	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.5	66.3	"Hell Creek"
+45111	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45112	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.3	"Hell Creek"
+45114	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45118	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45126	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45128	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45136	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45138	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45141	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45144	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45145	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45146	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45299	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45312	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.3	"Hell Creek"
+45381	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45388	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.7	"Hell Creek"
+45389	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.7	"Hell Creek"
+45390	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	11749	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.7	"Hell Creek"
+45679	ETE	"M. Carrano"		Albertosaurus		sp.						17004	"United States"	Missouri	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Ripley
+45878	ETE	"M. Carrano"	"n. gen."	Tyrannosaurus	"n. sp."	rex	"n. gen."	Dynamosaurus	"n. sp."	imperiosus	"AMNH 5866"	9259	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+46163	PaleoDB	"M. Carrano"	cf.	Albertosaurus		sp.						12323	Mexico	Sonora	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Corral de Enmedio"
+47034	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	23425	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+47195	ETE	"J. Head"		Daspletosaurus		sp.						12620	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+48193	PaleoDB	"K. Johnson"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	7941	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+48847	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	54064	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+48848	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	54064	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	69.6	"Hell Creek"
+49005	ETE	"M. Carrano"	"n. gen."	Tyrannosaurus	"n. sp."	rex					"NMC 9380 =AMNH 973"	9259	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+49523	ETE	"M. Carrano"	?	Tyrannosaurus		sp.						55544	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Denver
+49523	ETE	"M. Carrano"		Tyrannosaurus		rex		Theropoda		indet.	"NMC 9380 =AMNH 973"	55544	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Denver
+49535	ETE	"M. Carrano"		Tyrannosaurus	cf.	rex					"NMC 9380 =AMNH 973"	13266	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Denver
+49538	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	51520	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Denver
+49539	ETE	"M. Carrano"		Tyrannosaurus	cf.	rex					"NMC 9380 =AMNH 973"	13266	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Denver
+49547	ETE	"M. Carrano"		Tyrannosaurus	cf.	rex					"NMC 9380 =AMNH 973"	13266	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Denver
+49800	ETE	"M. Carrano"		Tarbosaurus	"n. sp."	bataar		Tyrannosaurus	"n. sp."	luanchuanensis	"NIGP V.4733"	9256	China	Henan	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Qiupa
+51889	ETE	"M. Carrano"	"n. gen."	Nanuqsaurus	"n. sp."	hoglundi		Tyrannosauridae		indet.	"DMNH 21461"	13817	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	68	71	"Prince Creek"
+51972	ETE	"M. Carrano"	"n. gen."	Tarbosaurus	"n. sp."	bataar	"n. gen."	Tarbosaurus	"n. sp."	efremovi	"PIN 551-3"	34612	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+51972	ETE	"M. Carrano"		Tarbosaurus	"n. sp."	bataar		Tyrannosaurus	"n. sp."	bataar	"PIN 551-1"	34612	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+52481	ETE	"M. Carrano"		Gorgosaurus		libratus		Albertosaurus		libratus	"NMC 2120"	4205	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+52481	ETE	"M. Carrano"		Daspletosaurus		torosus					"NMC 8506"	4205	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+52482	ETE	"M. Carrano"		Daspletosaurus		torosus					"NMC 8506"	4205	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+52484	ETE	"M. Carrano"		Gorgosaurus		libratus		Albertosaurus		libratus	"NMC 2120"	4205	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+52485	ETE	"M. Carrano"		Albertosaurus		sarcophagus		Albertosaurus		libratus	"NMC 5600"	12314	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+52871	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	9095	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+52873	ETE	"M. Carrano"		Ornithomimus	"n. sp."	grandis						12250	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Eagle Sandstone"
+53155	ETE	"M. Carrano"	"n. gen."	Tyrannosauripus	"n. sp."	pillmorei					"CU-MWC 225.1"	29230	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Raton
+54002	ETE	"M. Carrano"		Nanotyrannus	"n. sp."	lancensis		Gorgosaurus	"n. sp."	lancensis	"CMNH 7541"	14592	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+54105	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	14627	Canada	Saskatchewan	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Frenchman
+54139	ETE	"M. Carrano"		Albertosaurus		sp.						14626	"United States"	Alabama	Cretaceous	"Late/Upper Cretaceous"		85.800	70.600	Blufftown
+55257	ETE	"M. Carrano"		Tarbosaurus		sp.						14738	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+55258	ETE	"M. Carrano"		Tarbosaurus		sp.						42291	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+55287	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	6835	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	McRae
+55353	ETE	"M. Carrano"		Tyrannosaurus		sp.						14848	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+55363	ETE	"M. Carrano"		Albertosaurus		sarcophagus					"NMC 5600"	63399	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+56614	ETE	"M. Carrano"	?	Albertosaurus		sp.						15240	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	
+57166	ETE	"M. Carrano"	cf.	Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	803	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+57178	ETE	"M. Carrano"		Tyrannosaurus	"n. sp."	zhuchengensis	cf.	Tyrannosaurus		sp.	"GMC V286, V288, V1174, V1773, V1777"	15491	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Xingezhuang
+58156	ETE	"M. Carrano"		Gorgosaurus	"n. sp."	libratus		Laelaps	"n. sp."	falculus	"AMNH 3959"	17576	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+58913	ETE	"M. Carrano"		Gorgosaurus		libratus		Gorgosaurus		sp.	"CMN 2120"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58944	ETE	"M. Carrano"		Gorgosaurus		libratus		Gorgosaurus		sp.		33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59024	ETE	"M. Carrano"		Gorgosaurus		libratus		Gorgosaurus		sp.		33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+60172	ETE	"M. Carrano"		Tyrannosaurus		sp.						17313	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+60766	ETE	"M. Carrano"		Tyrannosaurus		rex		Albertosaurus	cf.	lancensis	"CMNH 7541"	64603	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+60766	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	64603	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+61888	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	17876	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+62533	ETE	"M. Carrano"		Tyrannosaurus		sp.						46330	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland/Kirtland
+64144	ETE	"M. Carrano"		Tyrannosaurus	"n. sp."	turpanensis		Tarbosaurus		sp.		9258	China	Xinjiang	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Subashi
+64144	ETE	"M. Carrano"	"n. gen."	Tarbosaurus	"n. sp."	bataar	"n. gen."	Shanshanosaurus	"n. sp."	huoyanshanensis	"IVPP V4878"	9258	China	Xinjiang	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Subashi
+66908	ETE	"M. Carrano"	?	Albertosaurus		sp.						19041	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+68045	ETE	"M. Carrano"		Daspletosaurus		sp.						19504	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+69210	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	19952	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Javelina
+69624	ETE	"M. Carrano"	?	Tyrannosaurus		sp.		Tyrannosauridae		indet.		46207	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+69801	ETE	"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	14285	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+73437	ETE	"M. Carrano"		Tarbosaurus	"n. sp."	bataar		Gorgosaurus	"n. sp."	lancinator	"PIN 553-1"	34612	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+74175	ETE	"M. Carrano"		Gorgosaurus		sp.						54013	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+74175	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	54013	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+75030	Fossilworks	"J. Alroy"		Albertosaurus		sp.						25308	Canada	Saskatchewan	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+75284	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	2236	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.4	Ferris
+75286	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	2236	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Ferris
+75432	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	2236	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75446	ETE	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	2236	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.4	Ferris
+76062	ETE	"M. Carrano"		Daspletosaurus		sp.						25756	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+84301	ETE	"M. Carrano"	"n. gen."	Lythronax	"n. sp."	argestes					"UMNH VP 20200"	28247	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wahweap
+88990	ETE	"M. Carrano"		Tyrannosaurus		sp.						29831	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+91376	ETE	"M. Carrano"	cf.	Albertosaurus		sp.						30751	Mexico	Sonora	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Corral de Enmedio"
+91377	ETE	"M. Carrano"	cf.	Albertosaurus		sp.						30751	Mexico	Sonora	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Corral de Enmedio"
+91909	ETE	"M. Carrano"	"n. gen."	Alioramus	"n. sp."	remotus					"PIN 3141/1"	19316	Mongolia	Bayankhongor	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Beds of Nogon Tsav"
+91909	ETE	"M. Carrano"		Tarbosaurus		sp.						19316	Mongolia	Bayankhongor	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Beds of Nogon Tsav"
+94370	ETE	"M. Carrano"		Albertosaurus		sp.						4218	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+96815	ETE	"M. Carrano"	"n. gen."	Zhuchengtyrannus	"n. sp."	magnus					"Zhucheng Dinosaur Museum (ZCDM) V0031"	32999	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Xingezhuang
+97297	ETE	"M. Carrano"	"n. gen."	Yezosaurus	"n. sp."	mikasaensis						33186	Japan	Hokkaido	Cretaceous	"Late/Upper Cretaceous"	Santonian	85.800	84.900	
+100266	ETE	"M. Carrano"		Tarbosaurus		sp.		Theropoda		indet.		42293	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+100268	ETE	"M. Carrano"		Tarbosaurus		sp.						55060	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+106277	PaleoDB	"M. Carrano"		Gorgosaurus		sp.		Aublysodon		sp.		35424	"United States"	"North Carolina"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+113009	ETE	"M. Carrano"		Alioramus	"n. sp."	altai						36719	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+126797	PaleoDB	"M. Carrano"		Tarbosaurus		sp.						29188	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+127670	ETE	"R. Benson"		Tarbosaurus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+127671	ETE	"R. Benson"		Tarbosaurus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+127674	PaleoDB	"R. Benson"		Tarbosaurus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+127679	ETE	"R. Benson"		Tarbosaurus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+127681	PaleoDB	"R. Benson"		Tarbosaurus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+127682	ETE	"R. Benson"		Tarbosaurus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+137722	PaleoDB	"R. Benson"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	42536	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+137728	PaleoDB	"R. Benson"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	42536	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+137833	PaleoDB	"R. Benson"	"n. gen."	Teratophoneus	"n. sp."	curriei					"BYU 8120/9396, 8120/9397, 826/9402, 9398, 13719"	35113	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kaiparowits
+142325	PaleoDB	"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	46207	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+142753	PaleoDB	"M. Carrano"	?	Tyrannosaurus		sp.						46330	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+147070	PaleoDB	"P. Mannion"	"n. gen."	Alioramus	"n. sp."	sinensis	"n. gen."	Qianzhousaurus	"n. sp."	sinensis	"GM F10004-1"	47488	China	Jiangxi	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nanxiong
+152248		"M. Uhen"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	48939	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+152268		"M. Carrano"		Albertosaurus		sarcophagus					"NMC 5600"	70928	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+152270		"M. Carrano"	cf.	Albertosaurus		sp.						48570	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+155214		"P. Mannion"		Tyrannosaurus		sp.						50612	Mexico	Sonora	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Lomas Coloradas"
+155992		"G. Lloyd"		Teratophoneus		curriei					"BYU 8120/9396, 8120/9397, 826/9402, 9398, 13719"	51074	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.46	75.51	Kaiparowits
+157187		"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	51520	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+157188		"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	17477	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Willow Creek"
+157189		"M. Carrano"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	51520	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+162145		"M. Carrano"		Daspletosaurus	informal	"n. sp."						52782	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+162855		"M. Carrano"		Tyrannosaurus		sp.						53020	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+165580		"M. Carrano"		Tarbosaurus	"n. sp."	bataar		Gorgosaurus	"n. sp."	novojilovi	"PIN 552-2"	34612	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+167468		"M. Carrano"	cf.	Gorgosaurus		sp.						54639	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Sedan
+167660		"M. Carrano"		Daspletosaurus		sp.		Gorgosaurus		sp.		63705	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+168809		"M. Carrano"		Tarbosaurus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+168810		"M. Carrano"		Tarbosaurus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+179625		"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	59136	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+180680		"M. Carrano"		Tarbosaurus		bataar		Tarbosaurus		sp.	"PIN 551-1"	9900	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180681		"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	9900	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180682		"M. Carrano"		Tarbosaurus		bataar		Tarbosaurus		sp.	"PIN 551-1"	9900	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180684		"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	10453	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180699		"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	10453	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180700		"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	10453	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180710		"M. Carrano"		Tarbosaurus		bataar					"PIN 551-1"	10453	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180812		"M. Carrano"		Tarbosaurus		bataar		Tarbosaurus		sp.	"PIN 551-1"	9900	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180813		"M. Carrano"		Tarbosaurus		bataar		Tarbosaurus		sp.	"PIN 551-1"	9900	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+183109		"P. Holroyd"		Tyrannosaurus		rex					"NMC 9380 =AMNH 973"	61095	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+184945		"M. Carrano"		Daspletosaurus		horneri					"MOR 590"	62031	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+189003		"P. Mannion"		Tyrannosaurus		sp.						63480	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+192251		"P. Holroyd"	cf.	Tyrannosaurus		sp.						66164	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+204724		"M. Carrano"		Albertosaurus		sarcophagus					"NMC 5600"	70928	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+206395		"M. Carrano"		Albertosaurus		sarcophagus					"NMC 5600"	70928	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+206396		"M. Carrano"		Albertosaurus		sarcophagus					"NMC 5600"	70928	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+206397		"M. Carrano"		Albertosaurus		sarcophagus					"NMC 5600"	70928	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+206399		"M. Carrano"		Albertosaurus		sarcophagus					"NMC 5600"	70928	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"

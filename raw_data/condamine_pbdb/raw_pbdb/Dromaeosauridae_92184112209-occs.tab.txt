@@ -1,0 +1,493 @@
+collection_no	source_database	collection.authorizer	occurrence.genus_reso	occurrence.genus_name	occurrence.species_reso	occurrence.species_name	original.genus_reso	original.genus_name	original.species_reso	original.species_name	type_specimen	country	state	period	epoch	stage	ma_max	ma_min	formation
+11582	PaleoDB	"E. Fara"		Velociraptor		sp.						Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Baruungoyot
+13334	PaleoDB	"M. Carrano"		Balaur		bondoc		Theropoda		indet.	"EME PV.313"	Romania	Hunedoara	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Densus-Ciula
+13937	PaleoDB	"W. Clyde"	"n. gen."	Tianyuraptor	"n. sp."	ostromi					STM1-3	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Barremian	130.000	125.450	Yixian
+14374	Fossilworks	"J. Alroy"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Oklahoma	Cretaceous	"Early/Lower Cretaceous"		122.460	109.000	Antlers
+14379	Fossilworks	"J. Alroy"		Deinonychus		sp.						"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Cloverly
+14392	Fossilworks	"J. Alroy"	cf.	Deinonychus		sp.						"United States"	Oklahoma	Cretaceous	"Early/Lower Cretaceous"		122.460	109.000	Antlers
+14392	Fossilworks	"J. Alroy"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Oklahoma	Cretaceous	"Early/Lower Cretaceous"		122.460	109.000	Antlers
+14396	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Utah	Cretaceous			98.8	98.0	"Cedar Mountain"
+14403	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Utah	Cretaceous			98.8	98.0	"Cedar Mountain"
+14434	Fossilworks	"J. Alroy"		Dromaeosaurus		albertensis					"AMNH 5356"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14434	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14434	Fossilworks	"J. Alroy"		Richardoestesia		gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14437	Fossilworks	"J. Alroy"		Richardoestesia		gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	80.7	"Judith River"
+14437	Fossilworks	"J. Alroy"		Dromaeosaurus		albertensis					"AMNH 5356"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	80.7	"Judith River"
+14437	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	80.7	"Judith River"
+14457	Fossilworks	"J. Alroy"		Richardoestesia		gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14457	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14458	Fossilworks	"J. Alroy"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Campanian	75.5	75.3	Mesaverde
+14458	Fossilworks	"J. Alroy"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Campanian	75.5	75.3	Mesaverde
+14462	Fossilworks	"J. Alroy"		Dromaeosaurus		albertensis		Dromaeosaurus		sp.	"AMNH 5356"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14462	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni		Saurornitholestes		sp.	"RTMP 74.10.5"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14462	Fossilworks	"J. Alroy"		Richardoestesia		gilmorei		Richardoestesia		sp.	"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14463	Fossilworks	"J. Alroy"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	74.7	74.5	"Dinosaur Park"
+14463	Fossilworks	"J. Alroy"		Hesperonychus		elizabethae					"UALVP 48778"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	74.7	74.5	"Dinosaur Park"
+14465	Fossilworks	"J. Alroy"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Mesaverde
+14482	Fossilworks	"J. Alroy"		Saurornitholestes		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.0	77.8	"Judith River"
+14488	Fossilworks	"J. Alroy"		Saurornitholestes	cf.	langstoni					"RTMP 74.10.5"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+14488	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+14488	Fossilworks	"J. Alroy"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+14489	Fossilworks	"J. Alroy"		Saurornitholestes	cf.	langstoni	cf.	Saurornitholestes		sp.	"RTMP 74.10.5"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.4	76.2	Aguja
+14489	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei	cf.	Richardoestesia		sp.	"NMC 343"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.4	76.2	Aguja
+14490	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14505	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	67.3	67.1	Lance
+14507	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14508	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14514	Fossilworks	"J. Alroy"		Dromaeosaurus		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14515	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+14519	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14521	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14525	Fossilworks	"J. Alroy"		Richardoestesia	cf.	isosceles					"LSUMGS 489:6238"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14535	Fossilworks	"J. Alroy"	cf.	Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14536	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14537	Fossilworks	"J. Alroy"	cf.	Dromaeosaurus		sp.						"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14540	Fossilworks	"J. Alroy"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14540	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14541	Fossilworks	"J. Alroy"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14542	Fossilworks	"J. Alroy"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14543	Fossilworks	"J. Alroy"		Dromaeosaurus		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14543	Fossilworks	"J. Alroy"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14543	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14544	Fossilworks	"J. Alroy"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14546	Fossilworks	"J. Alroy"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	67.5	"Hell Creek"
+14548	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14549	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	67.7	67.5	"Hell Creek"
+14549	Fossilworks	"J. Alroy"		Richardoestesia	cf.	isosceles					"LSUMGS 489:6238"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	67.7	67.5	"Hell Creek"
+14549	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	67.7	67.5	"Hell Creek"
+14560	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14566	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14568	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14574	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14575	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14577	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14580	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14582	Fossilworks	"J. Alroy"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14585	Fossilworks	"J. Alroy"	cf.	Zapsalis		sp.		Dromaeosauridae		indet.		"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14585	Fossilworks	"J. Alroy"		Richardoestesia	cf.	isosceles					"LSUMGS 489:6238"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14596	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14605	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14610	Fossilworks	"J. Alroy"		Saurornitholestes		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+14610	Fossilworks	"J. Alroy"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+14616	Fossilworks	"J. Alroy"		Richardoestesia	cf.	isosceles					"LSUMGS 489:6238"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14617	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14623	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14624	Fossilworks	"J. Alroy"		Richardoestesia	cf.	isosceles					"LSUMGS 489:6238"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14629	Fossilworks	"J. Alroy"	cf.	Zapsalis		sp.	cf.	Paronychodon		lacustris		"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14639	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14647	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14650	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14653	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	68.6	66.3	"Hell Creek"
+22657	ETE	"A. Behrensmeyer"		Velociraptor		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	82.1	81.9	"Dinosaur Park"
+22659	ETE	"A. Behrensmeyer"		Dromaeosaurus		albertensis					"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+22659	ETE	"A. Behrensmeyer"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+22685	ETE	"A. Behrensmeyer"		Velociraptor		mongoliensis					"AMNH 6515"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+22689	ETE	"A. Behrensmeyer"		Richardoestesia		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		83.8	83.6	"Two Medicine"
+22689	ETE	"A. Behrensmeyer"	cf.	Bambiraptor		feinbergi					"FIP 001"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		83.8	83.6	"Two Medicine"
+22689	ETE	"A. Behrensmeyer"		Saurornitholestes		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		83.8	83.6	"Two Medicine"
+22695	ETE	"A. Behrensmeyer"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22695	ETE	"A. Behrensmeyer"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22695	ETE	"A. Behrensmeyer"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22696	ETE	"A. Behrensmeyer"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22696	ETE	"A. Behrensmeyer"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22697	ETE	"A. Behrensmeyer"		Richardoestesia		isosceles		Richardoestesia		sp.	"LSUMGS 489:6238"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+22697	ETE	"A. Behrensmeyer"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+22697	ETE	"A. Behrensmeyer"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+22697	ETE	"A. Behrensmeyer"		Zapsalis		abradens					"AMNH 3953"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+22697	ETE	"A. Behrensmeyer"		Hesperonychus		elizabethae					"UALVP 48778"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+22697	ETE	"A. Behrensmeyer"		Zapsalis		abradens		Paronychodon		sp.	"AMNH 3953"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+22697	ETE	"A. Behrensmeyer"		Dromaeosaurus		albertensis		Dromaeosaurus		sp.	"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+22697	ETE	"A. Behrensmeyer"		Zapsalis		abradens	cf.	Dromaeosauridae		indet.	"AMNH 3953"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+22698	ETE	"A. Behrensmeyer"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22698	ETE	"A. Behrensmeyer"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22698	ETE	"A. Behrensmeyer"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22699	ETE	"A. Behrensmeyer"		Boreonykus		certekorum		Dromaeosauridae		indet.	"TMP 1989.055.0047"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wapiti
+22699	ETE	"A. Behrensmeyer"	"n. gen."	Boreonykus	"n. sp."	certekorum		Saurornitholestes		sp.	"TMP 1989.055.0047"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wapiti
+24563	ETE	"A. Rees"	cf.	Richardoestesia		sp.						Portugal	Leiria	Jurassic	"Late/Upper Jurassic"	Kimmeridgian	155.700	150.800	Alcobaça
+24894	PaleoDB	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+24894	PaleoDB	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+24894	PaleoDB	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+24924	Fossilworks	"J. Alroy"	cf.	Saurornitholestes		sp.						"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Menefee
+25073	PaleoDB	"M. Carrano"	cf.	Saurornitholestes		sp.						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Aguja
+25074	PaleoDB	"M. Carrano"	"n. gen."	Rahonavis	"n. sp."	ostromi	"n. gen."	Rahona	"n. sp."	ostromi	"University of Antananarivo 8656"	Madagascar	Mahajanga	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Maevarano
+25074	PaleoDB	"M. Carrano"	?	Rahonavis		ostromi					"University of Antananarivo 8656"	Madagascar	Mahajanga	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Maevarano
+25658	Fossilworks	"J. Alroy"		Saurornitholestes		sp.		Dromaeosauridae		indet.		"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+26760	PaleoDB	"M. Carrano"	?	Dromaeosaurus		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+26760	PaleoDB	"M. Carrano"	?	Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+26760	PaleoDB	"M. Carrano"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+27017	PaleoDB	"M. Carrano"	"n. gen."	Utahraptor	"n. sp."	ostrommaysi					"CEUM 184"	"United States"	Utah	Cretaceous	"Early/Lower Cretaceous"	Barremian	130.000	125.450	"Cedar Mountain"
+27025	PaleoDB	"M. Carrano"		Utahraptor		ostrommaysi					"CEUM 184"	"United States"	Utah	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	122.460	"Cedar Mountain"
+27894	ETE	"M. Carrano"	cf.	Richardoestesia		sp.						Romania	Hunedoara	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Sânpetru
+28401	Fossilworks	"J. Alroy"	cf.	Nuthetes		destructor					"DORCM G913"	"United Kingdom"	England	Cretaceous	"Early/Lower Cretaceous"	Berriasian	145.500	140.200	Lulworth
+28454	PaleoDB	"M. Carrano"	"n. gen."	Variraptor	"n. sp."	mechinorum					"MÃ©chin Collection"	France	"Provence-Alpes-Côte d'Azur"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Argiles et Grès à Reptiles"
+28455	PaleoDB	"M. Carrano"		Variraptor		mechinorum		Dromaeosauridae		indet.	"MÃ©chin Collection"	France	Bouches-du-Rhône	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Grès à Reptiles"
+28765	Fossilworks	"J. Alroy"	?	Pyroraptor		olympius					"MNHN BO001"	Spain	"Castilla y Leon"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Vitoria
+28765	Fossilworks	"J. Alroy"	?	Richardoestesia		sp.						Spain	"Castilla y Leon"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Vitoria
+28995	Fossilworks	"J. Alroy"	cf.	Nuthetes		destructor					"DORCM G913"	"United Kingdom"	England	Cretaceous	"Early/Lower Cretaceous"	Berriasian	145.500	140.200	Lulworth
+34305	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+34307	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+34309	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+34315	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+34320	Fossilworks	"J. Alroy"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+34744	ETE	"M. Carrano"		Richardoestesia	cf.	gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+34746	PaleoDB	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Cloverly
+36269	Fossilworks	"J. Alroy"	cf.	Saurornitholestes		sp.						"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.4	78.2	Kirtland
+36608	PaleoDB	"M. Carrano"		Saurornitholestes		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.0	75.3	"Two Medicine"
+36727	PaleoDB	"M. Carrano"	?	Richardoestesia		sp.	?	Dromaeosaurinae	informal	"indet. 4"		Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"La Posa"
+36727	PaleoDB	"M. Carrano"	?	Pyroraptor		olympius		Dromaeosauridae	informal	"indet. 3"	"MNHN BO001"	Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"La Posa"
+36728	PaleoDB	"M. Carrano"	?	Richardoestesia		sp.		Dromaeosauridae	informal	"indet. 4"		Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"La Posa"
+36731	PaleoDB	"M. Carrano"	cf.	Richardoestesia		sp.						Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"La Posa"
+37184	Fossilworks	"J. Alroy"		Velociraptor		mongoliensis					"AMNH 6515"	Mongolia	"Omnogov Aimak"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+37184	Fossilworks	"J. Alroy"	cf.	Velociraptor		sp.						Mongolia	"Omnogov Aimak"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+38134	PaleoDB	"M. Carrano"		Richardoestesia	informal	"sp. 2"						"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+38134	PaleoDB	"M. Carrano"	cf.	Dromaeosaurus		sp.		Dromaeosauridae		indet.		"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+38134	PaleoDB	"M. Carrano"	cf.	Saurornitholestes		sp.						"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+38134	PaleoDB	"M. Carrano"		Richardoestesia	informal	"sp. 1"						"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+38677	PaleoDB	"M. Carrano"	cf.	Richardoestesia		sp.						Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Arén
+45090	ETE	"M. Carrano"	"n. gen."	Tsaagan	"n. sp."	mangas					"IGM 100/1015"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+45098	PaleoDB	"M. Carrano"		Saurornitholestes		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.7	"Hell Creek"
+45098	PaleoDB	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.7	"Hell Creek"
+45099	PaleoDB	"M. Carrano"		Saurornitholestes		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45099	PaleoDB	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45102	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45102	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45109	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.5	66.3	"Hell Creek"
+45110	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.5	66.3	"Hell Creek"
+45111	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45111	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45112	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.3	"Hell Creek"
+45113	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45114	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45118	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45118	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45120	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.3	"Hell Creek"
+45122	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45128	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45130	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45136	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+45144	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45145	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45238	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45238	Fossilworks	"J. Alroy"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45240	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+45240	Fossilworks	"J. Alroy"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+45240	Fossilworks	"J. Alroy"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+45260	Fossilworks	"J. Alroy"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45260	Fossilworks	"J. Alroy"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45260	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45261	Fossilworks	"J. Alroy"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45261	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45262	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45264	Fossilworks	"J. Alroy"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45264	Fossilworks	"J. Alroy"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45264	Fossilworks	"J. Alroy"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45299	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.3	"Hell Creek"
+45390	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.7	"Hell Creek"
+45391	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	66.7	"Hell Creek"
+45437	ETE	"M. Carrano"	?	Richardoestesia		sp.	cf.	Dromaeosauridae	informal	"indet. 4"		Spain	Aragón	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Conques
+45437	ETE	"M. Carrano"	?	Richardoestesia		sp.	cf.	Dromaeosauridae	informal	"indet. 7"		Spain	Aragón	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Conques
+45560	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Foremost
+45561	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Foremost
+45561	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Foremost
+45564	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	81.1	Foremost
+45564	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	81.1	Foremost
+45565	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45565	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45566	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45566	ETE	"M. Carrano"		Richardoestesia		isosceles		Aves		indet.	"LSUMGS 489:6238"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45566	ETE	"M. Carrano"		Richardoestesia	cf.	gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45567	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45670	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45671	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.1	76.2	Oldman
+45671	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.1	76.2	Oldman
+45674	ETE	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45674	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45674	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45684	ETE	"M. Carrano"	"n. gen."	Richardoestesia	"n. sp."	gilmorei		Chirostenotes		pergracilis	"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	"Dinosaur Park"
+45819	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45819	ETE	"M. Carrano"		Richardoestesia	cf.	gilmorei		Richardoestesia		gilmorei	"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45819	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45820	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45821	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45821	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45822	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.1	76.2	Oldman
+45892	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45892	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45893	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45894	ETE	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	Oldman
+45894	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	Oldman
+45894	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	Oldman
+45897	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45897	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45898	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	Oldman
+45898	ETE	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	Oldman
+45898	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	Oldman
+45899	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+46152	ETE	"M. Carrano"	"n. gen."	Velociraptor	"n. sp."	mongoliensis	"n. gen."	Ovoraptor	"n. sp."	djadochtari	"AMNH 6515"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+46953	PaleoDB	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46958	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46959	ETE	"M. Carrano"		Itemirus		medullaris					"PIN 327/699"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Bissekty
+47189	PaleoDB	"J. Head"		Saurornitholestes	"n. sp."	sullivani		Saurornitholestes		langstoni	"SMP VP-1270"	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Kirtland
+47346	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+47784	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+47784	PaleoDB	"R. Whatley"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+47791	PaleoDB	"R. Whatley"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+47793	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+47794	PaleoDB	"R. Whatley"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47794	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47794	PaleoDB	"R. Whatley"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47795	PaleoDB	"R. Whatley"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47795	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47795	PaleoDB	"R. Whatley"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47807	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+47809	PaleoDB	"R. Whatley"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47809	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47811	PaleoDB	"R. Whatley"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+47811	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+47812	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+47812	PaleoDB	"R. Whatley"		Dromaeosaurus		albertensis		Dromaeosaurus		sp.	"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+47814	PaleoDB	"R. Whatley"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+47814	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+47816	PaleoDB	"R. Whatley"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+47816	PaleoDB	"R. Whatley"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+47816	PaleoDB	"R. Whatley"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+48174	ETE	"M. Carrano"	"n. gen."	Neuquenraptor	"n. sp."	argentinus		Maniraptora		indet.	"MCF-PVPH 77"	Argentina	Neuquén	Cretaceous	"Late/Upper Cretaceous"		94.300	85.800	Portezuelo
+48686	ETE	"M. Carrano"		Hesperonychus		elizabethae					"UALVP 48778"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+48849	ETE	"M. Carrano"	"n. gen."	Pyroraptor	"n. sp."	olympius					"MNHN BO001"	France	"Provence-Alpes-Côte d'Azur"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	
+48850	ETE	"M. Carrano"	cf.	Variraptor		mechinorum		Theropoda		indet.	"MÃ©chin Collection"	France	Languedoc-Roussillon	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Marnes Rouges Inférieures"
+48864	ETE	"M. Carrano"	cf.	Saurornitholestes		sp.						France	"Provence-Alpes-Côte d'Azur"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	
+49415	ETE	"M. Carrano"		Unenlagia	"n. sp."	paynemili		Unenlagia		sp.	MUCPv-349	Argentina	Neuquén	Cretaceous	"Late/Upper Cretaceous"		94.300	85.800	Portezuelo
+49557	ETE	"M. Carrano"	"n. gen."	Austroraptor	"n. sp."	cabazai		Deinonychosauria		indet.	MML-195	Argentina	"Río Negro"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Allen
+50352	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Cloverly
+50355	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"		100.6	99.7	Cloverly
+50475	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	112.600	99.700	Cloverly
+50483	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50484	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	112.600	99.700	Cloverly
+50486	ETE	"M. Carrano"	?	Deinonychus		sp.						"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"	Albian	102.3	101.4	Cloverly
+50488	ETE	"M. Carrano"	?	Deinonychus		sp.						"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50491	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50496	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50498	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50525	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50531	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50539	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50540	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50686	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"		100.6	99.7	Cloverly
+50688	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Cloverly
+50697	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50699	ETE	"M. Carrano"		Deinonychus		sp.						"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	112.600	99.700	Cloverly
+50706	ETE	"M. Carrano"	?	Deinonychus		sp.						"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50707	ETE	"M. Carrano"	"n. gen."	Deinonychus	"n. sp."	antirrhopus		Theropoda		indet.	"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+50729	PaleoDB	"M. Carrano"	cf.	Velociraptor		mongoliensis	cf.	Velociraptor		mongoliense	"AMNH 6515"	China	"Nei Mongol"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Minhe
+51033	ETE	"M. Carrano"		Velociraptor		mongoliensis					"AMNH 6515"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+51033	ETE	"M. Carrano"	"n. gen."	Mahakala	"n. sp."	omnogovae					"IGM 100/1033"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+51682	ETE	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	73.3	"Judith River"
+51888	ETE	"M. Carrano"		Dromaeosaurus		albertensis		Alectrosaurus		sp.	"AMNH 5356"	"United States"	Alaska	Cretaceous			109.000	94.300	Nanushuk
+51889	ETE	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	68	71	"Prince Creek"
+51890	ETE	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Prince Creek"
+51891	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"		81.3	76.2	"Prince Creek"
+51893	ETE	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"		80.9	73.3	"Prince Creek"
+52254	ETE	"M. Carrano"	"n. gen."	Nuthetes	"n. sp."	destructor					"DORCM G913"	"United Kingdom"	England	Cretaceous	"Early/Lower Cretaceous"	Berriasian	145.500	140.200	Lulworth
+52436	ETE	"M. Carrano"		Deinonychus		sp.						"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+52475	ETE	"M. Carrano"	"n. gen."	Dromaeosaurus	"n. sp."	albertensis					"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+52888	ETE	"M. Carrano"	"n. gen."	Sinornithosaurus	"n. sp."	millenii					"IVPP V.12811"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125	125	Yixian
+52991	ETE	"M. Carrano"		Hesperonychus		elizabethae					"UALVP 48778"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+52991	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+52991	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+53049	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	Oldman
+53049	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	Oldman
+53049	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	Oldman
+53050	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	Oldman
+53050	ETE	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	Oldman
+53132	ETE	"M. Carrano"		Velociraptor	cf.	mongoliensis					"AMNH 6515"	Tajikistan	Asht	Cretaceous	"Late/Upper Cretaceous"		89.300	84.900	Dabrazhin
+53493	PaleoDB	"R. Whatley"	"n. gen."	Graciliraptor	"n. sp."	lujiatunensis					"IVPP V13474"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	122.460	Yixian
+54105	ETE	"M. Carrano"	?	Dromaeosaurus		sp.						Canada	Saskatchewan	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Frenchman
+55246	ETE	"M. Carrano"		Deinonychus		sp.						"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	100.6	99.7	Cloverly
+55256	ETE	"M. Carrano"		Velociraptor		mongoliensis		Velociraptor		sp.	"AMNH 6515"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+55272	ETE	"M. Carrano"	"n. gen."	Unenlagia	"n. sp."	comahuensis		Maniraptora		indet.	"MCF-PVPH 78"	Argentina	Neuquén	Cretaceous	"Late/Upper Cretaceous"		94.300	85.800	Portezuelo
+55363	ETE	"M. Carrano"		Richardoestesia	cf.	gilmorei		Richardoestesia		sp.	"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+55363	ETE	"M. Carrano"		Atrociraptor		marshalli		Dromaeosauridae		indet.	"TMP 95.166.1"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+55364	ETE	"M. Carrano"	"n. gen."	Buitreraptor	"n. sp."	gonzalezorum					"MPCA 245"	Argentina	"Río Negro"	Cretaceous	"Late/Upper Cretaceous"	Cenomanian	99.700	94.300	Candeleros
+55426	ETE	"M. Carrano"		Microraptor		zhaoianus					"IVPP V.12330"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+55536	ETE	"M. Carrano"		Microraptor	"n. sp."	gui					"IVPP V.13352"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+55708	ETE	"M. Carrano"	"n. gen."	Microraptor	"n. sp."	zhaoianus	"n. gen."	Archaeoraptor	"n. sp."	liaoningensis	"IVPP V12330"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+55708	ETE	"M. Carrano"	"n. gen."	Microraptor	"n. sp."	zhaoianus					"IVPP V.12330"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+55758	ETE	"M. Carrano"	"n. gen."	Achillobator	"n. sp."	giganticus		Dromaeosauridae		indet.	MNUFR-15	Mongolia	Dornogov	Cretaceous	"Late/Upper Cretaceous"		99.700	84.900	Baynshire
+58159	ETE	"M. Carrano"		Itemirus		medullaris					"PIN 327/699"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Bissekty
+58166	ETE	"M. Carrano"		Itemirus		medullaris					"PIN 327/699"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Bissekty
+58168	ETE	"M. Carrano"		Itemirus		medullaris					"PIN 327/699"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Bissekty
+58168	ETE	"M. Carrano"		Richardoestesia	"n. sp."	asiatica					"CCMGE 460/12457"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Bissekty
+58196	ETE	"M. Carrano"		Richardoestesia		sp.						"Russian Federation"	Buryat	Cretaceous	"Early/Lower Cretaceous"		130.000	112.600	Murtoi
+59068	ETE	"M. Carrano"	cf.	Richardoestesia		sp.		Richardoestesia		sp.		"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Ojo Alamo"
+59113	ETE	"M. Carrano"	"n. gen."	Saurornitholestes	"n. sp."	langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	"Dinosaur Park"
+59139	ETE	"M. Carrano"		Saurornitholestes		langstoni		Theropoda		indet.	"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	"Dinosaur Park"
+59224	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	"Dinosaur Park"
+59378	ETE	"M. Carrano"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.8	75.3	Foremost
+60563	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+61319	ETE	"M. Carrano"	cf.	Richardoestesia		sp.						Spain	Cuenca	Cretaceous	"Early/Lower Cretaceous"	Barremian	130.000	125.450	"La Huérguina"
+61468	ETE	"M. Carrano"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+61469	ETE	"M. Carrano"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+61471	ETE	"M. Carrano"		Saurornitholestes		langstoni		Theropoda		indet.	"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+61493	ETE	"M. Carrano"		Saurornitholestes		langstoni		Theropoda		indet.	"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+61843	ETE	"M. Carrano"	"n. gen."	Bambiraptor	"n. sp."	feinbergi					"FIP 001"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+61930	ETE	"M. Carrano"		Nuthetes		sp.						France	Poitou-Charentes	Cretaceous	"Early/Lower Cretaceous"	Berriasian	145.500	140.200	
+62927	ETE	"M. Carrano"		Velociraptor		mongoliensis		Dromaeosauridae		indet.	"AMNH 6515"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+62928	ETE	"M. Carrano"		Velociraptor		mongoliensis					"AMNH 6515"	Mongolia	Omngov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+65327	ETE	"M. Carrano"		Velociraptor		sp.						Mongolia	Dornogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Baruungoyot
+65347	ETE	"M. Carrano"	"n. gen."	Adasaurus	"n. sp."	mongoliensis					"IGM 100/20"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+67611	ETE	"M. Carrano"		Sinornithosaurus	"n. sp."	haoiana					D2140	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	122.460	Yixian
+67869	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67869	ETE	"M. Carrano"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67870	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67871	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67871	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67872	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67872	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67873	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67873	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67874	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67874	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67877	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67877	ETE	"M. Carrano"	?	Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67879	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+67879	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+67880	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+67881	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67881	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67882	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67883	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67884	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+67885	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Saskatchewan	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67892	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+67893	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67893	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67893	ETE	"M. Carrano"		Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67894	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67894	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+68001	PaleoDB	"M. Carrano"		Richardoestesia	cf.	gilmorei					"NMC 343"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68001	PaleoDB	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68002	PaleoDB	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68002	PaleoDB	"M. Carrano"		Saurornitholestes		sp.						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68002	PaleoDB	"M. Carrano"		Saurornitholestes	cf.	langstoni					"RTMP 74.10.5"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68003	PaleoDB	"M. Carrano"		Richardoestesia	"n. sp."	isosceles					"LSUMGS 489:6238"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68003	PaleoDB	"M. Carrano"		Saurornitholestes	cf.	langstoni		Richardoestesia		isosceles	"RTMP 74.10.5"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68003	PaleoDB	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68003	PaleoDB	"M. Carrano"		Richardoestesia		isosceles		Richardoestesia	cf.	gilmorei	"LSUMGS 489:6238"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68003	PaleoDB	"M. Carrano"	cf.	Richardoestesia		sp.						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68006	PaleoDB	"M. Carrano"		Saurornitholestes	cf.	langstoni					"RTMP 74.10.5"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68006	PaleoDB	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68007	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Aguja
+68008	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Aguja
+68008	ETE	"M. Carrano"		Saurornitholestes	cf.	langstoni					"RTMP 74.10.5"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Aguja
+68009	ETE	"M. Carrano"		Saurornitholestes	cf.	langstoni					"RTMP 74.10.5"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Javelina
+68009	ETE	"M. Carrano"		Saurornitholestes	informal	"sp. A"						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Javelina
+68010	ETE	"M. Carrano"		Saurornitholestes	informal	"sp. C"						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Javelina
+68011	ETE	"M. Carrano"		Saurornitholestes	cf.	langstoni					"RTMP 74.10.5"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Javelina
+68011	ETE	"M. Carrano"		Saurornitholestes	informal	"sp. B"						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Javelina
+68014	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68014	ETE	"M. Carrano"		Saurornitholestes	cf.	langstoni					"RTMP 74.10.5"	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Aguja
+68331	ETE	"M. Carrano"	"n. gen."	Dromaeosauroides	"n. sp."	bornholmensis					"MGUH 27218/DK 315"	Denmark	Bornholm	Cretaceous	"Early/Lower Cretaceous"	Berriasian	145.500	140.200	Jydegaard
+69693	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Albian	112.600	99.700	Cloverly
+70140	ETE	"M. Carrano"	"n. gen."	Shanag	"n. sp."	ashile					"IGM 100/1119"	Mongolia	Ovorkhangai	Cretaceous	"Early/Lower Cretaceous"		145.500	99.700	Öösh
+70343	Fossilworks	"J. Alroy"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+70343	Fossilworks	"J. Alroy"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+71487	ETE	"M. Carrano"	?	Dromaeosaurus		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	
+71840	PaleoDB	"M. Carrano"	cf.	Velociraptor		mongoliensis					"AMNH 6515"	China	Shanxi	Cretaceous	"Late/Upper Cretaceous"		99.700	66.043	Zouyun
+72142	ETE	"M. Carrano"		Nuthetes		destructor					"DORCM G913"	"United Kingdom"	England	Cretaceous	"Early/Lower Cretaceous"	Berriasian	145.500	140.200	Lulworth
+73612	ETE	"M. Carrano"		Richardoestesia	cf.	isosceles					"LSUMGS 489:6238"	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Cenomanian	95.3	94.5	"Cedar Mountain"
+75280	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75280	ETE	"M. Carrano"		Dromaeosaurus		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75287	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.4	Ferris
+75287	ETE	"M. Carrano"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.4	Ferris
+75296	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75297	PaleoDB	"M. Carrano"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.4	Ferris
+75429	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75431	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.0	Ferris
+75432	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75432	ETE	"M. Carrano"		Richardoestesia		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75443	ETE	"M. Carrano"		Dromaeosaurus		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.4	Ferris
+75447	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75943	ETE	"M. Carrano"	"n. gen."	Itemirus	"n. sp."	medullaris					"PIN 327/699"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Bissekty
+76030	Fossilworks	"J. Alroy"		Richardoestesia		isosceles					"LSUMGS 489:6238"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+76062	ETE	"M. Carrano"	cf.	Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+76105	ETE	"M. Carrano"		Saurornitholestes	"n. sp."	robustus					"SMP VP-1955"	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+76106	ETE	"M. Carrano"		Saurornitholestes		robustus					"SMP VP-1955"	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+76107	ETE	"M. Carrano"		Saurornitholestes		robustus					"SMP VP-1955"	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+76752	PaleoDB	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+76752	PaleoDB	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+77058	ETE	"M. Carrano"		Nuthetes		sp.						"United Kingdom"	England	Cretaceous	"Early/Lower Cretaceous"	Berriasian	145.500	140.200	
+77259	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+79363	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	"United States"	"South Carolina"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Donoho Creek"
+79518	ETE	"M. Carrano"	?	Microraptor		sp.	?	Cryptovolans		sp.		China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+79518	ETE	"M. Carrano"		Microraptor		zhaoianus	"n. gen."	Dromaeosauridae	"n. sp."	indet.		China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+79941	ETE	"M. Carrano"		Microraptor		sp.						China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+82635	PaleoDB	"M. Uhen"	cf.	Saurornitholestes		sp.						"United States"	Alabama	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Mooreville Chalk"
+83719	ETE	"M. Carrano"		Velociraptor	"n. sp."	osmolskae					"IMM 99NM-BYM-3/3"	China	"Nei Mongol"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Bayan Mandahu"
+84996	Fossilworks	"J. Alroy"	"n. gen."	Luanchuanraptor	"n. sp."	henanensis						China	Henan	Cretaceous	"Late/Upper Cretaceous"		99.700	66.043	Qiupa
+85498	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+85498	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+85498	ETE	"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+85499	ETE	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+85499	ETE	"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+89605	ETE	"M. Carrano"		Richardoestesia		gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wapiti
+89605	ETE	"M. Carrano"		Saurornitholestes		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wapiti
+90926	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Maryland	Cretaceous	"Early/Lower Cretaceous"	Aptian	122.460	112.600	"Arundel Clay"
+90926	ETE	"M. Carrano"		Deinonychus		sp.						"United States"	Maryland	Cretaceous	"Early/Lower Cretaceous"	Aptian	122.460	112.600	"Arundel Clay"
+90926	ETE	"M. Carrano"	aff.	Richardoestesia		sp.						"United States"	Maryland	Cretaceous	"Early/Lower Cretaceous"	Aptian	122.460	112.600	"Arundel Clay"
+92963	ETE	"M. Carrano"	"n. gen."	Atrociraptor	"n. sp."	marshalli					"TMP 95.166.1"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+94765	PaleoDB	"R. Butler"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+97813	ETE	"M. Carrano"	"n. gen."	Balaur	"n. sp."	bondoc					"EME PV.313"	Romania	Alba	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Sebes
+97951	ETE	"M. Carrano"		Deinonychus		sp.						"United States"	Utah	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	"Cedar Mountain"
+97954	ETE	"M. Carrano"	"n. gen."	Yurgovuchia	"n. sp."	doellingi					"UMNH VP 20211"	"United States"	Utah	Cretaceous	"Early/Lower Cretaceous"	Barremian	130.000	125.450	"Cedar Mountain"
+102191	ETE	"M. Carrano"	?	Richardoestesia		sp.						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Cenomanian	99.700	94.300	Woodbine
+102299	ETE	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Cloverly
+105772	ETE	"M. Carrano"		Microraptor		sp.						China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+109657	ETE	"M. Carrano"		Saurornitholestes		sp.						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Aguja
+109658	PaleoDB	"M. Carrano"		Saurornitholestes		sp.						"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Aguja
+118207	PaleoDB	"R. Benson"		Microraptor		zhaoianus					"IVPP V.12330"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	122.460	Jiufotang
+127186	PaleoDB	"R. Benson"	"n. gen."	Zhenyuanlong	"n. sp."	suni					JPM-0008	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"		130.000	112.600	Yixian
+127668	ETE	"R. Benson"		Velociraptor		sp.						Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+127678	ETE	"R. Benson"		Velociraptor		sp.						Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+131829	PaleoDB	"G. Lloyd"	"n. gen."	Linheraptor	"n. sp."	exquisitus					"IVPP V 16923"	China	"Nei Mongol"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wulansuhai
+132487	PaleoDB	"P. Mannion"		Microraptor	"n. sp."	hanqingi					"LVH 0026"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Jiufotang
+133007	PaleoDB	"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	Mexico	Chiapas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Ocozocoautla
+135741	ETE	"M. Carrano"		Richardoestesia		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+137562	PaleoDB	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"	Albian	112.600	99.700	Cloverly
+137566	PaleoDB	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Cloverly
+137567	PaleoDB	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Cloverly
+137577	PaleoDB	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Cloverly
+137604	PaleoDB	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Wyoming	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Cloverly
+137607	PaleoDB	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Cloverly
+137611	PaleoDB	"M. Carrano"		Deinonychus		antirrhopus					"YPM 5205"	"United States"	Montana	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Cloverly
+137798	ETE	"R. Benson"		Richardoestesia	cf.	isosceles					"LSUMGS 489:6238"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+140570	ETE	"P. Wagner"		Itemirus		medullaris					"PIN 327/699"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Bissekty
+141578	PaleoDB	"P. Mannion"		Austroraptor		cabazai					MML-195	Argentina	"Río Negro"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Allen
+152258		"M. Carrano"		Saurornitholestes		langstoni		Saurornitholestes		sp.	"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+152259		"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+152268		"M. Carrano"		Atrociraptor		marshalli					"TMP 95.166.1"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+152270		"M. Carrano"		Atrociraptor		marshalli					"TMP 95.166.1"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+152271		"M. Carrano"		Atrociraptor		marshalli					"TMP 95.166.1"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+152271		"M. Carrano"		Richardoestesia	cf.	gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+152279		"M. Carrano"		Richardoestesia		isosceles					"LSUMGS 489:6238"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+152279		"M. Carrano"		Dromaeosaurus		albertensis					"AMNH 5356"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+152279		"M. Carrano"		Saurornitholestes		langstoni					"RTMP 74.10.5"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+152280		"M. Carrano"		Richardoestesia	cf.	gilmorei					"NMC 343"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Horseshoe Canyon"
+152397		"R. Benson"	"n. gen."	Acheroraptor	"n. sp."	temertyorum					"ROM 63777"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+154213		"P. Mannion"		Richardoestesia	aff.	gilmorei					"NMC 343"	Portugal	Lourinha	Jurassic	"Late/Upper Jurassic"	Kimmeridgian	155.700	150.800	Lourinhã
+154423		"D. Nicholson"	cf.	Richardoestesia		sp.						"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland
+154425		"D. Nicholson"	cf.	Richardoestesia		sp.						"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+154661		"D. Nicholson"		Richardoestesia	cf.	isosceles					"LSUMGS 489:6238"	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+156148		"M. Carrano"	cf.	Richardoestesia		sp.						"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland
+158243		"R. Benson"	"n. gen."	Changyuraptor	"n. sp."	yangi					"HG B016"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"		130.000	122.460	Yixian
+168986		"M. Carrano"		Velociraptor		sp.						Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+174241		"M. Carrano"	"n. gen."	Dakotaraptor	"n. sp."	steini					PBMNH.P10.113.T	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+180790		"P. Holroyd"		Saurornitholestes		langstoni					"RTMP 74.10.5"	"United States"	"South Carolina"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Coachman
+181415		"M. Carrano"	"n. gen."	Hulsanpes	"n. sp."	perlei		Theropoda		indet.	"ZPAL MgD-I/173"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Baruungoyot
+183109		"P. Holroyd"	cf.	Richardoestesia		isosceles					"LSUMGS 489:6238"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+183109		"P. Holroyd"	cf.	Dromaeosaurus		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+183109		"P. Holroyd"	cf.	Saurornitholestes		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+187920		"M. Carrano"	aff.	Deinonychus		sp.						Brazil	Paraíba	Cretaceous	"Early/Lower Cretaceous"		145.500	130.000	Sousa
+190544		"M. Carrano"	"n. gen."	Halszkaraptor	"n. sp."	escuilliei					"MPC D-102/109"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+193675		"P. Mannion"		Richardoestesia		sp.						Romania	Hunedoara	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	
+194604		"G. Lloyd"	"n. gen."	Zhongjianosaurus	"n. sp."	yangi					"IVPP V22775"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	112.600	Yixian
+200123		"E. Vlachos"		Richardoestesia		sp.						"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"		98.2	93	"Cedar Mountain"

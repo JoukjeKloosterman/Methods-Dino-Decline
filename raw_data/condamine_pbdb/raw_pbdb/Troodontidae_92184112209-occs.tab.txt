@@ -1,0 +1,173 @@
+collection_no	source_database	collection.authorizer	occurrence.genus_reso	occurrence.genus_name	occurrence.species_reso	occurrence.species_name	original.genus_reso	original.genus_name	original.species_reso	original.species_name	type_specimen	country	state	period	epoch	stage	ma_max	ma_min	formation
+13281	PaleoDB	"M. Carrano"		Troodon		formosus		Hypsilophodontidae		indet.	"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+14437	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	80.7	"Judith River"
+14446	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.0	75.7	"Judith River"
+14453	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.0	75.7	"Two Medicine"
+14453	Fossilworks	"J. Alroy"		Troodon	cf.	formosus		Theropoda		indet.	"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.0	75.7	"Two Medicine"
+14457	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14462	Fossilworks	"J. Alroy"		Troodon		formosus		Troodon		sp.	"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14490	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	"Judith River"
+14494	Fossilworks	"J. Alroy"		Troodon		sp.						Canada	Saskatchewan	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.5	80.3	"Judith River"
+14505	Fossilworks	"J. Alroy"		Pectinodon		bakkeri		Troodon		sp.	"UCM 38445"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	67.3	67.1	Lance
+14508	Fossilworks	"J. Alroy"	cf.	Pectinodon		sp.		Troodon		sp.		"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14516	Fossilworks	"J. Alroy"		Troodon		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	68.1	67.9	"Hell Creek"
+14519	Fossilworks	"J. Alroy"	"n. gen."	Pectinodon	"n. sp."	bakkeri					"UCM 38445"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14519	Fossilworks	"J. Alroy"		Troodon		formosus		Saurornithoides		inequalis	"NMC 8539"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14521	Fossilworks	"J. Alroy"		Troodon		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14537	Fossilworks	"J. Alroy"		Saurornithoides	cf.	mongoliensis					"AMNH 6516"	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14537	Fossilworks	"J. Alroy"	?	Troodon		sp.						"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14542	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14543	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+14549	Fossilworks	"J. Alroy"	cf.	Pectinodon		sp.		Troodon		sp.		"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	67.7	67.5	"Hell Creek"
+14566	Fossilworks	"J. Alroy"		Troodon		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14566	Fossilworks	"J. Alroy"		Pectinodon		bakkeri					"UCM 38445"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14568	Fossilworks	"J. Alroy"		Troodon		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14582	Fossilworks	"J. Alroy"		Troodon		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14585	Fossilworks	"J. Alroy"		Troodon		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14585	Fossilworks	"J. Alroy"		Pectinodon		bakkeri					"UCM 38445"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14585	Fossilworks	"J. Alroy"	cf.	Saurornithoides		sp.						"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14610	Fossilworks	"J. Alroy"		Troodon		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+14650	Fossilworks	"J. Alroy"		Troodon		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+22659	ETE	"A. Behrensmeyer"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+22689	ETE	"A. Behrensmeyer"		Troodon		formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		83.8	83.6	"Two Medicine"
+22695	ETE	"A. Behrensmeyer"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22697	ETE	"A. Behrensmeyer"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.5	"Dinosaur Park"
+22698	ETE	"A. Behrensmeyer"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+22699	ETE	"A. Behrensmeyer"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wapiti
+22711	ETE	"A. Behrensmeyer"	"n. gen."	Koparion	"n. sp."	douglassi					"DINO 3353"	"United States"	Utah	Jurassic	"Late/Upper Jurassic"		155.700	145.500	Morrison
+24894	PaleoDB	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+25658	Fossilworks	"J. Alroy"		Troodon	cf.	formosus		Troodon		sp.	"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+26760	PaleoDB	"M. Carrano"		Troodon		formosus					"ANSP 9259"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+27894	ETE	"M. Carrano"	cf.	Euronychodon		sp.						Romania	Hunedoara	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Sânpetru
+28406	Fossilworks	"J. Alroy"	cf.	Euronychodon		sp.						Spain	"Castilla y Leon"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Vitoria
+34307	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+34309	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+34744	ETE	"M. Carrano"	cf.	Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+34745	PaleoDB	"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+37009	PaleoDB	"M. Carrano"	"n. gen."	Archaeornithoides	"n. sp."	deinosauriscus					"ZPAL MgD-II/29"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+37020	PaleoDB	"M. Carrano"	"n. gen."	Borogovia	"n. sp."	gracilicrus		Saurornithoides		sp.	"ZPAL MgD-I/174"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+37209	Fossilworks	"J. Alroy"		Byronosaurus		jaffei					"IGM 100/983"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+37211	Fossilworks	"J. Alroy"	"n. gen."	Byronosaurus	"n. sp."	jaffei		Troodontidae		indet.	"IGM 100/983"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+37213	Fossilworks	"J. Alroy"	cf.	Saurornithoides		mongoliensis					"AMNH 6516"	Mongolia	"Omnogov Aimak"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+38134	PaleoDB	"M. Carrano"		Troodon		sp.						"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+39680	PaleoDB	"M. Carrano"	cf.	Urbacodon		sp.						"Russian Federation"	Kemerovo	Cretaceous	"Early/Lower Cretaceous"		130.000	112.600	Ilek
+45090	ETE	"M. Carrano"		Byronosaurus		sp.		Dromaeosauridae		indet.		Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+45099	PaleoDB	"M. Carrano"		Troodon		sp.						"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.9	66.7	"Hell Creek"
+45166	ETE	"M. Carrano"		Sinornithoides		sp.						China	Gansu	Cretaceous	"Early/Lower Cretaceous"	Albian	112.600	105.300	Zhonggou
+45238	Fossilworks	"J. Alroy"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45240	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+45261	Fossilworks	"J. Alroy"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45262	Fossilworks	"J. Alroy"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45264	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+45671	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.1	76.2	Oldman
+45753	ETE	"M. Carrano"	"n. gen."	Troodon	"n. sp."	formosus	"n. gen."	Stenonychosaurus	"n. sp."	inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+45821	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45892	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45893	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	81.3	76.2	Oldman
+45897	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.8	78.6	Oldman
+45898	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	76.2	Oldman
+46152	ETE	"M. Carrano"	"n. gen."	Saurornithoides	"n. sp."	mongoliensis	"n. gen."	Ornithoides	"n. sp."	oshiensis	"AMNH 6516"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+46934	ETE	"M. Carrano"	"n. gen."	Sinornithoides	"n. sp."	youngi		Saurornithoides		sp.	"IVPP V9612"	China	"Nei Mongol"	Cretaceous	"Early/Lower Cretaceous"		140.200	99.700	Ejinhoro
+46951	ETE	"M. Carrano"		Troodon		formosus		Troodon		formosus	"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46973	ETE	"M. Carrano"		Saurornithoides		mongoliensis					"AMNH 6516"	China	"Nei Mongol"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Bayan Mandahu"
+47029	ETE	"M. Carrano"		Troodon		sp.						"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+47784	PaleoDB	"R. Whatley"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	"Dinosaur Park"
+47794	PaleoDB	"R. Whatley"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47795	PaleoDB	"R. Whatley"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47807	PaleoDB	"R. Whatley"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+47809	PaleoDB	"R. Whatley"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.2	79.0	Oldman
+47811	PaleoDB	"R. Whatley"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+47812	PaleoDB	"R. Whatley"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.7	79.0	"Dinosaur Park"
+49276	ETE	"M. Carrano"	"n. gen."	Euronychodon	"n. sp."	portucalensis					"CEGUNL-TV 20"	Portugal	Coimbra	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Argilas de Aveiro"
+50907	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+51889	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	68	71	"Prince Creek"
+51890	ETE	"M. Carrano"		Troodon		formosus		Troodon		sp.	"ANSP 9259"	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Prince Creek"
+51892	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Prince Creek"
+51893	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"		80.9	73.3	"Prince Creek"
+51972	ETE	"M. Carrano"	"n. gen."	Tochisaurus	"n. sp."	nemegtensis		Troodontidae		indet.	"PIN 551-244"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+52012	ETE	"M. Carrano"		Zanabazar	"n. sp."	junior		Saurornithoides	"n. sp."	junior	"GI SPS 100-1"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+52072	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"St. Mary River"
+52991	ETE	"M. Carrano"		Troodon		formosus		Troodontidae		indet.	"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+53050	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	Oldman
+53050	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	Oldman
+53055	ETE	"M. Carrano"	cf.	Troodon		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Santonian	85.800	84.900	"Two Medicine"
+53056	ETE	"M. Carrano"	cf.	Troodon		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Santonian	85.800	84.900	"Two Medicine"
+53493	PaleoDB	"R. Whatley"	"n. gen."	Sinusonasus	"n. sp."	magnodens					"IVPP V11527"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	122.460	Yixian
+53493	PaleoDB	"R. Whatley"	"n. gen."	Mei	"n. sp."	long					"IVPP V.12733"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	122.460	Yixian
+53493	PaleoDB	"R. Whatley"	"n. gen."	Sinovenator	"n. sp."	changii					"IVPP V12615"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	122.460	Yixian
+55363	ETE	"M. Carrano"	cf.	Troodon		sp.		Troodon		sp.		Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+55685	ETE	"M. Carrano"		Sinovenator		changii					"IVPP V12615"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	123.2	123.2	Yixian
+55709	ETE	"M. Carrano"	"n. gen."	Daliansaurus	"n. sp."	liaoningensis					"DNHM D2885"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"		130.000	122.460	Yixian
+58168	ETE	"M. Carrano"		Euronychodon	"n. sp."	asiaticus					"CCMGE 9/12454"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Bissekty
+58808	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+59115	ETE	"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59131	ETE	"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59137	ETE	"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59217	ETE	"M. Carrano"		Troodon	cf.	formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+59373	ETE	"M. Carrano"		Troodon	cf.	formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	73.9	73.7	"Two Medicine"
+59386	ETE	"M. Carrano"		Troodon	cf.	formosus		Troodon		sp.	"ANSP 9259"	"Russian Federation"	Chukot	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Kakanaut
+59410	ETE	"M. Carrano"	"n. gen."	Bradycneme	"n. sp."	draculae					"BMNH A.1588"	Romania	"Judetul Covurlui"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Sânpetru
+59410	ETE	"M. Carrano"	cf.	Euronychodon		sp.						Romania	"Judetul Covurlui"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Sânpetru
+59410	ETE	"M. Carrano"	"n. gen."	Heptasteornis	"n. sp."	andrewsi	?	Elopteryx		nopcsai	"BMNH A.4359"	Romania	"Judetul Covurlui"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Sânpetru
+60518	ETE	"M. Carrano"		Troodon		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+60563	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+61321	ETE	"M. Carrano"	cf.	Euronychodon		sp.	cf.	Paronychodon		sp.		Spain	"Castilla y Leon"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Calizas de Lychnus"
+61470	ETE	"M. Carrano"		Troodon		formosus		Saurornithoididae		indet.	"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+64324	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+64325	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+64326	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+64327	ETE	"M. Carrano"	"n. gen."	Troodon	"n. sp."	formosus	"n. gen."	Polyodontosaurus	"n. sp."	grandis	"NMC 8540"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+64643	ETE	"M. Carrano"	?	Troodon	?	formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+64684	ETE	"M. Carrano"		Pectinodon	"n. sp."	asiamericanus					"CCMGE 49/12176"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Cenomanian	99.700	94.300	Khodzhakul
+67611	ETE	"M. Carrano"	"n. gen."	Jianianhualong	"n. sp."	tengi					"DLXH 1218"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Aptian	125.450	122.460	Yixian
+67818	ETE	"M. Carrano"		Euronychodon		sp.						Romania	Hunedoara	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Densus-Ciula
+67874	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67876	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67880	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+67881	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67892	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+67893	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+67894	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+69213	ETE	"M. Carrano"	"n. gen."	Troodon	"n. sp."	formosus					"ANSP 9259"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+70426	ETE	"M. Carrano"	"n. gen."	Urbacodon	"n. sp."	itemirensis					"ZIN PH 944/16"	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Cenomanian	99.700	94.300	Dzharakuduk
+74664	ETE	"M. Carrano"	"n. gen."	Hesperornithoides	"n. sp."	miessleri					WYDICE-DML-001	"United States"	Wyoming	Jurassic	"Late/Upper Jurassic"		155.700	145.500	Morrison
+75298	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.2	70.0	Ferris
+75435	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.4	Ferris
+75442	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.6	70.0	Ferris
+76030	Fossilworks	"J. Alroy"		Troodon		formosus					"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+88975	ETE	"M. Carrano"		Troodon		formosus					"ANSP 9259"	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Prince Creek"
+89604	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wapiti
+89605	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wapiti
+96455	ETE	"M. Carrano"	cf.	Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+97956	ETE	"M. Carrano"		Geminiraptor		suarezarum					"CEUM 7319"	"United States"	Utah	Cretaceous	"Early/Lower Cretaceous"	Barremian	130.000	125.450	"Cedar Mountain"
+101070	ETE	"M. Carrano"	"n. gen."	Xixiasaurus	"n. sp."	henanensis					"HGM 41HIII-0201"	China	Henan	Cretaceous	"Late/Upper Cretaceous"		89.300	70.600	Majiacun
+101087	PaleoDB	"R. Butler"		Ornithodesmus	"n. sp."	cluniculus					"BMNH R187"	"United Kingdom"	England	Cretaceous	"Early/Lower Cretaceous"		130.000	122.460	Wessex
+130798	PaleoDB	"R. Benson"	"n. gen."	Gobivenator	"n. sp."	mongoliensis		Troodontidae		indet.	"MPC-D 100/86"	Mongolia	"Ömnögovi Aimag"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+131828	PaleoDB	"G. Lloyd"	"n. gen."	Linhevenator	"n. sp."	tani					"LH V0021"	China	"Nei Mongol"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wulansuhai
+131828	PaleoDB	"G. Lloyd"	"n. gen."	Philovenator	"n. sp."	curriei					"IVPP P 10597"	China	"Nei Mongol"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wulansuhai
+131870	PaleoDB	"G. Lloyd"	"n. gen."	Talos	"n. sp."	sampsoni					"UMNH VP 19479"	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kaiparowits
+133789	PaleoDB	"R. Benson"		Mei		long					"IVPP V.12733"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"		140.200	130.000	Yixian
+135739	ETE	"M. Carrano"		Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+142326	PaleoDB	"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+144539	PaleoDB	"P. Mannion"	cf.	Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+152270		"M. Carrano"	cf.	Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+152271		"M. Carrano"	cf.	Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+152272		"M. Carrano"	cf.	Troodon		sp.						Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+156414		"R. Benson"		Jinfengopteryx		elegans					CAGS-IG-04-0801	China	Hebei	Cretaceous	"Early/Lower Cretaceous"	Barremian	130.000	125.450	Huajiying
+167303		"P. Mannion"	cf.	Urbacodon		sp.						"Russian Federation"	Kemerovo	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	Ilek
+168988		"M. Carrano"		Saurornithoides		sp.						Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+179240		"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+179241		"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+179242		"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+179243		"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+179244		"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+179245		"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+179246		"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"NMC 8539"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+183109		"P. Holroyd"	cf.	Pectinodon		sp.						"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+184041		"M. Carrano"		Troodon		formosus		Stenonychosaurus		inequalis	"ANSP 9259"	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+190544		"M. Carrano"	"n. gen."	Almas	"n. sp."	ukhaa					"IGM 100/1323"	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Djadokhta
+192251		"P. Holroyd"	?	Troodon		sp.						"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+192251		"P. Holroyd"		Saurornithoides	cf.	mongoliensis					"AMNH 6516"	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+203179		"G. Lloyd"	"n. gen."	Liaoningvenator	"n. sp."	curriei					"DNHM D3012"	China	Liaoning	Cretaceous	"Early/Lower Cretaceous"	Hauterivian	136.400	130.000	Yixian
+206601		"M. Carrano"	cf.	Urbacodon		sp.						"Russian Federation"	Krasnoyarsk	Cretaceous	"Early/Lower Cretaceous"		145.500	99.700	Ilek
+206603		"M. Carrano"	cf.	Urbacodon		sp.						"Russian Federation"	Krasnoyarsk	Cretaceous	"Early/Lower Cretaceous"		145.500	99.700	Ilek

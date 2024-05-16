@@ -1,0 +1,389 @@
+collection_no	source_database	collection.authorizer	occurrence.genus_reso	occurrence.genus_name	occurrence.species_reso	occurrence.species_name	original.genus_reso	original.genus_name	original.species_reso	original.species_name	type_specimen	collection.reference_no	country	state	period	epoch	stage	ma_max	ma_min	formation
+11899	PaleoDB	"M. Carrano"		Saurolophus		osborni					"AMNH 5220"	54104	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+11919	PaleoDB	"M. Carrano"		Gryposaurus	cf.	notabilis		Kritosaurus		notabilis	"NMC 2278"	4206	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.2	84.0	Oldman
+11931	PaleoDB	"M. Carrano"		Edmontosaurus		sp.		Anatosaurus		sp.		4210	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+13142	PaleoDB	"E. Fara"		Edmontosaurus		sp.		Anatosaurus		sp.		4377	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	69.2	"Hell Creek"
+13282	PaleoDB	"M. Carrano"		Maiasaura		peeblesorum					"PU 22405"	4406	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+13308	PaleoDB	"J. Hunter"	"n. gen."	Tridigitichnus	"n. sp."	inopinatus						6051	Argentina	"Río Negro"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	
+14437	Fossilworks	"J. Alroy"	?	Gryposaurus		sp.		Hadrosaurinae		indet.		25474	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	80.9	80.7	"Judith River"
+14446	Fossilworks	"J. Alroy"		Trachodon		altidens		Procheneosaurus		altidens	"NMC 1092"	3008	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.0	75.7	"Judith River"
+14446	Fossilworks	"J. Alroy"		Kritosaurus	cf.	breviceps					"YPM 1779"	3008	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.0	75.7	"Judith River"
+14455	Fossilworks	"J. Alroy"	cf.	Edmontosaurus		sp.						1691	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Marshalltown
+14455	Fossilworks	"J. Alroy"		Hadrosaurus		sp.						1691	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Marshalltown
+14455	Fossilworks	"J. Alroy"		Hypsibema		crassicauda					"USNM 6136, 7189"	1691	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Marshalltown
+14502	Fossilworks	"J. Alroy"		Edmontosaurus		sp.						13943	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"St. Mary River"
+14505	Fossilworks	"J. Alroy"		Edmontosaurus		sp.		Anatosaurus		sp.		3880	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	67.3	67.1	Lance
+14527	Fossilworks	"J. Alroy"	cf.	Edmontosaurus		sp.	cf.	Anatosaurus		sp.		1239	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14546	Fossilworks	"J. Alroy"		Edmontosaurus		sp.		Anatosaurus		sp.		960	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	69.4	67.5	"Hell Creek"
+14549	Fossilworks	"J. Alroy"		Edmontosaurus		sp.		Anatosaurus		sp.		960	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	67.7	67.5	"Hell Creek"
+14557	Fossilworks	"J. Alroy"	cf.	Edmontosaurus		sp.						774	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14579	Fossilworks	"J. Alroy"	cf.	Edmontosaurus		sp.	cf.	Anatosaurus		sp.		1239	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14585	Fossilworks	"J. Alroy"	cf.	Edmontosaurus		sp.	cf.	Anatosaurus		sp.		1239	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14609	Fossilworks	"J. Alroy"	cf.	Edmontosaurus		sp.	cf.	Anatosaurus		sp.		1239	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+14616	Fossilworks	"J. Alroy"		Edmontosaurus	cf.	annectens		Hadrosauridae		indet.	"USNM 2414"	1987	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14621	Fossilworks	"J. Alroy"		Edmontosaurus		annectens					"USNM 2414"	1921	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+14674	Fossilworks	"J. Alroy"		Anatotitan		copei		Anatosaurus		copei	"AMNH 5730"	2333	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+22652	ETE	"A. Behrensmeyer"		Prosaurolophus		blackfeetensis		Lambeosaurus		sp.	"MOR 454"	5724	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+22653	ETE	"A. Behrensmeyer"		Maiasaura		peeblesorum					"PU 22405"	5724	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+22689	ETE	"A. Behrensmeyer"		Prosaurolophus		blackfeetensis					"MOR 454"	14615	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		83.8	83.6	"Two Medicine"
+22689	ETE	"A. Behrensmeyer"		Gryposaurus		sp.						14615	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		83.8	83.6	"Two Medicine"
+22689	ETE	"A. Behrensmeyer"		Hypacrosaurus	cf.	stebingeri		Hypacrosaurus		sp.	"MOR 549"	14615	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		83.8	83.6	"Two Medicine"
+22690	ETE	"A. Behrensmeyer"		Hypacrosaurus		stebingeri		Lambeosaurus		sp.	"MOR 549"	5724	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.0	73.7	"Two Medicine"
+22691	ETE	"A. Behrensmeyer"		Maiasaura		peeblesorum					"PU 22405"	5724	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+22692	ETE	"A. Behrensmeyer"		Prosaurolophus	"n. sp."	blackfeetensis					"MOR 454"	5697	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+22709	ETE	"A. Behrensmeyer"	?	Kritosaurus		sp.						5684	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Aguja
+24258	Fossilworks	"J. Alroy"	"n. gen."	Latirhinus	"n. sp."	uitstlani		Kritosaurus		sp.	"IGM 6583"	61988	Mexico	Coahuila	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Cerro del Pueblo"
+24790	PaleoDB	"M. Carrano"		Anatotitan		copei		Diclonius	"n. sp."	mirabilis	"ANSP 9620"	6950	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+26760	PaleoDB	"M. Carrano"		Edmontosaurus		annectens					"USNM 2414"	7389	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+26766	ETE	"M. Carrano"		Gryposaurus		notabilis		Hadrosaurus		notabilis	"NMC 2278"	7400	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.2	84.0	"Bearpaw Shale"
+26767	ETE	"M. Carrano"		Gryposaurus		sp.		Claosaurus		sp.		7400	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.2	84.0	"Bearpaw Shale"
+26775	PaleoDB	"M. Carrano"	"n. gen."	Maiasaura	"n. sp."	peeblesorum					"PU 22405"	7402	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+26779	PaleoDB	"M. Carrano"		Brachylophosaurus	"n. sp."	canadensis		Brachylophosaurus	"n. sp."	goodwini	"UCMP 130139"	7405	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+26818	PaleoDB	"W. Kiessling"		Edmontosaurus		minor					"YPM 1600"	35500	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Navesink
+28606	PaleoDB	"M. Carrano"		Tyrannosauropus		sp.		Amblydactylus	cf.	gethingi		56027	Australia	Queensland	Cretaceous	"Late/Upper Cretaceous"	Cenomanian	99.700	94.300	Winton
+32370	ETE	"M. Carrano"	"n. gen."	Bonapartesaurus	"n. sp."	rionegrensis					"MPCA-Pv SM2"	29110	Argentina	"Río Negro"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Allen
+32370	ETE	"M. Carrano"	"n. gen."	Willinakaqe	"n. sp."	salitralensis	?	Lambeosaurinae		indet.	"MPCA-Pv SM 8"	29110	Argentina	"Río Negro"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Allen
+34744	ETE	"M. Carrano"		Edmontosaurus		sp.		Hadrosauridae		indet.		9231	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+35518	PaleoDB	"M. Carrano"	"n. gen."	Kritosaurus	"n. sp."	navajovius		Diclonius		sp.	"AMNH 5799"	63664	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+36269	Fossilworks	"J. Alroy"	"n. gen."	Naashoibitosaurus	"n. sp."	ostromi		Edmontosaurus		saskatchewanensis	"NMMNH P-16106"	59350	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.4	78.2	Kirtland
+36381	Fossilworks	"J. Alroy"	cf.	Orthomerus		sp.		Orthomerus		sp.		16838	Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"La Posa"
+36541	Fossilworks	"J. Alroy"		Kritosaurus		navajovius					"AMNH 5799"	9765	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland
+37020	PaleoDB	"M. Carrano"		Saurolophus		angustirostris					"PIN 551-8"	9899	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+37811	ETE	"M. Carrano"	"n. gen."	Charonosaurus	"n. sp."	jiayinensis					"CUST J-V1251-57"	65750	China	Heilongjiang	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Yuliangze
+37811	ETE	"M. Carrano"		Mandschurosaurus		amurensis		Trachodontidae	"n. sp."	indet.		65750	China	Heilongjiang	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Yuliangze
+37811	ETE	"M. Carrano"		Saurolophus	"n. sp."	krystofovici						65750	China	Heilongjiang	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Yuliangze
+38021	PaleoDB	"M. Carrano"	"n. gen."	Barsboldia	"n. sp."	sicinskii		Saurolophus		angustirostris	"ZPal MgD-I/110"	10453	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+38134	PaleoDB	"M. Carrano"	"n. gen."	Kundurosaurus	"n. sp."	nagornyi					"AENM 2/921"	43271	"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+38134	PaleoDB	"M. Carrano"	"n. gen."	Olorotitan	"n. sp."	arharensis		Lambeosauridae		indet.	"AEHM 2/845"	43271	"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+38138	ETE	"M. Carrano"	"n. gen."	Nipponosaurus	"n. sp."	sachalinensis					"UHR 6590"	10243	"Russian Federation"	Sakhalin	Cretaceous	"Late/Upper Cretaceous"		85.800	70.600	
+38893	ETE	"M. Carrano"		Pararhabdodon		isonensis	aff.	Rhabdodon	"n. sp."	sp.		9758	Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Conques
+45087	PaleoDB	"M. Carrano"		Secernosaurus		koerneri		Kritosaurus	"n. sp."	sp.		13925	Argentina	"Río Negro"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Los Alamitos"
+45088	PaleoDB	"M. Carrano"		Secernosaurus		koerneri		Kritosaurus		australis	"MACN-RN 02"	11733	Argentina	"Río Negro"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Los Alamitos"
+45408	ETE	"M. Carrano"	cf.	Shantungosaurus		sp.						11821	China	Shanxi	Cretaceous	"Late/Upper Cretaceous"		99.700	70.600	Huiquanpu
+45435	ETE	"M. Carrano"	"n. gen."	Blasisaurus	"n. sp."	canudoi		Euhadrosauria		indet.	MPZ99/667	17660	Spain	Aragón	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Arén
+45438	ETE	"M. Carrano"	"n. gen."	Arenysaurus	"n. sp."	ardevoli		Hadrosauridae		indet.	"MPZ 2008/1"	17660	Spain	Aragón	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Conques
+45675	ETE	"M. Carrano"		Edmontosaurus		saskatchewanensis		Thespesius	"n. sp."	sp.		12049	Canada	Saskatchewan	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Ravenscrag
+45676	ETE	"M. Carrano"		Edmontosaurus		annectens		Trachodon	"n. sp."	marginatus	"NMC 419"	12051	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	
+45677	ETE	"M. Carrano"		Hypacrosaurus		altispinus					"AMNH 5206"	12052	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	
+45678	ETE	"M. Carrano"		Hypacrosaurus		altispinus					"AMNH 5206"	12052	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	
+45679	ETE	"M. Carrano"	"n. gen."	Parrosaurus		missouriensis	"n. gen."	Neosaurus	"n. sp."	missouriensis	"USNM 16735"	17004	"United States"	Missouri	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Ripley
+45860	ETE	"M. Carrano"		Saurolophus		sp.		Trachodontidae		indet.		18651	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Almond
+45878	ETE	"M. Carrano"		Edmontosaurus		annectens		Anatosaurus		annectens	"USNM 2414"	9259	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+46120	ETE	"M. Carrano"		Edmontosaurus	"n. sp."	annectens		Trachodon	"n. sp."	longiceps	"YPM 616"	12304	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Laramie
+46121	ETE	"M. Carrano"		Diclonius		sp.						15650	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+46124	ETE	"M. Carrano"		Hadrosaurus	"n. sp."	paucidens					"USNM 5457"	12304	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+46125	ETE	"M. Carrano"		Trachodon		sp.						12304	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Laramie
+46128	ETE	"M. Carrano"		Edmontosaurus		annectens		Trachodontidae		indet.		12304	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+46162	ETE	"M. Carrano"	"n. gen."	Hadrosaurus	"n. sp."	foulkii	"n. gen."	Ornithotarsus	"n. sp."	immanis	"YPM 3221"	15623	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Woodbury
+46209	ETE	"M. Carrano"		Edmontosaurus		annectens		Claosaurus		annectens	"USNM 2414"	12334	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+46210	ETE	"M. Carrano"		Edmontosaurus		sp.		Hadrosauridae		indet.		12319	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Laramie
+46317	ETE	"M. Carrano"		Corythosaurus	"n. sp."	casuarius		Corythosaurus	"n. sp."	bicristatus	"ROM 868"	12345	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46318	ETE	"M. Carrano"		Lambeosaurus	"n. sp."	clavinitialis		Corythosaurus	"n. sp."	frontalis	"ROM 869"	12345	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46319	ETE	"M. Carrano"		Corythosaurus	"n. sp."	casuarius		Corythosaurus	"n. sp."	brevicristatus	"ROM 870"	12345	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46320	ETE	"M. Carrano"		Edmontosaurus		annectens		Thespesius	cf.	edmontoni	"NMC 8399"	12345	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+46331	ETE	"M. Carrano"		Gryposaurus	"n. sp."	notabilis		Kritosaurus	"n. sp."	incurvimanus	"ROM 764"	14121	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46333	ETE	"M. Carrano"	"n. gen."	Parasaurolophus	"n. sp."	walkeri					"ROM 768"	12350	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46358	ETE	"M. Carrano"	"n. gen."	Lambeosaurus	"n. sp."	lambei	"n. gen."	Tetragonosaurus	"n. sp."	praeceps	"ROM 758"	12354	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46359	ETE	"M. Carrano"		Corythosaurus	"n. sp."	casuarius		Tetragonosaurus	"n. sp."	erectofrons	"ROM 759"	12354	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+46984	ETE	"M. Carrano"		Kritosaurus		navajovius					"AMNH 5799"	12486	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland
+47029	ETE	"M. Carrano"	"n. gen."	Amurosaurus	"n. sp."	riabinini		Hadrosauridae		indet.	"AEHM 1/12"	14383	"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+47029	ETE	"M. Carrano"	"n. gen."	Kerberosaurus	"n. sp."	manakini					"AEHM 1/319"	14383	"Russian Federation"	Amur	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Udurchukan
+47034	ETE	"M. Carrano"		Edmontosaurus		sp.						23425	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+47101	ETE	"M. Carrano"		Gryposaurus		latidens					"AMNH 5465"	10628	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		85.800	70.600	"Two Medicine"
+47193	PaleoDB	"J. Head"		Parasaurolophus		sp.						12618	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+47201	ETE	"J. Head"		Parasaurolophus		tubicen					"PMU.R 1250"	14762	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.4	78.2	Kirtland
+47818	PaleoDB	"J. Head"	cf.	Kritosaurus		sp.						12807	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+47818	PaleoDB	"J. Head"		Kritosaurus		navajovius					"AMNH 5799"	12807	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+47820	PaleoDB	"J. Head"		Kritosaurus		navajovius					"AMNH 5799"	50161	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+47820	PaleoDB	"J. Head"	cf.	Kritosaurus		sp.						50161	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+47821	PaleoDB	"J. Head"	cf.	Parasaurolophus		sp.						12808	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+48549	PaleoDB	"M. Carrano"		Trachodon		sp.						12319	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+48570	ETE	"M. Carrano"	""""	Hadrosaurus		minor					"YPM 1600"	15621	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"New Egypt"
+48570	ETE	"M. Carrano"		Hadrosaurus		minor		Hadrosaurus		sp.	"YPM 1600"	15621	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"New Egypt"
+48725	ETE	"M. Carrano"	"n. gen."	Hadrosaurus	"n. sp."	foulkii					"ANSP 10005"	13004	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Woodbury
+48829	ETE	"M. Carrano"	"n. gen."	Lapampasaurus	"n. sp."	cholinoi	?	Hadrosaurinae		indet.	MPHN-Pv-01	13012	Argentina	"La Pampa"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Allen
+48834	ETE	"M. Carrano"	?	Kritosaurus		sp.	cf.	Kritosaurus		sp.		24167	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Santonian	85.800	84.900	"Milk River"
+48836	PaleoDB	"M. Carrano"		Edmontosaurus		annectens		Anatosaurus		annectens	"USNM 2414"	12319	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+48838	ETE	"M. Carrano"	?	Saurolophus		sp.		Saurolophinae		indet.		18055	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+48839	ETE	"M. Carrano"		Parasaurolophus		sp.		Parasaurolophus		tubicen		38106	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+48941	ETE	"M. Carrano"		Kritosaurus		sp.						68428	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Aguja
+49016	ETE	"M. Carrano"		Edmontosaurus		sp.		Anatosaurus		sp.		13079	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+49079	ETE	"M. Carrano"	"n. gen."	Hypacrosaurus	"n. sp."	altispinus	"n. gen."	Cheneosaurus	"n. sp."	tolmanensis	"NMC 2246"	17548	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+49233	ETE	"M. Carrano"		Hypacrosaurus		altispinus		Hypacrosaurus		sp.	"AMNH 5206"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	
+49234	ETE	"M. Carrano"		Edmontosaurus		regalis		Trachodontidae		indet.	"NMC 2288"	62882	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+49235	ETE	"M. Carrano"	"n. gen."	Lambeosaurus	"n. sp."	lambei					"ROM 1218"	12343	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+49236	ETE	"M. Carrano"		Lambeosaurus		lambei		Stephanosaurus		marginatus	"ROM 1218"	62887	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+49237	ETE	"M. Carrano"		Lambeosaurus		lambei		Lambeosaurus		lambei	"ROM 1218"	24163	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+49238	ETE	"M. Carrano"		Edmontosaurus	"n. sp."	annectens		Claosaurus	"n. sp."	annectens	"USNM 2414"	9095	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+49524	ETE	"M. Carrano"		Edmontosaurus	"n. sp."	regalis		Agathaumas	"n. sp."	milo	"AMNH (lost)"	53327	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Laramie
+49524	ETE	"M. Carrano"	"n. gen."	Cionodon	"n. sp."	arctatus					"AMNH 3951"	53327	"United States"	Colorado	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Laramie
+50082	ETE	"M. Carrano"		Trachodon		sp.						13456	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+50088	ETE	"M. Carrano"		Edmontosaurus		sp.						13466	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+51316	ETE	"M. Carrano"	"n. gen."	Edmontosaurus	"n. sp."	regalis					"NMC 2288"	17549	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Horseshoe Canyon"
+51521	ETE	"M. Carrano"	"n. gen."	Orthomerus	"n. sp."	dolloi					"BMNH 42955"	13701	Belgium	Limburg	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Maastricht
+51534	ETE	"M. Carrano"	"n. gen."	Parasaurolophus	"n. sp."	cyrtocristatus					"FMNH P27393"	13707	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+51545	ETE	"M. Carrano"		Trachodon		sp.		Hadrosauridae		indet.		13709	Mexico	Coahuila	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Cerro del Pueblo"
+51861	ETE	"M. Carrano"		Lambeosaurus	"n. sp."	clavinitialis					"NMC 8703"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+51862	ETE	"M. Carrano"		Lambeosaurus		clavinitialis					"NMC 8703"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+51863	ETE	"M. Carrano"		Lambeosaurus	"n. sp."	magnicristatus		Lambeosaurus	"n. sp."	magnicristatum	"NMC 8705"	12118	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+51890	ETE	"M. Carrano"	"n. gen."	Ugrunaaluk	"n. sp."	kuukpikensis	aff.	Edmontosaurus		saskatchewanensis	"UAMES 12995"	12790	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Prince Creek"
+51966	ETE	"M. Carrano"		Saurolophus		sp.						58800	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+52053	ETE	"M. Carrano"	"n. gen."	Lophorhothon	"n. sp."	atopus		Hadrosauridae		indet.	"FMNH P27383"	27620	"United States"	Alabama	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Mooreville Chalk"
+52060	ETE	"M. Carrano"		Parasaurolophus		cyrtocristatus		Parasaurolophus		sp.	"FMNH P27393"	13948	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kaiparowits
+52077	ETE	"M. Carrano"		Edmontosaurus	cf.	regalis		Edmontosaurus		sp.	"NMC 2288"	13943	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"St. Mary River"
+52472	ETE	"M. Carrano"	"n. gen."	Corythosaurus	"n. sp."	casuarius		Trachodontidae		indet.	"AMNH 5240"	58800	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+52475	ETE	"M. Carrano"	"n. gen."	Lambeosaurus		lambei	"n. gen."	Procheneosaurus		praeceps	"ROM 758"	13165	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+52504	ETE	"M. Carrano"		Hadrosaurus		minor					"YPM 1600"	43456	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Navesink
+52695	ETE	"M. Carrano"		Edmontosaurus		sp.		Anatosaurus		sp.		14177	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	66.5	66.3	Lance
+52905	ETE	"M. Carrano"		Edmontosaurus		sp.		Hadrosauridae		indet.		5690	"United States"	Alaska	Cretaceous	"Late/Upper Cretaceous"		89.300	66.043	"Schrader Bluff"
+52943	ETE	"M. Carrano"		Tsintaosaurus		spinorhinus					"IVPP AS V725"	70705	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Jingangkou
+52943	ETE	"M. Carrano"	"n. gen."	Laiyangosaurus	"n. sp."	youngi					" IVPP V 23401"	70705	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Jingangkou
+53042	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	"Two Medicine"
+53043	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	76.0	73.7	"Two Medicine"
+53044	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	"Two Medicine"
+53045	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	"Two Medicine"
+53046	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	"Two Medicine"
+53047	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	"Two Medicine"
+53048	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	"Two Medicine"
+53049	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	Oldman
+53050	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	Oldman
+53051	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	12559	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	"Two Medicine"
+53052	ETE	"M. Carrano"		Hypacrosaurus	"n. sp."	stebingeri					"MOR 549"	12559	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	"Two Medicine"
+53057	ETE	"M. Carrano"	cf.	Maiasaura		sp.						14356	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Santonian	85.800	84.900	"Two Medicine"
+53122	ETE	"M. Carrano"		Hadrosaurus	"n. sp."	cavatus					"AMNH 1390"	17161	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Navesink
+53132	ETE	"M. Carrano"		Jaxartosaurus	"n. sp."	aralensis	"n. gen."	Jaxartosaurus		sp.	"PEN AN SSR I/5009"	57423	Tajikistan	Asht	Cretaceous	"Late/Upper Cretaceous"		89.300	84.900	Dabrazhin
+53133	ETE	"M. Carrano"		Kazaklambia		convincens		Cheneosaurinae	"n. sp."	indet.		52267	Kazakhstan	"Ongtustik Qazaqstan"	Cretaceous	"Late/Upper Cretaceous"		89.300	84.900	Dabrazhin
+53134	ETE	"M. Carrano"	"n. gen."	Aralosaurus	"n. sp."	tuberiferus		Hadrosauridae		indet.	"PIN AN SSR 2229/1"	14364	Kazakhstan	Qyzylorda	Cretaceous	"Late/Upper Cretaceous"		85.800	70.600	Bostobe
+53146	ETE	"M. Carrano"		Brachylophosaurus		canadensis	cf.	Maiasaura		sp.	"NMC 8893"	14357	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Claggett
+53227	ETE	"M. Carrano"		Saurolophus	"n. sp."	angustirostris					"PIN 551-8"	24890	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+53896	ETE	"M. Carrano"	?	Parasaurolophus		sp.						12626	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland
+53899	ETE	"M. Carrano"	cf.	Parasaurolophus		sp.						12626	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+53980	ETE	"M. Carrano"		Kritosaurus		navajovius		Kritosaurus		navajovius	"AMNH 5799"	14580	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+53996	ETE	"M. Carrano"		Hypacrosaurus		stebingeri		Lambeosaurinae		indet.	"MOR 549"	14583	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	83.8	73.7	"Two Medicine"
+54176	ETE	"M. Carrano"		Edmontosaurus		annectens		Anatosaurus		annectens	"USNM 2414"	14648	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+54178	ETE	"M. Carrano"		Edmontosaurus		annectens		Trachodon		annectens	"USNM 2414"	12385	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+55257	ETE	"M. Carrano"		Saurolophus		sp.						14738	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+55295	ETE	"M. Carrano"		Parasaurolophus	"n. sp."	tubicen					"PMU.R 1250"	28704	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	78.4	78.2	Kirtland
+55317	ETE	"M. Carrano"		Gryposaurus		notabilis		Kritosaurus		notabilis	"NMC 2278"	61483	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+55358	ETE	"M. Carrano"		Augustynolophus		morrisi		Hadrosaurinae		indet.		52135	"United States"	California	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Moreno
+55359	ETE	"M. Carrano"		Augustynolophus		morrisi		Trachodontidae	"n. sp."	indet.		52154	"United States"	California	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Moreno
+55363	ETE	"M. Carrano"		Hypacrosaurus		altispinus		Hadrosauridae		indet.	"AMNH 5206"	63399	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+55384	ETE	"M. Carrano"		Magnapaulia		laticaudus	?	Dinosauria	"n. sp."	indet.		3120	Mexico	"Baja California"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"El Gallo"
+55385	ETE	"M. Carrano"		Edmontosaurus	cf.	annectens		Anatosaurus	cf.	annectens	"USNM 2414"	14880	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+55461	ETE	"M. Carrano"	"n. gen."	Tsintaosaurus	"n. sp."	spinorhinus					"IVPP AS V725"	14891	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Jingangkou
+55461	ETE	"M. Carrano"		Tsintaosaurus		sp.						14891	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Jingangkou
+55466	ETE	"M. Carrano"		Tsintaosaurus		spinorhinus					"IVPP AS V725"	14891	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Jingangkou
+55882	ETE	"M. Carrano"	?	Kritosaurus		sp.						15088	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland
+56271	ETE	"M. Carrano"		Kritosaurus		sp.						15088	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland/Kirtland
+56293	ETE	"M. Carrano"		Kritosaurus		sp.						15088	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland/Kirtland
+56385	ETE	"M. Carrano"	?	Parasaurolophus		sp.						15088	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland/Kirtland
+56429	ETE	"M. Carrano"	?	Kritosaurus		sp.						15088	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland/Kirtland
+56646	ETE	"M. Carrano"	?	Kritosaurus		sp.						15088	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland/Kirtland
+57162	ETE	"M. Carrano"	cf.	Edmontosaurus		sp.	cf.	Anatosaurus		sp.		803	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+57163	ETE	"M. Carrano"		Edmontosaurus		sp.		Anatosaurus		sp.		803	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+57166	ETE	"M. Carrano"	cf.	Edmontosaurus		sp.	cf.	Anatosaurus		sp.		803	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+57168	ETE	"M. Carrano"	cf.	Edmontosaurus		sp.	cf.	Anatosaurus		sp.		803	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+57169	ETE	"M. Carrano"	cf.	Edmontosaurus		sp.	cf.	Anatosaurus		sp.		803	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+57170	ETE	"M. Carrano"	cf.	Edmontosaurus		sp.	cf.	Anatosaurus		sp.		803	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+57171	ETE	"M. Carrano"		Hadrosaurus		foulkii		Ornithotarsus		immanis	"YPM 3221"	15474	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Woodbury
+57178	ETE	"M. Carrano"	"n. gen."	Shantungosaurus	"n. sp."	giganteus					"GMV V.1780-1"	15491	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Xingezhuang
+57764	ETE	"M. Carrano"		Edmontosaurus		annectens		Trachodon		sp.		36149	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+57765	ETE	"M. Carrano"		Edmontosaurus		sp.		Claosaurus		sp.		58850	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+57914	ETE	"M. Carrano"		Edmontosaurus		sp.		Anatosaurus		sp.		12319	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+57915	ETE	"M. Carrano"		Hadrosaurus		sp.						40648	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Navesink
+57918	ETE	"M. Carrano"		Hadrosaurus	?	minor					"YPM 1600"	14442	"United States"	"North Carolina"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Tar Heel"
+57918	ETE	"M. Carrano"		Hypsibema		crassicauda					"USNM 6136, 7189"	14442	"United States"	"North Carolina"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Tar Heel"
+57919	ETE	"M. Carrano"	cf.	Edmontosaurus		sp.						15577	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+58156	ETE	"M. Carrano"	"n. gen."	Pteropelyx	"n. sp."	grallipes		Diclonius		pentagonus	"AMNH 3971"	17576	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+58157	ETE	"M. Carrano"		Cionodon	"n. sp."	stenopsis					"AMNH uncatalogued"	15647	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Frenchman
+58157	ETE	"M. Carrano"	?	Hadrosaurus		sp.						15647	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Frenchman
+58168	ETE	"M. Carrano"		Cionodon		sp.		Cionodon		kyzylkumensis		38131	Uzbekistan	Navoi	Cretaceous	"Late/Upper Cretaceous"	Turonian	94.300	89.300	Bissekty
+58470	ETE	"M. Carrano"		Trachodon		sp.						16510	Kyrgyzstan	Osh	Cretaceous	"Late/Upper Cretaceous"	Cenomanian	99.700	94.300	Kurshab
+58491	ETE	"M. Carrano"		Troodon	"n. sp."	isfarensis					"CCMGE 484/12457"	16510	Tajikistan		Cretaceous	"Late/Upper Cretaceous"	Santonian	85.800	84.900	Yalovach
+58574	ETE	"M. Carrano"	"n. gen."	Secernosaurus	"n. sp."	koerneri					"FMNH PR 13423"	12425	Argentina	Chubut	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Lago Colhué Huapi"
+58759	ETE	"M. Carrano"		Prosaurolophus		maximus					"AMNH 5386"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58760	ETE	"M. Carrano"		Corythosaurus		sp.		Corythosaurus		casuarius		12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58903	ETE	"M. Carrano"		Corythosaurus		casuarius		Tetragonosaurus		sp.	"AMNH 5240"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58904	ETE	"M. Carrano"		Corythosaurus	"n. sp."	intermedius		Stephanosaurus	"n. sp."	intermedius	"ROM 776"	12343	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58905	ETE	"M. Carrano"		Corythosaurus		intermedius					"ROM 776"	12343	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58906	ETE	"M. Carrano"		Corythosaurus		intermedius					"ROM 776"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58911	ETE	"M. Carrano"		Lambeosaurus		lambei		Lambeosaurus		sp.	"ROM 1218"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58943	ETE	"M. Carrano"		Corythosaurus		casuarius					"AMNH 5240"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58946	ETE	"M. Carrano"		Gryposaurus		notabilis		Kritosaurus		notabilis	"NMC 2278"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.2	84.0	"Dinosaur Park"
+58947	ETE	"M. Carrano"	"n. gen."	Gryposaurus	"n. sp."	notabilis					"NMC 2278"	17546	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.2	84.0	"Dinosaur Park"
+58953	ETE	"M. Carrano"		Prosaurolophus		sp.		Prosaurolophus		maximus		12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+58955	ETE	"M. Carrano"		Lambeosaurus		lambei		Lambeosaurus		sp.	"ROM 1218"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59007	ETE	"M. Carrano"		Corythosaurus	"n. sp."	casuarius		Tetragonosaurus	"n. sp."	cranibrevis	"NMC 8633"	12118	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59008	ETE	"M. Carrano"		Corythosaurus		intermedius		Corythosaurus		excavatus	"ROM 776"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59009	ETE	"M. Carrano"		Corythosaurus		intermedius					"ROM 776"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59012	ETE	"M. Carrano"		Gryposaurus		notabilis	?	Gryposaurus		sp.		33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59013	ETE	"M. Carrano"		Gryposaurus		notabilis		Gryposaurus		sp.		33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59017	ETE	"M. Carrano"		Corythosaurus		casuarius					"AMNH 5240"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59019	ETE	"M. Carrano"		Parasaurolophus		walkeri		Corythosaurus		sp.	"ROM 768"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59021	ETE	"M. Carrano"		Prosaurolophus		maximus		Trachodontidae		indet.	"AMNH 5386"	62883	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59022	ETE	"M. Carrano"		Lambeosaurus		lambei		Lambeosaurus		lambei	"ROM 1218"	12053	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59041	ETE	"M. Carrano"	"n. gen."	Brachylophosaurus	"n. sp."	canadensis		Gryposaurus		sp.	"NMC 8893"	33225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59048	ETE	"M. Carrano"		Corythosaurus		casuarius					"AMNH 5240"	9597	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59049	ETE	"M. Carrano"		Prosaurolophus		maximus					"AMNH 5386"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59050	ETE	"M. Carrano"		Corythosaurus		casuarius					"AMNH 5240"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59051	ETE	"M. Carrano"		Prosaurolophus		maximus					"AMNH 5386"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59052	ETE	"M. Carrano"		Corythosaurus		casuarius					"AMNH 5240"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59102	ETE	"M. Carrano"		Gryposaurus		notabilis		Hadrosaurus		sp.	"NMC 2278"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.2	84.0	"Dinosaur Park"
+59106	ETE	"M. Carrano"		Corythosaurus		intermedius		Corythosaurus	cf.	intermedius	"ROM 776"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59119	ETE	"M. Carrano"		Gryposaurus		notabilis		Kritosaurus		sp.		15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59120	ETE	"M. Carrano"		Corythosaurus		casuarius		Corythosaurus		sp.	"AMNH 5240"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59144	ETE	"M. Carrano"		Corythosaurus		casuarius		Corythosaurus		sp.	"AMNH 5240"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59145	ETE	"M. Carrano"		Lambeosaurus		lambei		Lambeosaurus		sp.	"ROM 1218"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59221	ETE	"M. Carrano"		Corythosaurus		casuarius		Hadrosaurinae		indet.	"AMNH 5240"	12116	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59225	ETE	"M. Carrano"		Lambeosaurus		clavinitialis		Lambeosaurus		sp.	"NMC 8703"	15355	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+59373	ETE	"M. Carrano"		Hypacrosaurus		stebingeri					"MOR 549"	16613	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	73.9	73.7	"Two Medicine"
+59383	ETE	"M. Carrano"		Hadrosaurus		sp.						38158	Kazakhstan	Qostanay	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Zhuravlevskaya
+60474	ETE	"M. Carrano"		Pararhabdodon		isonensis		Hadrosauridae		indet.	"IPS-SRA 1"	55388	Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"La Posa"
+60875	ETE	"M. Carrano"		Hypacrosaurus		altispinus		Dinosauria		indet.		62881	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	
+61323	ETE	"M. Carrano"		Trachodon		sp.						59274	Spain	Aragón	Cretaceous	"Early/Lower Cretaceous"	Albian	112.600	99.700	Escucha
+61843	ETE	"M. Carrano"	cf.	Maiasaura		peeblesorum					"PU 22405"	15024	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+62317	ETE	"M. Carrano"		Parasaurolophus		sp.						18015	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+62489	ETE	"M. Carrano"		Kritosaurus		sp.						18036	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+62533	ETE	"M. Carrano"		Trachodon		sp.						46330	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland/Kirtland
+62535	ETE	"M. Carrano"		Kritosaurus		sp.						18036	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+62539	ETE	"M. Carrano"		Trachodon	?	marginatus		Stephanosaurus	?	marginatus	"NMC 419"	18053	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+62540	ETE	"M. Carrano"	""""	Trachodon		marginatus		Trachodontidae		indet.	"NMC 419"	18053	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+62721	ETE	"M. Carrano"		Corythosaurus	"n. sp."	casuarius		Corythosaurus	"n. sp."	excavatus	"UA 13"	12046	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+64334	ETE	"M. Carrano"		Prosaurolophus		sp.						18556	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+64335	ETE	"M. Carrano"		Lambeosaurus		sp.		Hadrosauridae		indet.		18556	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+64338	ETE	"M. Carrano"		Hadrosaurus		sp.						18556	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+64339	ETE	"M. Carrano"		Edmontosaurus		sp.						18556	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+64430	PaleoDB	"M. Carrano"	"n. gen."	Saurolophus	"n. sp."	osborni		Hadrosauridae		indet.	"AMNH 5220"	54104	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+64432	ETE	"M. Carrano"	"n. gen."	Hypacrosaurus	"n. sp."	altispinus					"AMNH 5206"	9647	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+64433	PaleoDB	"M. Carrano"		Hypacrosaurus		altispinus					"AMNH 5206"	9647	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	
+64434	PaleoDB	"M. Carrano"		Hypacrosaurus		altispinus					"AMNH 5206"	9647	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	
+64436	ETE	"M. Carrano"		Hypacrosaurus		altispinus					"AMNH 5206"	9647	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+64632	ETE	"M. Carrano"	"n. gen."	Prosaurolophus	"n. sp."	maximus					"AMNH 5386"	18647	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+65335	ETE	"M. Carrano"		Saurolophus		angustirostris					"PIN 551-8"	27284	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+67129	ETE	"M. Carrano"		Edmontosaurus		sp.		Anatosaurus		sp.		12319	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+67138	ETE	"M. Carrano"		Pararhabdodon		isonensis	"n. gen."	Pararhabdodon	"n. sp."	isonensis	"IPS-SRA 1"	10512	Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Conques
+69213	ETE	"M. Carrano"	"n. gen."	Trachodon	"n. sp."	mirabilis					"ANSP 9620"	13002	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+69214	ETE	"M. Carrano"	"n. gen."	Thespesius	"n. sp."	occidentalis					"USNM 219-221"	19954	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+69621	ETE	"M. Carrano"		Edmontosaurus		sp.						23357	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Horseshoe Canyon"
+70051	ETE	"M. Carrano"	"n. gen."	Glishades	"n. sp."	ericksoni					"AMNH 27414"	12319	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+70051	ETE	"M. Carrano"		Corythosaurus		casuarius		Procheneosaurus		erectofrons	"ROM 759"	12319	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+70052	ETE	"M. Carrano"		Lambeosaurus		clavinitialis		Corythosaurus		sp.	"NMC 8703"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+70054	ETE	"M. Carrano"		Lambeosaurus		lambei					"ROM 1218"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+70055	ETE	"M. Carrano"		Lambeosaurus		lambei					"ROM 1218"	12314	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+71141	PaleoDB	"M. Uhen"	"n. gen."	Hypsibema	"n. sp."	crassicauda					"USNM 6136, 7189"	15634	"United States"	"North Carolina"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+71436	ETE	"M. Carrano"	"n. gen."	Tyrannosauropus	"n. sp."	petersoni		Deinodontidae		indet.		29231	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Castlegate
+71485	ETE	"M. Carrano"	cf.	Kritosaurus		sp.						24167	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Santonian	85.800	84.900	"Milk River"
+72143	ETE	"M. Carrano"		Edmontosaurus		sp.						24421	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+72263	ETE	"M. Carrano"		Diclonius		sp.						24470	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+73891	ETE	"M. Carrano"		Brachylophosaurus		canadensis					"NMC 8893"	14804	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+74009	ETE	"M. Carrano"		Anatotitan		copei		Trachodon		sp.		63664	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+74120	ETE	"M. Carrano"		Lambeosaurus		magnicristatus		Hadrosauridae		indet.	"NMC 8705"	62727	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+74642	ETE	"M. Carrano"		Trachodon		mirabilis					"ANSP 9620"	25123	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"St. Mary River"
+75467	ETE	"M. Carrano"		Gryposaurus	"n. sp."	monumentensis					"RAM 6797"	25465	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kaiparowits
+76055	ETE	"M. Carrano"		Parasaurolophus		sp.		Lambeosaurus		sp.		12053	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+76062	ETE	"M. Carrano"		Edmontosaurus		regalis		Edmontosaurus		sp.	"NMC 2288"	25756	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+76062	ETE	"M. Carrano"		Saurolophus		sp.						25756	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+76745	ETE	"M. Carrano"	"n. gen."	Velafrons	"n. sp."	coahuilensis	cf.	Lambeosaurus		sp.	CPC-59	61988	Mexico	Coahuila	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Cerro del Pueblo"
+76753	PaleoDB	"M. Carrano"	"n. gen."	Anasazisaurus	"n. sp."	horneri					"BYU 12950"	1965	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+77259	ETE	"M. Carrano"		Prosaurolophus		maximus					"AMNH 5386"	26153	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+79034	ETE	"M. Carrano"	"n. gen."	Sahaliyania	"n. sp."	elunchunorum					"GMH W453"	26542	China	Heilongjiang	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Yuliangze
+79034	ETE	"M. Carrano"	"n. gen."	Wulagasaurus	"n. sp."	dongi					"GMH W184"	26542	China	Heilongjiang	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Yuliangze
+81999	PaleoDB	"M. Uhen"		Hadrosaurus	"n. sp."	minor					"YPM 1600"	15634	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Navesink
+83299	PaleoDB	"M. Carrano"		Edmontosaurus		sp.		Thespesius		sp.		12332	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+84455	ETE	"M. Carrano"		Edmontosaurus		sp.						28299	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+90032	ETE	"M. Carrano"	"n. gen."	Angulomastacator	"n. sp."	daviesi					"TMM 43681-1"	30165	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Aguja
+91359	ETE	"M. Carrano"		Edmontosaurus		sp.						30722	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+91473	ETE	"M. Carrano"	"n. gen."	Shantungosaurus	"n. sp."	giganteus	"n. gen."	Zhuchengosaurus	"n. sp."	maximus		30820	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Xingezhuang
+94370	ETE	"M. Carrano"		Edmontosaurus		sp.						4218	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+96534	PaleoDB	"M. Carrano"		Gryposaurus		notabilis	?	Kritosaurus		sp.	"NMC 2278"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+96815	ETE	"M. Carrano"	"n. gen."	Huaxiaosaurus	"n. sp."	aigahtens		Shantungosaurus		sp.		32999	China	Shandong	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Xingezhuang
+97614	ETE	"M. Carrano"		Jaxartosaurus		sp.		Yaxartosaurus		sp.		33322	China	Xinjiang	Cretaceous	"Late/Upper Cretaceous"		99.700	66.043	Ulungar
+98972	ETE	"M. Carrano"	?	Hadrosaurus		sp.						53137	"United States"	Mississippi	Cretaceous	"Late/Upper Cretaceous"		85.800	70.600	Eutaw
+99139	ETE	"M. Carrano"	cf.	Kritosaurus		sp.						34097	Mexico	Coahuila	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Aguja
+99441	Fossilworks	"J. Alroy"		Trachodon		sp.						34199	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+100266	ETE	"M. Carrano"		Saurolophus		sp.						42293	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+100268	ETE	"M. Carrano"		Saurolophus		sp.						55060	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+100273	ETE	"M. Carrano"		Saurolophus		sp.		Hadrosauridae		indet.		42293	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+106277	PaleoDB	"M. Carrano"	?	Hadrosaurus		sp.						35424	"United States"	"North Carolina"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+120363	PaleoDB	"M. Carrano"	"n. gen."	Acristavus	"n. sp."	gagslarsoni					"MOR 1155"	38486	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+120364	PaleoDB	"M. Carrano"		Acristavus		gagslarsoni					"MOR 1155"	38486	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wahweap
+125953	PaleoDB	"M. Uhen"		Hadrosaurus		foulkii					"ANSP 10005"	40903	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+127670	ETE	"R. Benson"		Saurolophus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+127670	ETE	"R. Benson"	?	Saurolophus		sp.		Hadrosauridae		indet.		42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+127671	ETE	"R. Benson"		Saurolophus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+127674	PaleoDB	"R. Benson"		Saurolophus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+127681	PaleoDB	"R. Benson"		Saurolophus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+127682	ETE	"R. Benson"		Saurolophus		sp.						42289	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+128559	ETE	"R. Benson"		Edmontosaurus		annectens		Hadrosauridae		indet.	"USNM 2414"	14442	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+129271	PaleoDB	"R. Benson"	"n. gen."	Kamuysaurus	"n. sp."	japonicus					HMG-1219	42111	Japan	Hokkaido	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Lower sandy Siltstone"
+130271	ETE	"M. Carrano"		Mandschurosaurus	"n. sp."	laosensis		Hadrosauridae		indet.		42220	Laos	Savannakhet	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	"Grès supérieurs"
+130271	ETE	"M. Carrano"	cf.	Mandschurosaurus		laosensis						42220	Laos	Savannakhet	Cretaceous	"Early/Lower Cretaceous"		125.450	99.700	"Grès supérieurs"
+131865	PaleoDB	"R. Benson"		Edmontosaurus		sp.		Anatosaurus		sp.		14442	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+135739	ETE	"M. Carrano"		Hypacrosaurus		altispinus					"AMNH 5206"	43426	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+135740	ETE	"M. Carrano"		Hypacrosaurus		altispinus					"AMNH 5206"	43426	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+135741	ETE	"M. Carrano"		Hypacrosaurus		altispinus					"AMNH 5206"	43426	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+135743	ETE	"M. Carrano"		Hypacrosaurus		altispinus					"AMNH 5206"	43426	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Horseshoe Canyon"
+138447	PaleoDB	"M. Clapham"		Edmontosaurus		regalis					"NMC 2288"	44344	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wapiti
+138835	ETE	"M. Carrano"		Parasaurolophus		tubicen	cf.	Parasaurolophus		tubicen	"PMU.R 1250"	44514	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+142326	PaleoDB	"M. Carrano"		Edmontosaurus		sp.						46207	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+142375	PaleoDB	"M. Carrano"		Edmontosaurus		sp.		Ceratopsia		indet.		53256	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+142376	PaleoDB	"M. Carrano"		Edmontosaurus		sp.		Claosaurus		sp.		53185	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+142488	PaleoDB	"M. Carrano"		Trachodon		sp.						46255	"United States"	"North Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+142493	PaleoDB	"M. Carrano"		Trachodon		sp.						46255	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+142495	PaleoDB	"M. Carrano"		Hadrosaurus	"n. sp."	breviceps					"YPM 1779"	10620	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+142497	PaleoDB	"M. Carrano"		Gryposaurus	"n. sp."	latidens		Hadrosauridae		indet.	"AMNH 5465"	12319	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"		85.800	70.600	"Two Medicine"
+142498	ETE	"M. Carrano"		Hypacrosaurus		sp.						12319	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+142499	PaleoDB	"M. Carrano"		Corythosaurus		casuarius		Procheneosaurus		erectofrons	"ROM 759"	12319	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Two Medicine"
+142510	ETE	"M. Carrano"		Kritosaurus		sp.						53185	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+148949	PaleoDB	"P. Mannion"		Pararhabdodon		isomensis						47749	Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Conques
+150884	PaleoDB	"M. Carrano"	?	Kritosaurus		sp.						12319	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Fruitland
+150933	PaleoDB	"M. Carrano"		Edmontosaurus		annectens		Anatosaurus		annectens	"USNM 2414"	12319	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+150976	PaleoDB	"M. Carrano"		Edmontosaurus		sp.		Anatosaurus		sp.		12319	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+150978	PaleoDB	"M. Carrano"		Corythosaurus		casuarius					"AMNH 5240"	12319	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+152403		"M. Carrano"	?	Edmontosaurus		sp.						49055	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Horseshoe Canyon"
+154462		"D. Nicholson"		Kritosaurus	cf.	navajovius					"AMNH 5799"	50161	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+154639		"D. Nicholson"		Kritosaurus	cf.	navajovius					"AMNH 5799"	50161	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+157189		"M. Carrano"		Edmontosaurus		sp.						51520	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+161904		"M. Carrano"		Trachodon		mirabilis					"ANSP 9620"	52721	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+161992		"P. Mannion"	"n. gen."	Rhinorex	"n. sp."	condrupus					"BYU 13258"	52770	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Neslen
+162137		"M. Carrano"		Prosaurolophus		maximus		Prosaurolophus		sp.	"AMNH 5386"	52782	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Bearpaw Shale"
+162138		"M. Carrano"		Prosaurolophus		maximus		Brachylophosaurus		sp.	"AMNH 5386"	52782	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Bearpaw Shale"
+162171		"M. Carrano"		Brachylophosaurus		canadensis					"NMC 8893"	52782	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Oldman
+164991		"M. Carrano"	?	Trachodon		sp.		Trachodon		sp.		53992	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+164992		"M. Carrano"	?	Trachodon		sp.		Trachodon		sp.		53992	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+164993		"M. Carrano"	?	Trachodon		sp.		Trachodon		sp.		53992	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+167744		"M. Carrano"		Hadrosaurus		foulkii					"ANSP 10005"	54671	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+167779		"M. Carrano"	""""	Hadrosaurus		minor					"YPM 1600"	62802	"United States"	"New Jersey"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+167804		"M. Carrano"		Brachylophosaurus	cf.	canadensis					"NMC 8893"	54856	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Judith River"
+167916		"M. Carrano"	"n. gen."	Adelolophus	"n. sp."	hutchisoni					"UCMP 152028"	54881	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Wahweap
+170926		"M. Carrano"		Magnapaulia		laticaudus					"LACM 17715 (=IGM 5843)"	55641	Mexico	"Baja California"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"El Gallo"
+170927		"M. Carrano"		Magnapaulia		laticaudus					"LACM 17715 (=IGM 5843)"	55641	Mexico	"Baja California"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"El Gallo"
+170928		"M. Carrano"		Magnapaulia		laticaudus					"LACM 17715 (=IGM 5843)"	55641	Mexico	"Baja California"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"El Gallo"
+171030		"M. Carrano"		Parasaurolophus		sp.						55658	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+171030		"M. Carrano"		Parasaurolophus	cf.	tubicen					"PMU.R 1250"	55658	"United States"	"New Mexico"	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kirtland
+171094		"P. Mannion"		Trachodon		sp.						55474	"United States"	Wyoming	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+171099		"M. Carrano"		Pararhabdodon		isonensis					"IPS-SRA 1"	54956	Spain	Cataluña	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Conques
+172587		"M. Carrano"	"n. gen."	Canardia	"n. sp."	garonnensis	?	Pararhabdodon		sp.	"MDE Ma3-16"	56237	France	Haute-Garonne	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Marnes d'Auzas"
+172613		"M. Carrano"		Gryposaurus		sp.						56075	"United States"	Utah	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	Kaiparowits
+178689		"M. Carrano"		Shantungosaurus	cf.	giganteus					"GMV V.1780-1"	14794	China	Shaanxi	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Shanyang/Hongtuling
+179625		"M. Carrano"		Saurolophus		angustirostris					"PIN 551-8"	59136	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Nemegt
+179970		"M. Carrano"		Trachodon		sp.						55474	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Lance
+180702		"M. Carrano"		Saurolophus		angustirostris					"PIN 551-8"	10453	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+180703		"M. Carrano"		Saurolophus		angustirostris					"PIN 551-8"	10453	Mongolia	Omnogov	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nemegt
+181177		"M. Carrano"	"n. gen."	Eotrachodon	"n. sp."	orientalis					"MSC 7949"	60214	"United States"	Alabama	Cretaceous	"Late/Upper Cretaceous"	Santonian	85.800	84.900	"Mooreville Chalk"
+183109		"P. Holroyd"	cf.	Edmontosaurus		sp.						61095	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+187092		"M. Carrano"	?	Gryposaurus		alsatei					"TMM 46033-1"	62764	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Javelina
+187093		"M. Carrano"		Kritosaurus		sp.						62764	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Javelina
+187094		"M. Carrano"		Kritosaurus		sp.	cf.	Edmontosaurus		sp.		63793	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Javelina
+187119		"M. Carrano"	"n. gen."	Microhadrosaurus	"n. sp."	nanshiungensis					"IVPP V.4732"	9256	China	Guangdong	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	Nanxiong
+188485		"M. Carrano"		Trachodon		sp.						63225	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	
+188840		"M. Carrano"		Trachodon		sp.						63399	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Scollard
+189568		"M. Carrano"		Edmontosaurus		sp.		Trachodontidae		indet.		63708	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"		84.900	66.043	"Horseshoe Canyon"
+189805		"M. Carrano"		Kritosaurus		sp.						63793	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Aguja
+189810		"M. Carrano"		Kritosaurus		sp.						63793	"United States"	Texas	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Aguja
+192251		"P. Holroyd"		Edmontosaurus		sp.		Anatosaurus		sp.		66164	"United States"	"South Dakota"	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+194654		"G. Lloyd"	"n. gen."	Probrachylophosaurus	"n. sp."	bergei					"MOR 2919"	66141	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Campanian	79.8	79.5	"Judith RIver"
+202036		"M. Carrano"		Edmontosaurus		annectens					"USNM 2414"	69212	"United States"	Montana	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	"Hell Creek"
+204697		"M. Carrano"		Prosaurolophus		maximus					"AMNH 5386"	70243	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Bearpaw Shale"
+206775		"M. Clapham"		Prosaurolophus		maximus					"AMNH 5386"	71097	Canada	Alberta	Cretaceous	"Late/Upper Cretaceous"	Campanian	84.900	70.600	"Dinosaur Park"
+207033		"G. Lloyd"	"n. gen."	Adynomosaurus	"n. sp."	arcanus					"MCD 712"	71247	Spain	Lleida	Cretaceous	"Late/Upper Cretaceous"	Maastrichtian	70.600	66.043	Conques
