@@ -1,0 +1,16 @@
+Species	Status
+Ahshislepelta_minor	extinct
+Akainacephalus_johnsoni	extinct
+Aletopelta__coombsi	extinct
+Ankylosaurus_magniventris	extinct
+Anodontosaurus_inceptus	extinct
+Anodontosaurus_lambei	extinct
+Cedarpelta_bilbeyhallorum	extinct
+Dyoplosaurus_acutosquameus	extinct
+Euoplocephalus_tutus	extinct
+Nodocephalosaurus_kirtlandensis	extinct
+Oohkotokia_horneri	extinct
+Scolosaurus_cutleri	extinct
+Scolosaurus_thronus	extinct
+Ziapelta_sanjuanensis	extinct
+Zuul_crurivastator	extinct

@@ -1,0 +1,11 @@
+Species	Status
+Albertavenator_curriei	extinct
+Geminiraptor_suarezarum	extinct
+Hesperornithoides_miessleri	extinct
+Indet_troodontid	extinct
+Koparion_douglassi	extinct
+Latenivenatrix_mcmasterae	extinct
+Pectinodon_bakkeri	extinct
+Stenonychosaurus_inequalis	extinct
+Talos_sampsoni	extinct
+Troodon_formosus	extinct

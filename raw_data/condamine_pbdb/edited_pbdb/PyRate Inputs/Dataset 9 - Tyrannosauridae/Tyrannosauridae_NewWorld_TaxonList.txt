@@ -1,0 +1,13 @@
+Species	Status
+Albertosaurus_sarcophagus	extinct
+Bistahieversor_sealeyi	extinct
+Daspletosaurus_horneri	extinct
+Daspletosaurus_novsp	extinct
+Daspletosaurus_torosus	extinct
+Dynamoterror__dynastes	extinct
+Gorgosaurus_libratus	extinct
+Lythronax_argestes	extinct
+Nanuqsaurus_hoglundi	extinct
+Teratophoneus__curriei	extinct
+Thanatotheristes_degrootorum	extinct
+Tyrannosaurus_rex	extinct
