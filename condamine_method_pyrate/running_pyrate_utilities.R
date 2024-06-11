@@ -28,8 +28,7 @@ if(is.null(opt$input)) {
   quit(status=1)
 }
 
-setwd(opt$directory)
-
 source(opt$pyrate)
+setwd(opt$directory)
 hydro.ages<-extract.ages(file=opt$input, replicates=100)
 
