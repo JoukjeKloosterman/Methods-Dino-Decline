@@ -1,0 +1,170 @@
+accepted_name	status	max_ma	min_ma
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	70.6	66
+Ankylosauridae	extinct	83.5	70.6
+Shamosaurus scutatus	extinct	125	100.5
+Ankylosauridae	extinct	83.5	70.6
+Pinacosaurus grangeri	extinct	83.6	72.1
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Pinacosaurus grangeri	extinct	83.5	70.6
+Pinacosaurus	extinct	83.5	70.6
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus mephistocephalus	extinct	83.6	72.1
+Tarchia gigantea	extinct	83.6	66
+Tarchia gigantea	extinct	83.6	66
+Tarchia gigantea	extinct	83.6	66
+Saichania chulsanensis	extinct	83.5	70.6
+Tianzhenosaurus youngi	extinct	100.5	72.1
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Oohkotokia horneri	extinct	83.6	72.1
+Anodontosaurus lambei	extinct	83.5	70.6
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosaurus magniventris	extinct	70.6	66
+Ankylosaurus magniventris	extinct	70.6	66
+Ankylosaurus magniventris	extinct	70.6	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Dyoplosaurus acutosquameus	extinct	83.5	70.6
+Ankylosauridae	extinct	70.6	66
+Minmi	extinct	105.3	99.6
+Euoplocephalus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Euoplocephalus	extinct	83.5	70.6
+Ankylosauridae	extinct	145	100.5
+Ankylosauridae	extinct	113	100.5
+Euoplocephalus	extinct	83.5	70.6
+Ankylosaurus magniventris	extinct	70.6	66
+Euoplocephalus tutus	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	129.4	113
+Euoplocephalus	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Shanxia	extinct	100.5	66
+Anodontosaurus lambei	extinct	70.6	66
+Talarurus plicatospineus	extinct	100.5	89.8
+Ankylosauridae	extinct	85.8	70.6
+Cedarpelta bilbeyhallorum	extinct	125	100.5
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Platypelta coombsi	extinct	83.5	70.6
+Euoplocephalus	extinct	83.5	70.6
+Euoplocephalus	extinct	70.6	66
+Euoplocephalus	extinct	72.1	66
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Pinacosaurus grangeri	extinct	100.5	66
+Ankylosaurus	extinct	83.5	70.6
+Oohkotokia horneri	extinct	83.6	72.1
+Ankylosauridae	extinct	99.6	93.5
+Gobisaurus domoculus	extinct	93.9	89.8
+Ankylosauridae	extinct	83.6	72.1
+Ankylosaurus	extinct	70.6	66
+Ankylosaurus	extinct	70.6	66
+Ankylosaurus	extinct	70.6	66
+Ankylosaurus	extinct	70.6	66
+Ankylosaurus	extinct	70.6	66
+Nodocephalosaurus kirtlandensis	extinct	83.5	70.6
+Nodocephalosaurus kirtlandensis	extinct	83.5	70.6
+Nodocephalosaurus kirtlandensis	extinct	83.5	70.6
+Nodocephalosaurus kirtlandensis	extinct	83.5	70.6
+Zhongyuangosaurus luoyangensis	extinct	100.5	89.8
+Talarurus plicatospineus	extinct	100.5	89.8
+Pinacosaurus	extinct	145	100.5
+Tarchia gigantea	extinct	83.5	66
+Shamosaurus scutatus	extinct	125	100.5
+Saichania chulsanensis	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.5	70.6
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	196.5	183
+Cedarpelta bilbeyhallorum	extinct	122.46	109
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Crichtonsaurus bohlini	extinct	100.5	89.8
+Crichtonsaurus benxiensis	extinct	100.5	89.8
+Ankylosauridae	extinct	83.5	66
+Ankylosauridae	extinct	83.5	66
+Ankylosauridae	extinct	83.5	66
+Ankylosauridae	extinct	100.5	66
+Ankylosauridae	extinct	83.5	66
+Ankylosauridae	extinct	83.5	66
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Tsagantegia	extinct	100.5	83.6
+Pinacosaurus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.5	66
+Tarchia	extinct	72.1	66
+Ankylosauridae	extinct	70.6	66
+Ankylosauridae	extinct	70.6	66
+Ankylosauridae	extinct	105.3	93.9
+Oohkotokia horneri	extinct	83.5	70.6
+Tarchia gigantea	extinct	83.6	66
+Ankylosauridae	extinct	83.5	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	70.6	66
+Anodontosaurus lambei	extinct	70.6	66
+Anodontosaurus lambei	extinct	70.6	66
+Oohkotokia	extinct	85.8	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Euoplocephalus tutus	extinct	83.5	70.6
+Ankylosauridae	extinct	72.1	66
+Scolosaurus thronus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.5	70.6
+Anodontosaurus lambei	extinct	70.6	66
+Anodontosaurus lambei	extinct	70.6	66
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Platypelta coombsi	extinct	83.5	70.6
+Anodontosaurus inceptus	extinct	83.5	70.6
+Anodontosaurus lambei	extinct	83.6	66
+Anodontosaurus inceptus	extinct	83.5	66
+Anodontosaurus lambei	extinct	83.5	66
+Anodontosaurus lambei	extinct	83.5	66
+Euoplocephalus tutus	extinct	83.5	70.6
+Platypelta coombsi	extinct	83.6	72.1
+Ankylosauridae	extinct	83.5	70.6
+Platypelta coombsi	extinct	83.5	70.6
+Platypelta coombsi	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Ankylosauridae	extinct	83.5	70.6
+Platypelta coombsi	extinct	83.5	70.6
+Ankylosauridae	extinct	99.6	93.5
+Ahshislepelta minor	extinct	83.5	70.6
+Euoplocephalus	extinct	83.6	66
+Chuanqilong chaoyangensis	extinct	125	113
+Ankylosauridae	extinct	83.5	70.6
+Pinacosaurus grangeri	extinct	83.5	70.6
+Ankylosauridae	extinct	125	100.5
+Pinacosaurus grangeri	extinct	85.8	70.6
+Ankylosauridae	extinct	83.5	70.6
+Pinacosaurus	extinct	83.6	72.1
+Pinacosaurus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	100.5	89.8
+Ankylosauridae	extinct	100.5	83.6
+Ankylosauridae	extinct	145	100.5
+Pinacosaurus	extinct	83.5	70.6
+Ziapelta sanjuanensis	extinct	83.5	70.6
+Ankylosauridae	extinct	83.6	72.1

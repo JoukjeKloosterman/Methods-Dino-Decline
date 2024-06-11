@@ -1,0 +1,881 @@
+accepted_name	status	max_ma	min_ma
+Saurornitholestes	extinct	72.1	66
+Velociraptor	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Dromaeosaurinae	extinct	119.5	113
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Acheroraptor	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Utahraptor ostrommaysi	extinct	139.8	132.6
+Utahraptor ostrommaysi	extinct	139.8	132.6
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosauridae	extinct	119.5	113
+Dromaeosauridae	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Variraptor mechinorum	extinct	83.6	72.1
+Variraptor mechinorum	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	72.1
+Nuthetes destructor	extinct	145	140.6
+Nuthetes destructor	extinct	145	140.6
+Dromaeosauridae	extinct	125.77	121.4
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Deinonychus antirrhopus	extinct	121.4	109.9
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Pyroraptor olympius	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Velociraptor mongoliensis	extinct	83.6	72.1
+Velociraptor	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus	extinct	72.1	66
+Dromaeosauridae	extinct	119.5	109.9
+Richardoestesia	extinct	72.1	66
+Velociraptorinae	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	121.4	113
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Dromaeosauridae	extinct	113	109.9
+Dromaeosauridae	extinct	113	109.9
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Zapsalis	extinct	72.1	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	72.1	66
+Deinonychus antirrhopus	extinct	119.5	109.9
+Rahonavis ostromi	extinct	72.1	66
+Saurornitholestes sullivani	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Neuquenraptor argentinus	extinct	93.9	86.3
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Pyroraptor olympius	extinct	83.6	72.1
+Variraptor mechinorum	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Zapsalis	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Unenlagia paynemili	extinct	93.9	86.3
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosaurinae	extinct	100.5	93.9
+Velociraptorinae	extinct	100.5	93.9
+Dromaeosauridae	extinct	86.3	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	121.4	109.9
+Deinonychus antirrhopus	extinct	121.4	109.9
+Deinonychus antirrhopus	extinct	121.4	109.9
+Dromaeosauridae	extinct	125.77	121.4
+Dromaeosauridae	extinct	125.77	121.4
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus	extinct	113	100.5
+Deinonychus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus	extinct	113	100.5
+Deinonychus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Velociraptor mongoliensis	extinct	83.6	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	109.9	93.9
+Dromaeosaurus albertensis	extinct	72.1	66
+Dromaeosaurus albertensis	extinct	72.1	66
+Saurornitholestes langstoni	extinct	72.1	66
+Dromaeosaurus albertensis	extinct	72.1	66
+Dromaeosauridae	extinct	86.3	83.6
+Dromaeosauridae	extinct	83.6	72.1
+Balaur bondoc	extinct	72.1	66
+Nuthetes destructor	extinct	142.7	140.6
+Velociraptorinae	extinct	132.6	113
+Deinonychus	extinct	113	100.5
+Sinornithosaurus millenii	extinct	125.77	119.5
+Dromaeosauridae	extinct	119.5	113
+Dromaeosauridae	extinct	93.9	86.3
+Dromaeosauridae	extinct	121.4	113
+Deinonychus	extinct	119.5	109.9
+Deinonychus antirrhopus	extinct	119.5	109.9
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	125.77	121.4
+Dromaeosaurus	extinct	72.1	66
+Dromaeosauridae	extinct	125.77	121.4
+Deinonychus	extinct	109.9	93.9
+Unenlagia comahuensis	extinct	93.9	86.3
+Dromaeosauridae	extinct	83.6	72.1
+Velociraptorinae	extinct	146.3	142.7
+Buitreraptor gonzalezorum	extinct	100.5	93.9
+Microraptor zhaoianus	extinct	121.4	113
+Microraptor gui	extinct	121.4	113
+Microraptor zhaoianus	extinct	121.4	113
+Achillobator giganticus	extinct	100.5	83.6
+Saurornitholestes	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	89.8	83.6
+Dromaeosauridae	extinct	93.9	89.8
+Asiamericana asiatica	extinct	93.9	89.8
+Dromaeosauridae	extinct	93.9	89.8
+Dromaeosaurus explanatus	extinct	100.5	93.9
+Dromaeosauridae	extinct	86.3	83.6
+Richardoestesia	extinct	72.1	66
+Austroraptor cabazai	extinct	83.6	66
+Dromaeosauridae	extinct	125.77	121.4
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurinae	extinct	86.3	72.1
+Velociraptorichnus sichuanensis	extinct	125.77	100.5
+Richardoestesia	extinct	72.1	66
+Dromaeosaurinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	125.77	121.4
+Velociraptorinae	extinct	125.77	121.4
+Dromaeosaurinae	extinct	125.77	121.4
+Richardoestesia	extinct	125.77	121.4
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	119.5	113
+Dromaeosaurus	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Bambiraptor feinbergi	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Nuthetes	extinct	145	140.6
+Dromaeosauridae	extinct	121.4	113
+Dromaeosauridae	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	61.6
+Dromaeosauridae	extinct	100.5	93.9
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Tsaagan mangas	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes langstoni	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Dromaeosauroides bornholmensis	extinct	140.6	139.8
+Dromaeosauridae	extinct	125.77	121.4
+Shanag ashile	extinct	145	100.5
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Velociraptor mongoliensis	extinct	100.5	66
+Nuthetes destructor	extinct	142.7	140.6
+Velociraptorinae	extinct	86.3	72.1
+Dromaeosaurinae	extinct	86.3	72.1
+Dromaeosaurinae	extinct	86.3	72.1
+Dromaeosaurinae	extinct	86.3	72.1
+Dromaeosauridae	extinct	86.3	72.1
+Dromaeosauridae	extinct	100.5	93.9
+Richardoestesia isosceles	extinct	100.5	93.9
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	100.5	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Imperobator antarcticus	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Velociraptorichnus sichuanensis	extinct	125.77	100.5
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Sinornithosaurus	extinct	125.77	119.5
+Microraptor zhaoianus	extinct	121.4	113
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	145	142.7
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	125.77	121.4
+Velociraptor osmolskae	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Mahakala omnogovae	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	72.1	66
+Saurornitholestes langstoni	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosaurus albertensis	extinct	72.1	66
+Atrociraptor marshalli	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Hesperonychus elizabethae	extinct	83.6	72.1
+Hesperonychus elizabethae	extinct	83.6	72.1
+Hesperonychus elizabethae	extinct	83.6	72.1
+Hesperonychus elizabethae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	66
+Graciliraptor lujiatunensis	extinct	125.77	119.5
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	125.77	121.4
+Dromaeosauridae	extinct	132.6	125.77
+Dromaeosauridae	extinct	125.77	121.4
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	72.1	66
+Tianyuraptor ostromi	extinct	125.77	119.5
+Sinornithosaurus millenii	extinct	125.77	119.5
+Dromaeosaurinae	extinct	83.6	66
+Atrociraptor marshalli	extinct	72.1	66
+Bambiraptor feinbergi	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Velociraptorinae	extinct	83.6	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Unenlagiinae	extinct	72.1	66
+Velociraptorinae	extinct	146.3	142.7
+Velociraptorinae	extinct	146.3	142.7
+Dromaeosauridae	extinct	125.77	121.4
+Dromaeosaurinae	extinct	125.77	121.4
+Velociraptorinae	extinct	125.77	121.4
+Boreonykus certekorum	extinct	83.6	72.1
+Boreonykus certekorum	extinct	83.6	72.1
+Velociraptorinae	extinct	139.8	132.6
+Dromaeosauridae	extinct	121.4	100.5
+Dromaeosauridae	extinct	121.4	100.5
+Dromaeosauridae	extinct	121.4	100.5
+Dromaeosauridae	extinct	121.4	100.5
+Dromaeosauridae	extinct	121.4	100.5
+Microraptor	extinct	121.4	113
+Balaur bondoc	extinct	72.1	66
+Velociraptorinae	extinct	140.6	132.6
+Dromaeosauridae	extinct	139.8	132.6
+Microraptor	extinct	121.4	113
+Dromaeosauridae	extinct	121.4	113
+Rahonavis ostromi	extinct	72.1	66
+Deinonychus antirrhopus	extinct	121.4	100.5
+Luanchuanraptor henanensis	extinct	72.1	66
+Dromaeosauridae	extinct	121.4	100.5
+Velociraptorinae	extinct	139.8	132.6
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Deinonychus	extinct	109.9	93.9
+Yurgovuchia doellingi	extinct	140.6	132.6
+Velociraptor	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Linheraptor exquisitus	extinct	83.6	72.1
+Unenlagiinae	extinct	89.8	83.6
+Microraptor hanqingi	extinct	121.4	113
+Richardoestesia	extinct	72.1	66
+Dromaeosaurinae	extinct	125.77	121.4
+Dromaeosaurinae	extinct	125.77	121.4
+Velociraptorinae	extinct	125.77	121.4
+Dromaeosaurinae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Dromaeosaurinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	66
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Dromaeosauridae	extinct	106.2	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	121.4	113
+Deinonychus antirrhopus	extinct	121.4	113
+Dromaeosauridae	extinct	100.5	93.9
+Austroraptor cabazai	extinct	83.6	66
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	100.5	66
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosaurinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Nuthetes	extinct	145	139.8
+Dromaeosauridae	extinct	132.6	121.4
+Dromaeosauridae	extinct	125.77	119.5
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	66
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	66
+Richardoestesia gilmorei	extinct	83.6	66
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Atrociraptor marshalli	extinct	83.6	66
+Atrociraptor marshalli	extinct	83.6	66
+Atrociraptor marshalli	extinct	83.6	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Acheroraptor temertyorum	extinct	72.1	66
+Dromaeosauridae	extinct	125.77	119.5
+Deinonychus	extinct	121.4	100.5
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Microraptor zhaoianus	extinct	121.4	113
+Dromaeosauridae	extinct	72.1	66
+Changyuraptor yangi	extinct	125.77	119.5
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Velociraptor	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Itemirus medullaris	extinct	93.9	89.8
+Dromaeosauridae	extinct	93.9	89.8
+Dromaeosauridae	extinct	93.9	89.8
+Dromaeosauridae	extinct	93.9	89.8
+Dromaeosauridae	extinct	145	100.5
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	100.5	83.6
+Itemirus medullaris	extinct	93.9	89.8
+Itemirus medullaris	extinct	93.9	89.8
+Itemirus medullaris	extinct	93.9	89.8
+Itemirus medullaris	extinct	93.9	89.8
+Velociraptor	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Velociraptor	extinct	83.6	72.1
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	132.6	113
+Dromaeosauridae	extinct	132.6	121.4
+Dromaeosauridae	extinct	119.5	109.9
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Pyroraptor olympius	extinct	83.6	72.1
+Dromaeosauridae	extinct	86.3	83.6
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dakotaraptor steini	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Deinonychus antirrhopus	extinct	113	100.5
+Velociraptor	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Hulsanpes perlei	extinct	83.6	72.1
+Dromaeosauridae	extinct	100.5	93.9
+Microraptor	extinct	121.4	113
+Richardoestesia	extinct	83.6	66
+Velociraptorichnus	extinct	83.6	72.1
+Adasaurus mongoliensis	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Deinonychus	extinct	145	125.77
+Dromaeosauridae	extinct	125.77	121.4
+Halszkaraptor escuilliei	extinct	83.6	72.1
+Richardoestesia	extinct	72.1	66
+Zhenyuanlong suni	extinct	125.77	119.5
+Dromaeosaurus	extinct	72.1	66
+Dineobellator notohesperus	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	66
+Dromaeosauridae	extinct	100.5	93.9
+Richardoestesia	extinct	100.5	93.9
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosaurinae	extinct	72.1	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Velociraptorichnus	extinct	139.8	132.6
+Microraptor zhaoianus	extinct	121.4	113
+Dromaeosauridae	extinct	106.2	93.9
+Dromaeosauridae	extinct	106.2	93.9
+Dromaeosauridae	extinct	106.2	93.9
+Dromaeosauridae	extinct	146.3	142.7
+Dromaeosauridae	extinct	146.3	142.7
+Dromaeosauridae	extinct	146.3	142.7
+Dromaeosauridae	extinct	146.3	142.7
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	100.5	93.9
+Richardoestesia	extinct	100.5	93.9
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestes	extinct	83.6	72.1
+Shri devi	extinct	83.6	72.1
+Zhongjianosaurus yangi	extinct	121.4	113
+Dromaeosauridae	extinct	132.6	121.4
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	86.3	66
+Dromaeosauridae	extinct	72.1	66
+Neuquenraptor argentinus	extinct	93.9	86.3
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	125.77	119.5
+Dromaeosauriformipes rarus	extinct	113	100.5
+Dromaeosauridae	extinct	83.6	66
+Velociraptorichnus	extinct	145	100.5
+Dromaeosauridae	extinct	72.1	66
+Velociraptorichnus	extinct	125.77	100.5
+Velociraptorichnus zhangi	extinct	145	100.5
+Velociraptorichnus	extinct	145	139.8
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Wulong bohaiensis	extinct	121.4	113
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Velociraptorinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosauridae	extinct	100.5	89.8
+Utahraptor	extinct	139.8	132.6
+Deinonychus	extinct	100.5	93.9
+Deinonychus antirrhopus	extinct	113	100.5
+Richardoestesia	extinct	113	100.5
+Ypupiara lopai	extinct	72.1	66
+Kansaignathus sogdianus	extinct	86.3	83.6
+Kuru kulla	extinct	83.6	72.1
+Deinonychus antirrhopus	extinct	121.4	100.5
+Dromaeosauridae	extinct	100.5	93.9
+Richardoestesia asiatica	extinct	100.5	93.9
+Richardoestesia asiatica	extinct	100.5	93.9
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosaurinae	extinct	100.5	93.9
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	66
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	66
+Richardoestesia	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dakotaraptor steini	extinct	72.1	66
+Acheroraptor temertyorum	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	119.5	109.9
+Dromaeosauridae	extinct	72.1	66
+Vectiraptor greeni	extinct	125.77	121.4
+Dromaeosauridae	extinct	145	100.5
+Buitreraptor gonzalezorum	extinct	100.5	93.9
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	66
+Richardoestesia	extinct	83.6	66
+Nuthetes	extinct	145	139.8
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	93.9	89.8
+Dromaeosauridae	extinct	106.2	93.9
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	121.4	109.9
+Unenlagiinae	extinct	83.6	72.1
+Unenlagiinae	extinct	83.6	72.1
+Dromaeosaurus	extinct	72.1	66
+Richardoestesia	extinct	139.8	132.6
+Dromaeosauridae	extinct	139.8	132.6
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Deinonychus	extinct	119.5	113
+Richardoestesia	extinct	119.5	113
+Velociraptorichnus	extinct	113	86.3
+Deinonychus antirrhopus	extinct	119.5	109.9
+Daurlong wangi	extinct	121.4	119.5
+Deinonychus antirrhopus	extinct	109.9	93.9
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Buitreraptor gonzalezorum	extinct	100.5	93.9
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	86.3	72.1
+Velociraptorinae	extinct	93.9	89.8
+Dromaeosaurinae	extinct	93.9	89.8
+Dromaeosaurinae	extinct	83.6	72.1
+Velociraptorinae	extinct	83.6	72.1
+Velociraptorinae	extinct	93.9	89.8
+Dromaeosaurinae	extinct	83.6	72.1
+Saurornitholestes	extinct	72.1	66
+Natovenator polydontus	extinct	83.6	72.1
+Velociraptorinae	extinct	83.6	66
+Dromaeosaurinae	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	66

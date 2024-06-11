@@ -1,0 +1,234 @@
+accepted_name	status	max_ma	min_ma
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Latenivenatrix mcmasterae	extinct	83.6	72.1
+Byronosaurus jaffei	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Borogovia gracilicrus	extinct	72.1	66
+Saurornithoides mongoliensis	extinct	83.6	72.1
+Troodon	extinct	72.1	66
+Troodon	extinct	72.1	66
+Sinornithoides	extinct	113	109.9
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Byronosaurus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Pectinodon bakkeri	extinct	72.1	66
+Pectinodon bakkeri	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Sinornithoides youngi	extinct	139.8	100.5
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Saurornithoides mongoliensis	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Byronosaurus jaffei	extinct	83.6	72.1
+Pectinodon bakkeri	extinct	72.1	66
+Pectinodon	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Saurornithoides	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Archaeornithoides deinosauriscus	extinct	83.6	72.1
+Troodontidae	extinct	86.3	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Tochisaurus nemegtensis	extinct	72.1	66
+Zanabazar junior	extinct	72.1	66
+Troodon	extinct	83.6	66
+Troodontidae	extinct	125.77	113
+Troodon	extinct	86.3	72.1
+Troodon	extinct	86.3	72.1
+Troodon	extinct	83.6	72.1
+Mei long	extinct	125.77	119.5
+Sinovenator changii	extinct	125.77	119.5
+Sinovenator changii	extinct	125.77	119.5
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	93.9	89.8
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Latenivenatrix mcmasterae	extinct	83.6	72.1
+Troodon formosus	extinct	72.1	66
+Troodontidae	extinct	86.3	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	86.3	83.6
+Albertavenator curriei	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Sinusonasus magnodens	extinct	125.77	119.5
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Pectinodon	extinct	100.5	93.9
+Troodontidae	extinct	72.1	61.6
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Urbacodon itemirensis	extinct	100.5	93.9
+Troodontidae	extinct	121.4	113
+Troodon	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	100.5	93.9
+Troodon	extinct	72.1	66
+Pectinodon bakkeri	extinct	72.1	66
+Stenonychosaurus inequalis	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	72.1	66
+Troodon	extinct	72.1	66
+Pectinodon	extinct	72.1	66
+Xixiasaurus henanensis	extinct	89.8	72.1
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	100.5	83.6
+Troodontidae	extinct	72.1	66
+Geminiraptor suarezarum	extinct	139.8	132.6
+Linhevenator tani	extinct	83.6	72.1
+Philovenator curriei	extinct	83.6	72.1
+Talos sampsoni	extinct	83.6	72.1
+Mei long	extinct	125.77	119.5
+Troodon	extinct	72.1	66
+Stenonychosaurus inequalis	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon	extinct	83.6	66
+Troodon	extinct	72.1	66
+Troodon	extinct	83.6	66
+Troodon	extinct	83.6	66
+Troodon	extinct	83.6	66
+Troodon	extinct	83.6	66
+Gobivenator mongoliensis	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	83.6	72.1
+Jinfengopteryx elegans	extinct	125.77	121.4
+Troodon	extinct	83.6	72.1
+Saurornithoides mongoliensis	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	125.77	113
+Saurornithoides	extinct	72.1	66
+Troodontidae	extinct	125.77	119.5
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Pectinodon	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Saurornithoides mongoliensis	extinct	72.1	66
+Troodon	extinct	72.1	66
+Saurornithoides mongoliensis	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Jianianhualong tengi	extinct	125.77	119.5
+Troodontidae	extinct	121.4	100.5
+Almas ukhaa	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Troodon	extinct	72.1	66
+Urbacodon	extinct	121.4	113
+Urbacodon	extinct	125.77	113
+Urbacodon	extinct	125.77	113
+Urbacodon	extinct	125.77	113
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Tamarro insperatus	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodontidae	extinct	100.5	93.9
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Troodon	extinct	72.1	66
+Pectinodon bakkeri	extinct	72.1	66
+Liaoningvenator curriei	extinct	125.77	119.5
+Sinovenator changii	extinct	125.77	119.5
+Daliansaurus liaoningensis	extinct	125.77	119.5
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Albertavenator curriei	extinct	72.1	66
+Albertavenator curriei	extinct	72.1	66
+Albertavenator curriei	extinct	83.6	66
+Troodontidae	extinct	83.6	72.1
+Latenivenatrix mcmasterae	extinct	83.6	72.1
+Latenivenatrix mcmasterae	extinct	83.6	72.1
+Troodon	extinct	72.1	66
+Troodontidae	extinct	83.6	72.1
+Papiliovenator neimengguensis	extinct	83.6	72.1
+Troodontidae	extinct	83.6	66
+Troodontidae	extinct	83.6	66
+Troodontidae	extinct	83.6	66
+Saurornithoides	extinct	100.5	93.9

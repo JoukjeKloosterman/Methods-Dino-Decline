@@ -1,0 +1,717 @@
+accepted_name	status	max_ma	min_ma
+Centrosaurus apertus	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Pachyrhinosaurus lakustai	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Einiosaurus procurvicornis	extinct	83.6	72.1
+Einiosaurus procurvicornis	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Avaceratops lammersi	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Vagaceratops irvinensis	extinct	83.6	72.1
+Vagaceratops irvinensis	extinct	83.6	72.1
+Menefeeceratops sealeyi	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Anchiceratops ornatus	extinct	83.6	66
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Pentaceratops	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Bisticeratops froeseorum	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Styracosaurus albertensis	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Pentaceratops sternbergii	extinct	83.6	72.1
+Pentaceratops sternbergii	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops prorsus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Rubeosaurus ovatus	extinct	83.6	72.1
+Torosaurus utahensis	extinct	72.1	66
+Chasmosaurus belli	extinct	83.6	72.1
+Chasmosaurus russelli	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Chasmosaurinae	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Monoclonius	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Monoclonius crassus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Ceratopsipes goldenensis	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Centrosaurinae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Centrosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Vagaceratops irvinensis	extinct	83.6	72.1
+Vagaceratops irvinensis	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Chasmosaurinae	extinct	72.1	66
+Titanoceratops ouranos	extinct	83.6	72.1
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Anchiceratops	extinct	83.6	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Achelousaurus horneri	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Pachyrhinosaurus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Ceratopsidae	extinct	93.9	89.8
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	93.9	89.8
+Centrosaurus	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	86.3	83.6
+Ceratopsidae	extinct	86.3	72.1
+Triceratops	extinct	72.1	66
+Coronosaurus brinkmani	extinct	83.6	72.1
+Coronosaurus brinkmani	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Achelousaurus horneri	extinct	83.6	72.1
+Rubeosaurus ovatus	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Einiosaurus procurvicornis	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Monoclonius	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Pentaceratops	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Pentaceratops	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Monoclonius	extinct	83.6	72.1
+Monoclonius crassus	extinct	83.6	72.1
+Chasmosaurus russelli	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Chasmosaurus russelli	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Anchiceratops ornatus	extinct	83.6	66
+Anchiceratops ornatus	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Arrhinoceratops brachyops	extinct	83.6	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ojoceratops fowleri	extinct	72.1	66
+Crittendenceratops krzyzanowskii	extinct	83.6	72.1
+Albertaceratops nesmoi	extinct	83.6	72.1
+Albertaceratops nesmoi	extinct	83.6	72.1
+Torosaurus utahensis	extinct	72.1	66
+Utahceratops gettyi	extinct	83.6	72.1
+Pachyrhinosaurus perotorum	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Centrosaurinae	extinct	86.3	83.6
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Triceratops prorsus	extinct	72.1	66
+Chasmosaurinae	extinct	83.6	72.1
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Eotriceratops xerinsularis	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Ceratopsidae	extinct	93.9	89.8
+Pentaceratops sternbergii	extinct	83.6	66
+Styracosaurus albertensis	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Diabloceratops eatoni	extinct	83.6	72.1
+Diabloceratops	extinct	83.6	72.1
+Torosaurus utahensis	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Vagaceratops irvinensis	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Pachyrhinosaurus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	66
+Agujaceratops	extinct	83.6	72.1
+Pachyrhinosaurus	extinct	83.6	66
+Pachyrhinosaurus	extinct	72.1	66
+Pachyrhinosaurus	extinct	72.1	66
+Sinoceratops zhuchengensis	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Coahuilaceratops magnacuerna	extinct	83.6	72.1
+Pachyrhinosaurinae	extinct	83.6	72.1
+Ojoceratops fowleri	extinct	72.1	66
+Ojoceratops fowleri	extinct	72.1	66
+Medusaceratops lokii	extinct	83.6	72.1
+Chasmosaurinae	extinct	72.1	66
+Tatankaceratops sacrisonorum	extinct	72.1	66
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Nasutoceratops titusi	extinct	83.6	72.1
+Kosmoceratops richardsoni	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Spinops sternbergorum	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Kosmoceratops richardsoni	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Xenoceratops foremostensis	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Chasmosaurinae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Styracosaurus albertensis	extinct	83.6	72.1
+Judiceratops tigris	extinct	83.6	72.1
+Bravoceratops polyphemus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Arrhinoceratops	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Vagaceratops irvinensis	extinct	83.6	72.1
+Vagaceratops irvinensis	extinct	83.6	72.1
+Arrhinoceratops brachyops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	66
+Triceratops	extinct	72.1	66
+Centrosaurus	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Triceratops horridus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Monoclonius	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	66
+Wendiceratops pinhornensis	extinct	83.6	72.1
+Triceratops prorsus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Sierraceratops turneri	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Machairoceratops cronusi	extinct	83.6	72.1
+Spiclypeus shipporum	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Centrosaurus	extinct	83.6	66
+Centrosaurinae	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus russelli	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Regaliceratops peterhewsi	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Anchiceratops ornatus	extinct	72.1	66
+Anchiceratops ornatus	extinct	83.6	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ojoceratops fowleri	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ojoceratops fowleri	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ojoceratops fowleri	extinct	72.1	66
+Pentaceratops sternbergii	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Crittendenceratops krzyzanowskii	extinct	83.6	72.1
+Yehuecauhceratops mudei	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Monocloniinae	extinct	93.9	89.8
+Pachyrhinosaurus	extinct	72.1	66
+Anchiceratops ornatus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Nasutoceratopsini	extinct	83.6	72.1
+Nasutoceratopsini	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Stellasaurus ancellae	extinct	83.6	72.1
+Navajoceratops sullivani	extinct	83.6	72.1
+Terminocavus sealeyi	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Pachyrhinosaurus canadensis	extinct	72.1	66
+Pachyrhinosaurus	extinct	83.6	72.1
+Pachyrhinosaurus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Pentaceratops sternbergii	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Torosaurus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Chasmosaurinae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Chasmosaurinae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Torosaurus	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Centrosaurinae	extinct	100.5	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Monoclonius	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Furcatoceratops elucidans	extinct	83.6	72.1

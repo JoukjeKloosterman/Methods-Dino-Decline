@@ -1,0 +1,134 @@
+accepted_name	status	max_ma	min_ma
+Troodon formosus	extinct	85.8	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodontidae	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	70.6	66
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	70.6	66
+Troodontidae	extinct	70.6	66
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodontidae	extinct	83.5	70.6
+Byronosaurus jaffei	extinct	83.6	72.1
+Troodon formosus	extinct	83.5	70.6
+Troodontidae	extinct	157.3	152.1
+Borogovia gracilicrus	extinct	83.6	66
+Saurornithoides mongoliensis	extinct	83.6	72.1
+Troodon	extinct	72.1	66
+Troodon	extinct	70.6	66
+Sinornithoides	extinct	129.4	113
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Byronosaurus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Pectinodon bakkeri	extinct	70.6	66
+Pectinodon bakkeri	extinct	70.6	66
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Sinornithoides youngi	extinct	139.8	100.5
+Troodon formosus	extinct	83.5	70.6
+Saurornithoides mongoliensis	extinct	83.6	72.1
+Troodon formosus	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Byronosaurus jaffei	extinct	83.6	72.1
+Pectinodon bakkeri	extinct	70.6	66
+Pectinodon	extinct	70.6	66
+Troodon	extinct	70.6	66
+Troodon	extinct	70.6	66
+Troodontidae	extinct	70.6	66
+Troodon	extinct	70.6	66
+Troodon	extinct	70.6	66
+Troodontidae	extinct	70.6	66
+Saurornithoides	extinct	70.6	66
+Troodon	extinct	70.6	66
+Troodontidae	extinct	70.6	66
+Troodontidae	extinct	70.6	66
+Troodon	extinct	70.6	66
+Troodontidae	extinct	70.6	66
+Troodontidae	extinct	72.1	66
+Archaeornithoides deinosauriscus	extinct	83.5	70.6
+Troodontidae	extinct	85.8	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	70.6	66
+Troodon formosus	extinct	83.5	66
+Troodon formosus	extinct	83.5	66
+Tochisaurus nemegtensis	extinct	83.5	66
+Troodontidae	extinct	125	100.5
+Zanabazar junior	extinct	72.1	66
+Troodon	extinct	83.5	66
+Troodontidae	extinct	129.4	113
+Troodontidae	extinct	72.1	66
+Troodon	extinct	70.6	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.5	70.6
+Sinusonasus magnodens	extinct	125.45	122.46
+Troodon formosus	extinct	70.6	66
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Troodon formosus	extinct	83.5	70.6
+Pectinodon	extinct	99.6	93.5
+Troodontidae	extinct	83.5	66
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Troodon formosus	extinct	70.6	66
+Troodon formosus	extinct	70.6	66
+Troodon formosus	extinct	70.6	66
+Troodon formosus	extinct	70.6	66
+Troodon formosus	extinct	70.6	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	83.5	66
+Troodontidae	extinct	99.6	93.5
+Troodon	extinct	70.6	66
+Pectinodon bakkeri	extinct	70.6	66
+Troodon formosus	extinct	70.6	66
+Troodontidae	extinct	70.6	66
+Troodontidae	extinct	70.6	66
+Troodon formosus	extinct	83.5	66
+Troodon	extinct	83.5	70.6
+Troodon	extinct	83.5	70.6
+Linhevenator tani	extinct	83.6	72.1
+Philovenator curriei	extinct	83.6	72.1
+Talos sampsoni	extinct	83.5	70.6
+Mei long	extinct	139.8	129.4
+Troodon	extinct	70.6	66
+Troodontidae	extinct	83.5	66
+Troodontidae	extinct	83.5	66
+Troodontidae	extinct	70.6	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	83.5	70.6
+Jinfengopteryx elegans	extinct	129.4	125
+Troodon	extinct	83.5	70.6
+Saurornithoides mongoliensis	extinct	83.5	70.6
+Troodontidae	extinct	150.8	145
+Troodontidae	extinct	83.5	70.6
+Troodontidae	extinct	125	100.5
+Saurornithoides	extinct	83.5	66

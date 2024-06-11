@@ -1,0 +1,15 @@
+Species	Status
+Albertosaurus	extinct
+Alioramus	extinct
+Daspletosaurus	extinct
+Gorgosaurus	extinct
+Lythronax	extinct
+Nanotyrannus	extinct
+Nanuqsaurus	extinct
+Ornithomimus	extinct
+Tarbosaurus	extinct
+Teratophoneus	extinct
+Tyrannosauripus	extinct
+Tyrannosaurus	extinct
+Yezosaurus	extinct
+Zhuchengtyrannus	extinct

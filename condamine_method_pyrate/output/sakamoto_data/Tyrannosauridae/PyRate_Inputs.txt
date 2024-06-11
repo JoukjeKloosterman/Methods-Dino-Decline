@@ -1,0 +1,248 @@
+accepted_name	status	max_ma	min_ma
+Gorgosaurus libratus	extinct	83.5	70.6
+Gorgosaurus libratus	extinct	83.5	70.6
+Gorgosaurus libratus	extinct	83.5	70.6
+Gorgosaurus libratus	extinct	83.5	70.6
+Gorgosaurus libratus	extinct	83.5	70.6
+Albertosaurus sarcophagus	extinct	72.1	66
+Albertosaurus sarcophagus	extinct	70.6	66
+Albertosaurus sarcophagus	extinct	83.5	70.6
+Albertosaurus sarcophagus	extinct	83.5	70.6
+Albertosaurus sarcophagus	extinct	83.5	70.6
+Daspletosaurus torosus	extinct	83.5	70.6
+Daspletosaurus torosus	extinct	83.5	70.6
+Albertosaurus	extinct	70.6	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosaurus rex	extinct	83.5	70.6
+Tyrannosaurus rex	extinct	83.5	70.6
+Gorgosaurus libratus	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Daspletosaurus horneri	extinct	85.8	70.6
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosaurus rex	extinct	70.6	66
+Nanotyrannus	extinct	70.6	66
+Albertosaurus	extinct	70.6	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosaurus rex	extinct	70.6	66
+Tyrannosauridae	extinct	139.8	132.9
+Albertosaurus	extinct	83.5	70.6
+Albertosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Albertosaurus	extinct	83.5	70.6
+Daspletosaurus	extinct	83.6	72.1
+Tarbosaurus bataar	extinct	83.6	66
+Tarbosaurus	extinct	83.6	66
+Tarbosaurus bataar	extinct	83.6	66
+Tarbosaurus bataar	extinct	83.6	66
+Tarbosaurus bataar	extinct	70.6	66
+Tarbosaurus bataar	extinct	83.6	66
+Tarbosaurus bataar	extinct	83.6	66
+Tarbosaurus	extinct	83.6	66
+Tyrannosaurus	extinct	72.1	66
+Tarbosaurus	extinct	70.6	66
+Tyrannosaurus rex	extinct	72.1	66
+Tarbosaurus	extinct	83.6	66
+Tarbosaurus bataar	extinct	83.6	66
+Tarbosaurus	extinct	83.6	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	70.6	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Albertosaurus	extinct	83.5	70.6
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosaurus rex	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	105.3	93.5
+Tyrannosauridae	extinct	83.5	70.6
+Tarbosaurus bataar	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Nanuqsaurus hoglundi	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	83.5	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	85.8	70.6
+Tyrannosauridae	extinct	83.5	66
+Tyrannosauridae	extinct	70.6	66
+Daspletosaurus torosus	extinct	83.6	72.1
+Daspletosaurus torosus	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Albertosaurus sarcophagus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	100.5	93.9
+Tarbosaurus bataar	extinct	70.6	66
+Daspletosaurus horneri	extinct	83.6	72.1
+Daspletosaurus	extinct	85.8	70.6
+Daspletosaurus	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	85.8	83.5
+Tyrannosaurinae	extinct	86.3	70.6
+Tarbosaurus bataar	extinct	83.6	66
+Tyrannosauridae	extinct	86.3	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Albertosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Daspletosaurus	extinct	83.5	70.6
+Albertosaurus	extinct	83.5	70.6
+Tyrannosaurus rex	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosaurus rex	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosaurus rex	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosaurus rex	extinct	70.6	66
+Daspletosaurus	extinct	70.6	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosaurus	extinct	70.6	66
+Albertosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Albertosaurus	extinct	83.5	70.6
+Albertosaurus	extinct	83.5	70.6
+Albertosaurus	extinct	83.5	70.6
+Alioramus remotus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Albertosaurus	extinct	70.6	66
+Tarbosaurus	extinct	83.5	66
+Tarbosaurus	extinct	83.5	66
+Tarbosaurus	extinct	83.5	66
+Tarbosaurus	extinct	83.5	66
+Tarbosaurus	extinct	83.6	66
+Tarbosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	83.5	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	70.6	66
+Tyrannosauridae	extinct	105.3	93.9
+Tyrannosaurus rex	extinct	70.6	66
+Tyrannosaurus rex	extinct	70.6	66
+Teratophoneus curriei	extinct	83.5	70.6
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	100.5	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Lythronax argestes	extinct	83.5	70.6
+Teratophoneus curriei	extinct	83.5	70.6
+Alioramus sinensis	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	70.6	66
+Tyrannosaurus rex	extinct	70.6	66
+Tyrannosaurus rex	extinct	70.6	66
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosaurus	extinct	83.6	66
+Daspletosaurus	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus	extinct	70.6	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	99.6	89.3
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Gorgosaurus	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.6	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.5	66
+Tyrannosauridae	extinct	83.5	70.6
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tarbosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	100.5	83.6
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66

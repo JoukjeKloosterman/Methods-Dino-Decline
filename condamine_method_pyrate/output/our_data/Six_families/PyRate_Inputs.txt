@@ -1,0 +1,4142 @@
+accepted_name	status	max_ma	min_ma
+Hadrosauridae	extinct	83.6	72.1
+Gryposaurus notabilis	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Maiasaura peeblesorum	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	83.6
+Hadrosauridae	extinct	72.1	66
+Prosaurolophus maximus	extinct	83.6	72.1
+Maiasaura peeblesorum	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Prosaurolophus maximus	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Gryposaurus	extinct	83.6	72.1
+Maiasaura peeblesorum	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Prosaurolophus maximus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Latirhinus uitstlani	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Gryposaurus	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Maiasaura peeblesorum	extinct	83.6	72.1
+Brachylophosaurus canadensis	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	106.2	100.5
+Hadrosauridae	extinct	100.5	93.9
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosaurinae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Edmontosaurus	extinct	83.6	66
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus navajovius	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Naashoibitosaurus ostromi	extinct	83.6	72.1
+Lambeosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Kritosaurus navajovius	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophus angustirostris	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Charonosaurus jiayinensis	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	72.1	66
+Olorotitan arharensis	extinct	72.1	66
+Nipponosaurus sachalinensis	extinct	86.3	72.1
+Barsboldia sicinskii	extinct	72.1	66
+Pararhabdodon isonensis	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Huallasaurus australis	extinct	83.6	66
+Huallasaurus australis	extinct	83.6	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Shantungosaurus	extinct	100.5	72.1
+Blasisaurus canudoi	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Euhadrosauria	extinct	72.1	66
+Arenysaurus ardevoli	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Euhadrosauria	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	72.1	66
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Saurolophus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Corythosaurus casuarius	extinct	83.6	72.1
+Lambeosaurus clavinitialis	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	83.6	72.1
+Gryposaurus notabilis	extinct	83.6	72.1
+Parasaurolophus walkeri	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus navajovius	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Amurosaurus riabinini	extinct	72.1	66
+Mandschurosaurus amurensis	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Kerberosaurus manakini	extinct	72.1	66
+Gryposaurus latidens	extinct	86.3	72.1
+Parasaurolophus	extinct	83.6	72.1
+Parasaurolophus tubicen	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosaurus foulkii	extinct	83.6	72.1
+Lapampasaurus cholinoi	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus	extinct	86.3	83.6
+Hadrosaurinae	extinct	86.3	83.6
+Edmontosaurus annectens	extinct	72.1	66
+Saurolophus	extinct	83.6	72.1
+Parasaurolophus	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	145	100.5
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	83.6	66
+Edmontosaurus regalis	extinct	72.1	66
+Lambeosaurus lambei	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus regalis	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	86.3
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Gryposaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus regalis	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Parasaurolophus cyrtocristatus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	66
+Lambeosaurus clavinitialis	extinct	83.6	72.1
+Lambeosaurus clavinitialis	extinct	83.6	72.1
+Lambeosaurus magnicristatus	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	83.6	72.1
+Lophorhothon atopus	extinct	83.6	72.1
+Parasaurolophus cyrtocristatus	extinct	83.6	72.1
+Edmontosaurus regalis	extinct	83.6	66
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus	extinct	89.8	66
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Tsintaosaurus spinorhinus	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Maiasaura	extinct	86.3	72.1
+Hadrosauridae	extinct	72.1	66
+Jaxartosaurus aralensis	extinct	89.8	83.6
+Kazaklambia convincens	extinct	89.8	83.6
+Aralosaurus tuberiferus	extinct	86.3	72.1
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Brachylophosaurus canadensis	extinct	83.6	72.1
+Saurolophus angustirostris	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	86.3	72.1
+Parasaurolophus	extinct	83.6	72.1
+Parasaurolophus	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	86.3	72.1
+Kritosaurus navajovius	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	86.3	72.1
+Hadrosaurinae	extinct	86.3	72.1
+Hadrosaurinae	extinct	86.3	72.1
+Hadrosaurinae	extinct	86.3	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Saurolophus	extinct	72.1	66
+Parasaurolophus tubicen	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Augustynolophus morrisi	extinct	72.1	66
+Augustynolophus morrisi	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Magnapaulia laticaudus	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Lambeosaurinae	extinct	83.6	72.1
+Gryposaurus notabilis	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Tsintaosaurus spinorhinus	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Tsintaosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Tsintaosaurus spinorhinus	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Parasaurolophus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	89.8	83.6
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Shantungosaurus giganteus	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	86.3
+Hadrosauridae	extinct	93.9	86.3
+Hadrosaurus	extinct	72.1	66
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	86.3	83.6
+Secernosaurus koerneri	extinct	83.6	66
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	86.3
+Hadrosauridae	extinct	93.9	86.3
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Lambeosaurinae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	93.9	86.3
+Hadrosauridae	extinct	93.9	89.8
+Lambeosaurinae	extinct	93.9	86.3
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	93.9	83.6
+Hadrosauridae	extinct	93.9	83.6
+Hadrosauridae	extinct	93.9	83.6
+Hadrosauridae	extinct	93.9	86.3
+Hadrosauridae	extinct	89.8	83.6
+Hadrosauridae	extinct	89.8	83.6
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	86.3	83.6
+Hadrosaurinae	extinct	86.3	83.6
+Lambeosaurinae	extinct	86.3	83.6
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	86.3	83.6
+Hadrosaurinae	extinct	100.5	66
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	100.5	66
+Prosaurolophus maximus	extinct	83.6	72.1
+Corythosaurus	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Corythosaurus intermedius	extinct	83.6	72.1
+Corythosaurus intermedius	extinct	83.6	72.1
+Corythosaurus intermedius	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Gryposaurus notabilis	extinct	83.6	72.1
+Gryposaurus notabilis	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Prosaurolophus	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Corythosaurus intermedius	extinct	83.6	72.1
+Corythosaurus intermedius	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Gryposaurus notabilis	extinct	83.6	72.1
+Gryposaurus notabilis	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Parasaurolophus walkeri	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Prosaurolophus maximus	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Brachylophosaurus canadensis	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Prosaurolophus maximus	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Prosaurolophus maximus	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Gryposaurus notabilis	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Corythosaurus intermedius	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Gryposaurus notabilis	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Lambeosaurus clavinitialis	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	100.5	66
+Hadrosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	121.4	100.5
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	89.8	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	86.3	83.6
+Pararhabdodon isonensis	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	83.6	66
+Hadrosauridae	extinct	72.1	66
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Parasaurolophus	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	89.8	86.3
+Hadrosauridae	extinct	93.9	83.6
+Hadrosauridae	extinct	86.3	83.6
+Prosaurolophus	extinct	83.6	72.1
+Lambeosaurus	extinct	83.6	72.1
+Hadrosaurus	extinct	83.6	72.1
+Edmontosaurus	extinct	83.6	72.1
+Saurolophus osborni	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	83.6	66
+Hypacrosaurus altispinus	extinct	83.6	66
+Hypacrosaurus altispinus	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Prosaurolophus maximus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	93.9
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	89.8	86.3
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Pararhabdodon isonensis	extinct	72.1	66
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Brachylophosaurus canadensis	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Ugrunaaluk kuukpikensis	extinct	72.1	66
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Lambeosaurus clavinitialis	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosaurinae	extinct	86.3	83.6
+Kritosaurus	extinct	86.3	83.6
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	86.3	72.1
+Brachylophosaurus canadensis	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Lambeosaurus magnicristatus	extinct	83.6	72.1
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Edmontosaurus annectens	extinct	72.1	66
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Gryposaurus monumentensis	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	93.9
+Parasaurolophus	extinct	83.6	72.1
+Edmontosaurus regalis	extinct	72.1	66
+Saurolophus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Saurolophinae	extinct	83.6	72.1
+Velafrons coahuilensis	extinct	83.6	72.1
+Saurolophinae	extinct	72.1	66
+Anasazisaurus horneri	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Amurosaurus riabinini	extinct	72.1	66
+Wulagasaurus dongi	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	83.6
+Hadrosauridae	extinct	100.5	83.6
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	100.5	89.8
+Tridigitichnus inopinatus	extinct	83.6	66
+Hadrosauridae	extinct	145	66
+Hypacrosaurus altispinus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Angulomastacator daviesi	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Shantungosaurus giganteus	extinct	83.6	72.1
+Maiasaura peeblesorum	extinct	83.6	72.1
+Edmontosaurus regalis	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Saurolophinae	extinct	83.6	72.1
+Gryposaurus notabilis	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Shantungosaurus giganteus	extinct	83.6	72.1
+Jaxartosaurus	extinct	100.5	66
+Hadrosauridae	extinct	100.5	66
+Canardia garonnensis	extinct	72.1	66
+Saurolophinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Saurolophus	extinct	72.1	66
+Saurolophus	extinct	72.1	66
+Hadrosauridae	extinct	100.5	93.9
+Hadrosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	83.6
+Hadrosauridae	extinct	100.5	83.6
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Acristavus gagslarsoni	extinct	83.6	72.1
+Acristavus gagslarsoni	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Kerberosaurus manakini	extinct	72.1	66
+Mandschurosaurus	extinct	121.4	100.5
+Mandschurosaurus	extinct	121.4	100.5
+Hadrosauridae	extinct	121.4	100.5
+Hadrosauridae	extinct	72.1	66
+Saurolophus angustirostris	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hypacrosaurus altispinus	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	72.1	66
+Hypacrosaurus altispinus	extinct	72.1	66
+Hadrosauridae	extinct	106.2	100.5
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurini	extinct	72.1	66
+Lambeosaurini	extinct	72.1	66
+Parasaurolophus tubicen	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Gryposaurus latidens	extinct	86.3	72.1
+Hypacrosaurus	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	121.4	100.5
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Pararhabdodon	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Pararhabdodon isonensis	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Euhadrosauria	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Corythosaurus casuarius	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Saurolophus osborni	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hypacrosaurus	extinct	72.1	66
+Saurolophus	extinct	83.6	66
+Hadrosaurus	extinct	83.6	72.1
+Edmontosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurus lambei	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	113	100.5
+Prosaurolophus maximus	extinct	83.6	66
+Prosaurolophus maximus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Brachylophosaurus canadensis	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Gryposaurus	extinct	83.6	66
+Hadrosaurus	extinct	86.3	72.1
+Edmontosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	83.6
+Hadrosauridae	extinct	145	100.5
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	89.8	86.3
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosaurus foulkii	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Brachylophosaurus canadensis	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Adelolophus hutchisoni	extinct	83.6	72.1
+Prosaurolophus maximus	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Maiasaura	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophus angustirostris	extinct	72.1	66
+Saurolophus	extinct	72.1	66
+Hadrosauridae	extinct	100.5	83.6
+Saurolophus angustirostris	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	100.5	83.6
+Saurolophus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Saurolophus angustirostris	extinct	72.1	66
+Saurolophus angustirostris	extinct	72.1	66
+Hadrosauridae	extinct	106.2	93.9
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Magnapaulia laticaudus	extinct	83.6	72.1
+Magnapaulia laticaudus	extinct	83.6	72.1
+Magnapaulia laticaudus	extinct	83.6	72.1
+Lambeosaurinae	extinct	86.3	72.1
+Saurolophinae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Saurolophinae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Corythosaurini	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Parasaurolophus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus navajovius	extinct	83.6	72.1
+Kritosaurus navajovius	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Parasaurolophus tubicen	extinct	83.6	72.1
+Parasaurolophus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Canardia garonnensis	extinct	72.1	66
+Hadrosaurinae	extinct	72.1	66
+Gryposaurus	extinct	83.6	72.1
+Hadrosaurinae	extinct	86.3	83.6
+Hadrosaurinae	extinct	86.3	83.6
+Lambeosaurinae	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	89.8	83.6
+Hadrosauridae	extinct	89.8	83.6
+Hadrosauridae	extinct	72.1	66
+Shantungosaurus giganteus	extinct	72.1	66
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Kritosaurini	extinct	83.6	72.1
+Saurolophus angustirostris	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	100.5	83.6
+Saurolophus angustirostris	extinct	72.1	66
+Saurolophus angustirostris	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Eotrachodon orientalis	extinct	86.3	83.6
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	89.8	83.6
+Gryposaurus alsatei	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Saurolophinae	extinct	72.1	66
+Kritosaurus	extinct	72.1	66
+Kritosaurus	extinct	72.1	66
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	121.4	100.5
+Hadrosauridae	extinct	121.4	100.5
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Bonapartesaurus rionegrensis	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus	extinct	83.6	66
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Malefica deckerti	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Probrachylophosaurus bergei	extinct	83.6	72.1
+Edmontosaurus	extinct	72.1	66
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus navajovius	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurus navajovius	extinct	83.6	72.1
+Kritosaurus	extinct	83.6	72.1
+Laiyangosaurus youngi	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Rhinorex condrupus	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	66
+Edmontosaurus	extinct	72.1	66
+Pararhabdodon isonensis	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Aquilarhinus palimentus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	66
+Edmontosaurus annectens	extinct	72.1	66
+Saurolophus angustirostris	extinct	72.1	66
+Prosaurolophus maximus	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	89.8	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Euhadrosauria	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Prosaurolophus maximus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Adynomosaurus arcanus	extinct	72.1	66
+Kamuysaurus japonicus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	72.1
+Pararhabdodon isonensis	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Ajnabia odysseus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Parasaurolophus cyrtocristatus	extinct	83.6	72.1
+Ornatops incantatus	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Acheralichnus leonardii	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Euhadrosauria	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	100.5	83.6
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Yamatosaurus izanagii	extinct	72.1	66
+Lambeosaurinae	extinct	83.6	72.1
+Edmontosaurus regalis	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus regalis	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Tlatolophus galorum	extinct	83.6	72.1
+Velafrons coahuilensis	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hypacrosaurus stebingeri	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Saurolophus	extinct	72.1	66
+Hadrosauridae	extinct	106.2	100.5
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	83.6	66
+Saurolophus angustirostris	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Edmontosaurus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	86.3	72.1
+Hadrosauridae	extinct	86.3	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Edmontosaurus annectens	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosauridae	extinct	100.5	93.9
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Saurolophus	extinct	72.1	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	83.6	72.1
+Lambeosaurinae	extinct	86.3	72.1
+Lambeosaurinae	extinct	86.3	83.6
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Saurolophinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	100.5	66
+Hadrosauridae	extinct	83.6	66
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Saurolophinae	extinct	83.6	66
+Brachylophosaurus canadensis	extinct	83.6	72.1
+Parasaurolophus	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	72.1	66
+Edmontosaurus annectens	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Kritosaurini	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Corythosaurus	extinct	83.6	72.1
+Corythosaurus	extinct	83.6	72.1
+Gryposaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	86.3	83.6
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Gryposaurus	extinct	83.6	72.1
+Hadrosauridae	extinct	93.9	89.8
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosaurinae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	83.6	72.1
+Hadrosauridae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Kelumapusaura machi	extinct	83.6	66
+Saurolophus	extinct	72.1	66
+Parasaurolophus	extinct	83.6	72.1
+Minqaria bata	extinct	72.1	66
+Hadrosauridae	extinct	89.8	66
+Lambeosaurinae	extinct	72.1	66
+Lambeosaurinae	extinct	72.1	66
+Hadrosauridae	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Pachyrhinosaurus lakustai	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Einiosaurus procurvicornis	extinct	83.6	72.1
+Einiosaurus procurvicornis	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Avaceratops lammersi	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Vagaceratops irvinensis	extinct	83.6	72.1
+Vagaceratops irvinensis	extinct	83.6	72.1
+Menefeeceratops sealeyi	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Anchiceratops ornatus	extinct	83.6	66
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Pentaceratops	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Bisticeratops froeseorum	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Styracosaurus albertensis	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Pentaceratops sternbergii	extinct	83.6	72.1
+Pentaceratops sternbergii	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops prorsus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Rubeosaurus ovatus	extinct	83.6	72.1
+Torosaurus utahensis	extinct	72.1	66
+Chasmosaurus belli	extinct	83.6	72.1
+Chasmosaurus russelli	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Chasmosaurinae	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Monoclonius	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Monoclonius crassus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Ceratopsipes goldenensis	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Centrosaurinae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Centrosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Vagaceratops irvinensis	extinct	83.6	72.1
+Vagaceratops irvinensis	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Chasmosaurinae	extinct	72.1	66
+Titanoceratops ouranos	extinct	83.6	72.1
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Anchiceratops	extinct	83.6	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Achelousaurus horneri	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Pachyrhinosaurus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Ceratopsidae	extinct	93.9	89.8
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	93.9	89.8
+Centrosaurus	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	86.3	83.6
+Ceratopsidae	extinct	86.3	72.1
+Triceratops	extinct	72.1	66
+Coronosaurus brinkmani	extinct	83.6	72.1
+Coronosaurus brinkmani	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Achelousaurus horneri	extinct	83.6	72.1
+Rubeosaurus ovatus	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Einiosaurus procurvicornis	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Monoclonius	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Pentaceratops	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Pentaceratops	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Pachyrhinosaurus canadensis	extinct	83.6	66
+Monoclonius	extinct	83.6	72.1
+Monoclonius crassus	extinct	83.6	72.1
+Chasmosaurus russelli	extinct	83.6	72.1
+Chasmosaurus	extinct	83.6	72.1
+Chasmosaurus russelli	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Anchiceratops ornatus	extinct	83.6	66
+Anchiceratops ornatus	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Arrhinoceratops brachyops	extinct	83.6	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ojoceratops fowleri	extinct	72.1	66
+Crittendenceratops krzyzanowskii	extinct	83.6	72.1
+Albertaceratops nesmoi	extinct	83.6	72.1
+Albertaceratops nesmoi	extinct	83.6	72.1
+Torosaurus utahensis	extinct	72.1	66
+Utahceratops gettyi	extinct	83.6	72.1
+Pachyrhinosaurus perotorum	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Centrosaurinae	extinct	86.3	83.6
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Triceratops prorsus	extinct	72.1	66
+Chasmosaurinae	extinct	83.6	72.1
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Eotriceratops xerinsularis	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Ceratopsidae	extinct	93.9	89.8
+Pentaceratops sternbergii	extinct	83.6	66
+Styracosaurus albertensis	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Styracosaurus albertensis	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Diabloceratops eatoni	extinct	83.6	72.1
+Diabloceratops	extinct	83.6	72.1
+Torosaurus utahensis	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Vagaceratops irvinensis	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Pachyrhinosaurus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	66
+Agujaceratops	extinct	83.6	72.1
+Pachyrhinosaurus	extinct	83.6	66
+Pachyrhinosaurus	extinct	72.1	66
+Pachyrhinosaurus	extinct	72.1	66
+Sinoceratops zhuchengensis	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Coahuilaceratops magnacuerna	extinct	83.6	72.1
+Pachyrhinosaurinae	extinct	83.6	72.1
+Ojoceratops fowleri	extinct	72.1	66
+Ojoceratops fowleri	extinct	72.1	66
+Medusaceratops lokii	extinct	83.6	72.1
+Chasmosaurinae	extinct	72.1	66
+Tatankaceratops sacrisonorum	extinct	72.1	66
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Nasutoceratops titusi	extinct	83.6	72.1
+Kosmoceratops richardsoni	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Utahceratops gettyi	extinct	83.6	72.1
+Triceratops horridus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Spinops sternbergorum	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Kosmoceratops richardsoni	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Xenoceratops foremostensis	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Chasmosaurinae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Styracosaurus albertensis	extinct	83.6	72.1
+Judiceratops tigris	extinct	83.6	72.1
+Bravoceratops polyphemus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Torosaurus latus	extinct	72.1	66
+Arrhinoceratops	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Vagaceratops irvinensis	extinct	83.6	72.1
+Vagaceratops irvinensis	extinct	83.6	72.1
+Arrhinoceratops brachyops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	66
+Triceratops	extinct	72.1	66
+Centrosaurus	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Triceratops horridus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Monoclonius	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	66
+Wendiceratops pinhornensis	extinct	83.6	72.1
+Triceratops prorsus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Sierraceratops turneri	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Machairoceratops cronusi	extinct	83.6	72.1
+Spiclypeus shipporum	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Centrosaurus	extinct	83.6	66
+Centrosaurinae	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurus russelli	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Monoclonius	extinct	83.6	72.1
+Chasmosaurus belli	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Regaliceratops peterhewsi	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Centrosaurus apertus	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Centrosaurus	extinct	83.6	72.1
+Anchiceratops ornatus	extinct	72.1	66
+Anchiceratops ornatus	extinct	83.6	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ojoceratops fowleri	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ojoceratops fowleri	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ojoceratops fowleri	extinct	72.1	66
+Pentaceratops sternbergii	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Crittendenceratops krzyzanowskii	extinct	83.6	72.1
+Yehuecauhceratops mudei	extinct	83.6	72.1
+Pentaceratops	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Monocloniinae	extinct	93.9	89.8
+Pachyrhinosaurus	extinct	72.1	66
+Anchiceratops ornatus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Nasutoceratopsini	extinct	83.6	72.1
+Nasutoceratopsini	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Stellasaurus ancellae	extinct	83.6	72.1
+Navajoceratops sullivani	extinct	83.6	72.1
+Terminocavus sealeyi	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Pachyrhinosaurus canadensis	extinct	72.1	66
+Pachyrhinosaurus	extinct	83.6	72.1
+Pachyrhinosaurus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Centrosaurus apertus	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Pentaceratops sternbergii	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Torosaurus	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops horridus	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Chasmosaurinae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	66
+Chasmosaurinae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	66
+Ceratopsidae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Chasmosaurinae	extinct	72.1	66
+Torosaurus	extinct	83.6	72.1
+Chasmosaurinae	extinct	83.6	72.1
+Agujaceratops mariscalensis	extinct	83.6	72.1
+Centrosaurinae	extinct	100.5	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Triceratops	extinct	72.1	66
+Monoclonius	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Triceratops prorsus	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Triceratops	extinct	72.1	66
+Ceratopsidae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Centrosaurinae	extinct	83.6	72.1
+Furcatoceratops elucidans	extinct	83.6	72.1
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosauridae	extinct	100.5	83.6
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Shamosaurus scutatus	extinct	121.4	100.5
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	89.8	83.6
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Pinacosaurus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus mephistocephalus	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Saichania chulsanensis	extinct	83.6	72.1
+Saichania chulsanensis	extinct	100.5	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Oohkotokia horneri	extinct	83.6	72.1
+Anodontosaurus lambei	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Dyoplosaurus acutosquameus	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Euoplocephalus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Euoplocephalus	extinct	83.6	72.1
+Ankylosauridae	extinct	145	100.5
+Ankylosauridae	extinct	106.2	100.5
+Euoplocephalus	extinct	83.6	72.1
+Ankylosaurus magniventris	extinct	72.1	66
+Euoplocephalus tutus	extinct	83.6	72.1
+Ankylosaurinae	extinct	83.6	72.1
+Euoplocephalus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Saichania chulsanensis	extinct	100.5	72.1
+Anodontosaurus lambei	extinct	83.6	66
+Talarurus plicatospineus	extinct	100.5	83.6
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Ankylosauridae	extinct	100.5	83.6
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Nodocephalosaurus kirtlandensis	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Tsagantegia longicranialis	extinct	100.5	83.6
+Liaoningosaurus paradoxus	extinct	125.77	119.5
+Ankylosaurinae	extinct	93.9	89.8
+Ankylosauridae	extinct	93.9	89.8
+Ankylosaurinae	extinct	93.9	89.8
+Ankylosaurinae	extinct	93.9	89.8
+Shamosaurinae	extinct	100.5	93.9
+Ankylosauridae	extinct	93.9	89.8
+Ankylosauridae	extinct	93.9	89.8
+Ankylosauridae	extinct	93.9	89.8
+Ankylosauridae	extinct	93.9	89.8
+Ankylosauridae	extinct	93.9	89.8
+Ankylosauridae	extinct	93.9	89.8
+Ankylosauridae	extinct	93.9	86.3
+Ankylosauridae	extinct	86.3	83.6
+Ankylosauridae	extinct	93.9	83.6
+Ankylosauridae	extinct	89.8	83.6
+Ankylosauridae	extinct	89.8	83.6
+Ankylosauridae	extinct	86.3	83.6
+Ankylosauridae	extinct	86.3	83.6
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	86.3	72.1
+Platypelta coombsi	extinct	83.6	72.1
+Euoplocephalus tutus	extinct	83.6	72.1
+Scolosaurus cutleri	extinct	83.6	72.1
+Scolosaurus cutleri	extinct	83.6	72.1
+Ankylosaurinae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus	extinct	83.6	72.1
+Ankylosauridae	extinct	100.5	66
+Ankylosauridae	extinct	86.3	72.1
+Minmi paravertebrata	extinct	139.8	121.4
+Aletopelta coombsi	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Platypelta coombsi	extinct	83.6	72.1
+Euoplocephalus	extinct	83.6	72.1
+Euoplocephalus	extinct	72.1	66
+Euoplocephalus	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	100.5	66
+Ankylosaurus	extinct	83.6	72.1
+Oohkotokia horneri	extinct	83.6	72.1
+Ankylosauridae	extinct	100.5	93.9
+Gobisaurus domoculus	extinct	93.9	89.8
+Ankylosauridae	extinct	83.6	72.1
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Nodocephalosaurus kirtlandensis	extinct	83.6	72.1
+Nodocephalosaurus kirtlandensis	extinct	83.6	72.1
+Nodocephalosaurus kirtlandensis	extinct	83.6	72.1
+Nodocephalosaurus kirtlandensis	extinct	83.6	72.1
+Gobisaurus domoculus	extinct	121.4	100.5
+Talarurus plicatospineus	extinct	100.5	83.6
+Pinacosaurus	extinct	145	100.5
+Ankylosauridae	extinct	72.1	66
+Shamosaurus scutatus	extinct	119.5	109.9
+Saichania chulsanensis	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Cedarpelta bilbeyhallorum	extinct	121.4	100.5
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Crichtonpelta benxiensis	extinct	100.5	89.8
+Bissektipelta archibaldi	extinct	93.9	89.8
+Ankylosauridae	extinct	121.4	100.5
+Ankylosauridae	extinct	121.4	100.5
+Cedarpelta bilbeyhallorum	extinct	121.4	100.5
+Polacanthinae	extinct	139.8	132.6
+Polacanthinae	extinct	139.8	132.6
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	100.5	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	100.5	83.6
+Tsagantegia	extinct	100.5	83.6
+Ankylosauridae	extinct	100.5	83.6
+Pinacosaurus	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Tarchia	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	106.2	100.5
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	83.6	66
+Ankylosauridae	extinct	83.6	66
+Ankylosauridae	extinct	72.1	66
+Anodontosaurus lambei	extinct	72.1	66
+Anodontosaurus lambei	extinct	72.1	66
+Oohkotokia	extinct	86.3	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Euoplocephalus tutus	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Scolosaurus thronus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Anodontosaurus lambei	extinct	72.1	66
+Anodontosaurus lambei	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Platypelta coombsi	extinct	83.6	72.1
+Anodontosaurus inceptus	extinct	83.6	72.1
+Anodontosaurus lambei	extinct	83.6	72.1
+Anodontosaurus inceptus	extinct	83.6	66
+Anodontosaurus lambei	extinct	72.1	66
+Anodontosaurus lambei	extinct	72.1	66
+Euoplocephalus tutus	extinct	83.6	72.1
+Platypelta coombsi	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Platypelta coombsi	extinct	83.6	72.1
+Platypelta coombsi	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Platypelta coombsi	extinct	83.6	72.1
+Ahshislepelta minor	extinct	83.6	72.1
+Euoplocephalus	extinct	83.6	66
+Chuanqilong chaoyangensis	extinct	121.4	113
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Ankylosauridae	extinct	113	100.5
+Pinacosaurus grangeri	extinct	86.3	72.1
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus	extinct	83.6	72.1
+Pinacosaurus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	100.5	83.6
+Ankylosauridae	extinct	100.5	83.6
+Ankylosauridae	extinct	145	100.5
+Pinacosaurus	extinct	83.6	72.1
+Ziapelta sanjuanensis	extinct	83.6	72.1
+Ankylosauridae	extinct	100.5	83.6
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	121.4	113
+Tarchia teresae	extinct	72.1	66
+Pinacosaurus grangeri	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Saichania chulsanensis	extinct	83.6	72.1
+Tarchia kielanae	extinct	83.6	72.1
+Anodontosaurus lambei	extinct	72.1	66
+Ankylosauridae	extinct	119.5	113
+Zuul crurivastator	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Zaraapelta nomadis	extinct	100.5	83.6
+Jinyunpelta sinensis	extinct	113	100.5
+Nodocephalosaurus kirtlandensis	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Anodontosaurus lambei	extinct	72.1	66
+Euoplocephalus	extinct	83.6	72.1
+Euoplocephalus	extinct	83.6	72.1
+Euoplocephalus	extinct	83.6	72.1
+Euoplocephalus	extinct	83.6	72.1
+Scolosaurus thronus	extinct	83.6	72.1
+Euoplocephalus tutus	extinct	83.6	72.1
+Akainacephalus johnsoni	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	66
+Ankylosauridae	extinct	93.9	89.8
+Pinacosaurus	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Ankylosauridae	extinct	72.1	66
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Crichtonpelta benxiensis	extinct	106.2	100.5
+Pinacosaurus grangeri	extinct	83.6	72.1
+Cedarpelta bilbeyhallorum	extinct	121.4	100.5
+Euoplocephalus tutus	extinct	83.6	72.1
+Ankylosauridae	extinct	125.77	121.4
+Ankylosauridae	extinct	83.6	72.1
+Ankylosaurus magniventris	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Tarchia tumanovae	extinct	72.1	66
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	86.3	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Ankylosauridae	extinct	93.9	89.8
+Ankylosauridae	extinct	83.6	72.1
+Oohkotokia horneri	extinct	83.6	72.1
+Ankylosauridae	extinct	83.6	72.1
+Oohkotokia horneri	extinct	83.6	72.1
+Pinacosaurus grangeri	extinct	83.6	72.1
+Datai yingliangis	extinct	93.9	86.3
+Saurornitholestes	extinct	72.1	66
+Velociraptor	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Dromaeosaurinae	extinct	119.5	113
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Acheroraptor	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Utahraptor ostrommaysi	extinct	139.8	132.6
+Utahraptor ostrommaysi	extinct	139.8	132.6
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosauridae	extinct	119.5	113
+Dromaeosauridae	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Variraptor mechinorum	extinct	83.6	72.1
+Variraptor mechinorum	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	72.1
+Nuthetes destructor	extinct	145	140.6
+Nuthetes destructor	extinct	145	140.6
+Dromaeosauridae	extinct	125.77	121.4
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Deinonychus antirrhopus	extinct	121.4	109.9
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Pyroraptor olympius	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Velociraptor mongoliensis	extinct	83.6	72.1
+Velociraptor	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus	extinct	72.1	66
+Dromaeosauridae	extinct	119.5	109.9
+Richardoestesia	extinct	72.1	66
+Velociraptorinae	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	121.4	113
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Dromaeosauridae	extinct	113	109.9
+Dromaeosauridae	extinct	113	109.9
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Zapsalis	extinct	72.1	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	72.1	66
+Deinonychus antirrhopus	extinct	119.5	109.9
+Rahonavis ostromi	extinct	72.1	66
+Saurornitholestes sullivani	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Neuquenraptor argentinus	extinct	93.9	86.3
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Pyroraptor olympius	extinct	83.6	72.1
+Variraptor mechinorum	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Zapsalis	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Unenlagia paynemili	extinct	93.9	86.3
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosaurinae	extinct	100.5	93.9
+Velociraptorinae	extinct	100.5	93.9
+Dromaeosauridae	extinct	86.3	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	121.4	109.9
+Deinonychus antirrhopus	extinct	121.4	109.9
+Deinonychus antirrhopus	extinct	121.4	109.9
+Dromaeosauridae	extinct	125.77	121.4
+Dromaeosauridae	extinct	125.77	121.4
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus	extinct	113	100.5
+Deinonychus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus	extinct	113	100.5
+Deinonychus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	113	100.5
+Velociraptor mongoliensis	extinct	83.6	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	109.9	93.9
+Dromaeosaurus albertensis	extinct	72.1	66
+Dromaeosaurus albertensis	extinct	72.1	66
+Saurornitholestes langstoni	extinct	72.1	66
+Dromaeosaurus albertensis	extinct	72.1	66
+Dromaeosauridae	extinct	86.3	83.6
+Dromaeosauridae	extinct	83.6	72.1
+Balaur bondoc	extinct	72.1	66
+Nuthetes destructor	extinct	142.7	140.6
+Velociraptorinae	extinct	132.6	113
+Deinonychus	extinct	113	100.5
+Sinornithosaurus millenii	extinct	125.77	119.5
+Dromaeosauridae	extinct	119.5	113
+Dromaeosauridae	extinct	93.9	86.3
+Dromaeosauridae	extinct	121.4	113
+Deinonychus	extinct	119.5	109.9
+Deinonychus antirrhopus	extinct	119.5	109.9
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	125.77	121.4
+Dromaeosaurus	extinct	72.1	66
+Dromaeosauridae	extinct	125.77	121.4
+Deinonychus	extinct	109.9	93.9
+Unenlagia comahuensis	extinct	93.9	86.3
+Dromaeosauridae	extinct	83.6	72.1
+Velociraptorinae	extinct	146.3	142.7
+Buitreraptor gonzalezorum	extinct	100.5	93.9
+Microraptor zhaoianus	extinct	121.4	113
+Microraptor gui	extinct	121.4	113
+Microraptor zhaoianus	extinct	121.4	113
+Achillobator giganticus	extinct	100.5	83.6
+Saurornitholestes	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	89.8	83.6
+Dromaeosauridae	extinct	93.9	89.8
+Asiamericana asiatica	extinct	93.9	89.8
+Dromaeosauridae	extinct	93.9	89.8
+Dromaeosaurus explanatus	extinct	100.5	93.9
+Dromaeosauridae	extinct	86.3	83.6
+Richardoestesia	extinct	72.1	66
+Austroraptor cabazai	extinct	83.6	66
+Dromaeosauridae	extinct	125.77	121.4
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurinae	extinct	86.3	72.1
+Velociraptorichnus sichuanensis	extinct	125.77	100.5
+Richardoestesia	extinct	72.1	66
+Dromaeosaurinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	125.77	121.4
+Velociraptorinae	extinct	125.77	121.4
+Dromaeosaurinae	extinct	125.77	121.4
+Richardoestesia	extinct	125.77	121.4
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	119.5	113
+Dromaeosaurus	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Bambiraptor feinbergi	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Nuthetes	extinct	145	140.6
+Dromaeosauridae	extinct	121.4	113
+Dromaeosauridae	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	61.6
+Dromaeosauridae	extinct	100.5	93.9
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Tsaagan mangas	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes langstoni	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Dromaeosauroides bornholmensis	extinct	140.6	139.8
+Dromaeosauridae	extinct	125.77	121.4
+Shanag ashile	extinct	145	100.5
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Velociraptor mongoliensis	extinct	100.5	66
+Nuthetes destructor	extinct	142.7	140.6
+Velociraptorinae	extinct	86.3	72.1
+Dromaeosaurinae	extinct	86.3	72.1
+Dromaeosaurinae	extinct	86.3	72.1
+Dromaeosaurinae	extinct	86.3	72.1
+Dromaeosauridae	extinct	86.3	72.1
+Dromaeosauridae	extinct	100.5	93.9
+Richardoestesia isosceles	extinct	100.5	93.9
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	100.5	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Imperobator antarcticus	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Velociraptorichnus sichuanensis	extinct	125.77	100.5
+Saurornitholestes	extinct	72.1	66
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosauridae	extinct	100.5	93.9
+Sinornithosaurus	extinct	125.77	119.5
+Microraptor zhaoianus	extinct	121.4	113
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	145	142.7
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	125.77	121.4
+Velociraptor osmolskae	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Mahakala omnogovae	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	72.1	66
+Saurornitholestes langstoni	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosaurus albertensis	extinct	72.1	66
+Atrociraptor marshalli	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Hesperonychus elizabethae	extinct	83.6	72.1
+Hesperonychus elizabethae	extinct	83.6	72.1
+Hesperonychus elizabethae	extinct	83.6	72.1
+Hesperonychus elizabethae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	66
+Graciliraptor lujiatunensis	extinct	125.77	119.5
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	125.77	121.4
+Dromaeosauridae	extinct	132.6	125.77
+Dromaeosauridae	extinct	125.77	121.4
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	72.1	66
+Tianyuraptor ostromi	extinct	125.77	119.5
+Sinornithosaurus millenii	extinct	125.77	119.5
+Dromaeosaurinae	extinct	83.6	66
+Atrociraptor marshalli	extinct	72.1	66
+Bambiraptor feinbergi	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Velociraptorinae	extinct	83.6	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Unenlagiinae	extinct	72.1	66
+Velociraptorinae	extinct	146.3	142.7
+Velociraptorinae	extinct	146.3	142.7
+Dromaeosauridae	extinct	125.77	121.4
+Dromaeosaurinae	extinct	125.77	121.4
+Velociraptorinae	extinct	125.77	121.4
+Boreonykus certekorum	extinct	83.6	72.1
+Boreonykus certekorum	extinct	83.6	72.1
+Velociraptorinae	extinct	139.8	132.6
+Dromaeosauridae	extinct	121.4	100.5
+Dromaeosauridae	extinct	121.4	100.5
+Dromaeosauridae	extinct	121.4	100.5
+Dromaeosauridae	extinct	121.4	100.5
+Dromaeosauridae	extinct	121.4	100.5
+Microraptor	extinct	121.4	113
+Balaur bondoc	extinct	72.1	66
+Velociraptorinae	extinct	140.6	132.6
+Dromaeosauridae	extinct	139.8	132.6
+Microraptor	extinct	121.4	113
+Dromaeosauridae	extinct	121.4	113
+Rahonavis ostromi	extinct	72.1	66
+Deinonychus antirrhopus	extinct	121.4	100.5
+Luanchuanraptor henanensis	extinct	72.1	66
+Dromaeosauridae	extinct	121.4	100.5
+Velociraptorinae	extinct	139.8	132.6
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Deinonychus	extinct	109.9	93.9
+Yurgovuchia doellingi	extinct	140.6	132.6
+Velociraptor	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Linheraptor exquisitus	extinct	83.6	72.1
+Unenlagiinae	extinct	89.8	83.6
+Microraptor hanqingi	extinct	121.4	113
+Richardoestesia	extinct	72.1	66
+Dromaeosaurinae	extinct	125.77	121.4
+Dromaeosaurinae	extinct	125.77	121.4
+Velociraptorinae	extinct	125.77	121.4
+Dromaeosaurinae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Dromaeosaurinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	66
+Deinonychus antirrhopus	extinct	109.9	93.9
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Dromaeosauridae	extinct	106.2	100.5
+Deinonychus antirrhopus	extinct	121.4	100.5
+Deinonychus antirrhopus	extinct	121.4	113
+Deinonychus antirrhopus	extinct	121.4	113
+Dromaeosauridae	extinct	100.5	93.9
+Austroraptor cabazai	extinct	83.6	66
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	100.5	66
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	72.1
+Dromaeosaurinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Nuthetes	extinct	145	139.8
+Dromaeosauridae	extinct	132.6	121.4
+Dromaeosauridae	extinct	125.77	119.5
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestinae	extinct	72.1	66
+Richardoestesia gilmorei	extinct	72.1	66
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	66
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	66
+Richardoestesia gilmorei	extinct	83.6	66
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Atrociraptor marshalli	extinct	83.6	66
+Atrociraptor marshalli	extinct	83.6	66
+Atrociraptor marshalli	extinct	83.6	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Acheroraptor temertyorum	extinct	72.1	66
+Dromaeosauridae	extinct	125.77	119.5
+Deinonychus	extinct	121.4	100.5
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia isosceles	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Microraptor zhaoianus	extinct	121.4	113
+Dromaeosauridae	extinct	72.1	66
+Changyuraptor yangi	extinct	125.77	119.5
+Dromaeosaurus	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Velociraptor	extinct	83.6	72.1
+Velociraptor mongoliensis	extinct	83.6	72.1
+Itemirus medullaris	extinct	93.9	89.8
+Dromaeosauridae	extinct	93.9	89.8
+Dromaeosauridae	extinct	93.9	89.8
+Dromaeosauridae	extinct	93.9	89.8
+Dromaeosauridae	extinct	145	100.5
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	100.5	83.6
+Itemirus medullaris	extinct	93.9	89.8
+Itemirus medullaris	extinct	93.9	89.8
+Itemirus medullaris	extinct	93.9	89.8
+Itemirus medullaris	extinct	93.9	89.8
+Velociraptor	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Velociraptor	extinct	83.6	72.1
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	132.6	113
+Dromaeosauridae	extinct	132.6	121.4
+Dromaeosauridae	extinct	119.5	109.9
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Pyroraptor olympius	extinct	83.6	72.1
+Dromaeosauridae	extinct	86.3	83.6
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dakotaraptor steini	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Deinonychus antirrhopus	extinct	113	100.5
+Velociraptor	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Hulsanpes perlei	extinct	83.6	72.1
+Dromaeosauridae	extinct	100.5	93.9
+Microraptor	extinct	121.4	113
+Richardoestesia	extinct	83.6	66
+Velociraptorichnus	extinct	83.6	72.1
+Adasaurus mongoliensis	extinct	72.1	66
+Dromaeosaurus	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Deinonychus	extinct	145	125.77
+Dromaeosauridae	extinct	125.77	121.4
+Halszkaraptor escuilliei	extinct	83.6	72.1
+Richardoestesia	extinct	72.1	66
+Zhenyuanlong suni	extinct	125.77	119.5
+Dromaeosaurus	extinct	72.1	66
+Dineobellator notohesperus	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestes	extinct	83.6	66
+Dromaeosauridae	extinct	100.5	93.9
+Richardoestesia	extinct	100.5	93.9
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosaurinae	extinct	72.1	66
+Saurornitholestes langstoni	extinct	83.6	72.1
+Saurornitholestes langstoni	extinct	83.6	72.1
+Velociraptorichnus	extinct	139.8	132.6
+Microraptor zhaoianus	extinct	121.4	113
+Dromaeosauridae	extinct	106.2	93.9
+Dromaeosauridae	extinct	106.2	93.9
+Dromaeosauridae	extinct	106.2	93.9
+Dromaeosauridae	extinct	146.3	142.7
+Dromaeosauridae	extinct	146.3	142.7
+Dromaeosauridae	extinct	146.3	142.7
+Dromaeosauridae	extinct	146.3	142.7
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	100.5	93.9
+Richardoestesia	extinct	100.5	93.9
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	66
+Saurornitholestinae	extinct	72.1	66
+Saurornitholestes	extinct	83.6	72.1
+Shri devi	extinct	83.6	72.1
+Zhongjianosaurus yangi	extinct	121.4	113
+Dromaeosauridae	extinct	132.6	121.4
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	86.3	66
+Dromaeosauridae	extinct	72.1	66
+Neuquenraptor argentinus	extinct	93.9	86.3
+Saurornitholestes langstoni	extinct	83.6	72.1
+Dromaeosauridae	extinct	125.77	119.5
+Dromaeosauriformipes rarus	extinct	113	100.5
+Dromaeosauridae	extinct	83.6	66
+Velociraptorichnus	extinct	145	100.5
+Dromaeosauridae	extinct	72.1	66
+Velociraptorichnus	extinct	125.77	100.5
+Velociraptorichnus zhangi	extinct	145	100.5
+Velociraptorichnus	extinct	145	139.8
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Wulong bohaiensis	extinct	121.4	113
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Velociraptorinae	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Richardoestesia isosceles	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Richardoestesia gilmorei	extinct	83.6	72.1
+Dromaeosauridae	extinct	100.5	89.8
+Utahraptor	extinct	139.8	132.6
+Deinonychus	extinct	100.5	93.9
+Deinonychus antirrhopus	extinct	113	100.5
+Richardoestesia	extinct	113	100.5
+Ypupiara lopai	extinct	72.1	66
+Kansaignathus sogdianus	extinct	86.3	83.6
+Kuru kulla	extinct	83.6	72.1
+Deinonychus antirrhopus	extinct	121.4	100.5
+Dromaeosauridae	extinct	100.5	93.9
+Richardoestesia asiatica	extinct	100.5	93.9
+Richardoestesia asiatica	extinct	100.5	93.9
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Richardoestesia asiatica	extinct	93.9	89.8
+Dromaeosauridae	extinct	100.5	93.9
+Dromaeosaurinae	extinct	100.5	93.9
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	66
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	66
+Richardoestesia	extinct	72.1	66
+Velociraptorinae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dakotaraptor steini	extinct	72.1	66
+Acheroraptor temertyorum	extinct	72.1	66
+Saurornitholestes	extinct	72.1	66
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	72.1	66
+Dromaeosauridae	extinct	119.5	109.9
+Dromaeosauridae	extinct	72.1	66
+Vectiraptor greeni	extinct	125.77	121.4
+Dromaeosauridae	extinct	145	100.5
+Buitreraptor gonzalezorum	extinct	100.5	93.9
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	66
+Richardoestesia	extinct	83.6	66
+Nuthetes	extinct	145	139.8
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Dromaeosaurinae	extinct	83.6	72.1
+Saurornitholestinae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosaurus	extinct	93.9	89.8
+Dromaeosauridae	extinct	106.2	93.9
+Deinonychus antirrhopus	extinct	113	100.5
+Deinonychus antirrhopus	extinct	121.4	109.9
+Unenlagiinae	extinct	83.6	72.1
+Unenlagiinae	extinct	83.6	72.1
+Dromaeosaurus	extinct	72.1	66
+Richardoestesia	extinct	139.8	132.6
+Dromaeosauridae	extinct	139.8	132.6
+Richardoestesia	extinct	72.1	66
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Deinonychus	extinct	119.5	113
+Richardoestesia	extinct	119.5	113
+Velociraptorichnus	extinct	113	86.3
+Deinonychus antirrhopus	extinct	119.5	109.9
+Daurlong wangi	extinct	121.4	119.5
+Deinonychus antirrhopus	extinct	109.9	93.9
+Dromaeosaurus albertensis	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Dromaeosauridae	extinct	83.6	72.1
+Richardoestesia	extinct	83.6	72.1
+Buitreraptor gonzalezorum	extinct	100.5	93.9
+Dromaeosauridae	extinct	83.6	72.1
+Dromaeosauridae	extinct	86.3	72.1
+Velociraptorinae	extinct	93.9	89.8
+Dromaeosaurinae	extinct	93.9	89.8
+Dromaeosaurinae	extinct	83.6	72.1
+Velociraptorinae	extinct	83.6	72.1
+Velociraptorinae	extinct	93.9	89.8
+Dromaeosaurinae	extinct	83.6	72.1
+Saurornitholestes	extinct	72.1	66
+Natovenator polydontus	extinct	83.6	72.1
+Velociraptorinae	extinct	83.6	66
+Dromaeosaurinae	extinct	83.6	66
+Dromaeosauridae	extinct	83.6	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Latenivenatrix mcmasterae	extinct	83.6	72.1
+Byronosaurus jaffei	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Borogovia gracilicrus	extinct	72.1	66
+Saurornithoides mongoliensis	extinct	83.6	72.1
+Troodon	extinct	72.1	66
+Troodon	extinct	72.1	66
+Sinornithoides	extinct	113	109.9
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Byronosaurus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Pectinodon bakkeri	extinct	72.1	66
+Pectinodon bakkeri	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Sinornithoides youngi	extinct	139.8	100.5
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Saurornithoides mongoliensis	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Byronosaurus jaffei	extinct	83.6	72.1
+Pectinodon bakkeri	extinct	72.1	66
+Pectinodon	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Saurornithoides	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Archaeornithoides deinosauriscus	extinct	83.6	72.1
+Troodontidae	extinct	86.3	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Tochisaurus nemegtensis	extinct	72.1	66
+Zanabazar junior	extinct	72.1	66
+Troodon	extinct	83.6	66
+Troodontidae	extinct	125.77	113
+Troodon	extinct	86.3	72.1
+Troodon	extinct	86.3	72.1
+Troodon	extinct	83.6	72.1
+Mei long	extinct	125.77	119.5
+Sinovenator changii	extinct	125.77	119.5
+Sinovenator changii	extinct	125.77	119.5
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	93.9	89.8
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Latenivenatrix mcmasterae	extinct	83.6	72.1
+Troodon formosus	extinct	72.1	66
+Troodontidae	extinct	86.3	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	86.3	83.6
+Albertavenator curriei	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Sinusonasus magnodens	extinct	125.77	119.5
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Pectinodon	extinct	100.5	93.9
+Troodontidae	extinct	72.1	61.6
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Urbacodon itemirensis	extinct	100.5	93.9
+Troodontidae	extinct	121.4	113
+Troodon	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	100.5	93.9
+Troodon	extinct	72.1	66
+Pectinodon bakkeri	extinct	72.1	66
+Stenonychosaurus inequalis	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodon formosus	extinct	72.1	66
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	72.1	66
+Troodon	extinct	72.1	66
+Pectinodon	extinct	72.1	66
+Xixiasaurus henanensis	extinct	89.8	72.1
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	100.5	83.6
+Troodontidae	extinct	72.1	66
+Geminiraptor suarezarum	extinct	139.8	132.6
+Linhevenator tani	extinct	83.6	72.1
+Philovenator curriei	extinct	83.6	72.1
+Talos sampsoni	extinct	83.6	72.1
+Mei long	extinct	125.77	119.5
+Troodon	extinct	72.1	66
+Stenonychosaurus inequalis	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Troodon	extinct	83.6	66
+Troodon	extinct	72.1	66
+Troodon	extinct	83.6	66
+Troodon	extinct	83.6	66
+Troodon	extinct	83.6	66
+Troodon	extinct	83.6	66
+Gobivenator mongoliensis	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	83.6	72.1
+Jinfengopteryx elegans	extinct	125.77	121.4
+Troodon	extinct	83.6	72.1
+Saurornithoides mongoliensis	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	125.77	113
+Saurornithoides	extinct	72.1	66
+Troodontidae	extinct	125.77	119.5
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Pectinodon	extinct	72.1	66
+Troodon formosus	extinct	83.6	72.1
+Troodon formosus	extinct	83.6	72.1
+Saurornithoides mongoliensis	extinct	72.1	66
+Troodon	extinct	72.1	66
+Saurornithoides mongoliensis	extinct	72.1	66
+Troodon	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Jianianhualong tengi	extinct	125.77	119.5
+Troodontidae	extinct	121.4	100.5
+Almas ukhaa	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Troodon	extinct	72.1	66
+Urbacodon	extinct	121.4	113
+Urbacodon	extinct	125.77	113
+Urbacodon	extinct	125.77	113
+Urbacodon	extinct	125.77	113
+Stenonychosaurus inequalis	extinct	83.6	72.1
+Tamarro insperatus	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	72.1	66
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodon	extinct	83.6	72.1
+Troodontidae	extinct	100.5	93.9
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	72.1	66
+Troodon	extinct	72.1	66
+Pectinodon bakkeri	extinct	72.1	66
+Liaoningvenator curriei	extinct	125.77	119.5
+Sinovenator changii	extinct	125.77	119.5
+Daliansaurus liaoningensis	extinct	125.77	119.5
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Troodontidae	extinct	83.6	72.1
+Albertavenator curriei	extinct	72.1	66
+Albertavenator curriei	extinct	72.1	66
+Albertavenator curriei	extinct	83.6	66
+Troodontidae	extinct	83.6	72.1
+Latenivenatrix mcmasterae	extinct	83.6	72.1
+Latenivenatrix mcmasterae	extinct	83.6	72.1
+Troodon	extinct	72.1	66
+Troodontidae	extinct	83.6	72.1
+Papiliovenator neimengguensis	extinct	83.6	72.1
+Troodontidae	extinct	83.6	66
+Troodontidae	extinct	83.6	66
+Troodontidae	extinct	83.6	66
+Saurornithoides	extinct	100.5	93.9
+Gorgosaurus libratus	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Albertosaurus sarcophagus	extinct	72.1	66
+Albertosaurus sarcophagus	extinct	72.1	66
+Albertosaurus sarcophagus	extinct	72.1	66
+Albertosaurus sarcophagus	extinct	72.1	66
+Albertosaurus sarcophagus	extinct	72.1	66
+Daspletosaurus torosus	extinct	83.6	72.1
+Daspletosaurus torosus	extinct	83.6	72.1
+Albertosaurus sarcophagus	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Daspletosaurus horneri	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus	extinct	72.1	66
+Albertosaurus	extinct	72.1	66
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	125.77	121.4
+Albertosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Albertosaurus	extinct	83.6	72.1
+Daspletosaurus	extinct	83.6	72.1
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tyrannosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Albertosaurus	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	145	100.5
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	100.5	93.9
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Nanuqsaurus hoglundi	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	66
+Tyrannosauridae	extinct	72.1	66
+Daspletosaurus torosus	extinct	83.6	72.1
+Daspletosaurus torosus	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Albertosaurus sarcophagus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Albertosaurus	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Daspletosaurus	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tyrannosaurus mcraeensis	extinct	83.6	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Albertosaurus sarcophagus	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Albertosaurus	extinct	83.6	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	93.9	83.6
+Gorgosaurus libratus	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Albertosaurus	extinct	83.6	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	86.3	72.1
+Tyrannosauridae	extinct	86.3	72.1
+Tyrannosauridae	extinct	86.3	72.1
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	86.3	83.6
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	100.5	93.9
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Daspletosaurus horneri	extinct	83.6	72.1
+Daspletosaurus	extinct	83.6	72.1
+Daspletosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	89.8	86.3
+Tyrannosauridae	extinct	86.3	83.6
+Tyrannosauridae	extinct	83.6	66
+Tyrannosauridae	extinct	83.6	66
+Tyrannosaurinae	extinct	83.6	66
+Tarbosaurus bataar	extinct	83.6	66
+Tyrannosauridae	extinct	86.3	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Albertosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Daspletosaurus horneri	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	86.3	83.6
+Tyrannosauridae	extinct	86.3	83.6
+Tyrannosauridae	extinct	86.3	83.6
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosauridae	extinct	93.9	86.3
+Tyrannosauridae	extinct	93.9	86.3
+Tyrannosauridae	extinct	86.3	72.1
+Tyrannosauridae	extinct	86.3	72.1
+Tyrannosauridae	extinct	86.3	72.1
+Gorgosaurus	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Albertosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Albertosaurus sarcophagus	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	66
+Daspletosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus	extinct	72.1	66
+Albertosaurus	extinct	86.3	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Albertosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Alioramus remotus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Albertosaurus	extinct	72.1	66
+Albertosaurinae	extinct	83.6	72.1
+Yezosaurus mikasaensis	extinct	86.3	72.1
+Tyrannosauridae	extinct	100.5	66
+Tyrannosauridae	extinct	100.5	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	121.4	113
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Gorgosaurus libratus	extinct	83.6	72.1
+Zhuchengtyrannus magnus	extinct	83.6	72.1
+Tarbosaurus	extinct	72.1	66
+Alioramus remotus	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	106.2	100.5
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Teratophoneus curriei	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	100.5	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Gorgosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Teratophoneus curriei	extinct	83.6	72.1
+Alioramus sinensis	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	100.5	83.6
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosaurus	extinct	83.6	66
+Daspletosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	100.5	89.8
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Gorgosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tarbosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	100.5	83.6
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	119.5	109.9
+Tyrannosauridae	extinct	119.5	109.9
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	66
+Tyrannosauridae	extinct	83.6	72.1
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	66
+Tyrannosaurus rex	extinct	72.1	66
+Daspletosaurus horneri	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Daspletosaurus torosus	extinct	83.6	72.1
+Tyrannosaurus	extinct	72.1	66
+Daspletosaurus	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Tyrannosaurus	extinct	83.6	72.1
+Gorgosaurus	extinct	72.1	66
+Tyrannosaurus	extinct	72.1	66
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Albertosaurus sarcophagus	extinct	83.6	66
+Albertosaurus sarcophagus	extinct	83.6	66
+Albertosaurus sarcophagus	extinct	83.6	66
+Albertosaurus sarcophagus	extinct	72.1	66
+Albertosaurus sarcophagus	extinct	83.6	66
+Albertosaurus sarcophagus	extinct	83.6	66
+Albertosaurus	extinct	83.6	66
+Tyrannosauridae	extinct	83.6	72.1
+Thanatotheristes degrootorum	extinct	83.6	72.1
+Thanatotheristes degrootorum	extinct	83.6	72.1
+Daspletosaurus torosus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Dynamoterror dynastes	extinct	83.6	72.1
+Teratophoneus curriei	extinct	83.6	72.1
+Daspletosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Albertosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	66
+Tarbosaurus bataar	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Gorgosaurus libratus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosauridae	extinct	121.4	113
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tarbosaurus bataar	extinct	89.8	83.6
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Albertosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	66
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosauridae	extinct	86.3	83.6
+Tyrannosaurinae	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Daspletosaurus wilsoni	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	66
+Gorgosaurus	extinct	83.6	72.1
+Tyrannosauridae	extinct	83.6	72.1
+Tyrannosaurus rex	extinct	83.6	72.1
+Tyrannosauridae	extinct	72.1	66
+Tyrannosaurus rex	extinct	72.1	66
+Tyrannosauridae	extinct	93.9	89.8
+Tyrannosauridae	extinct	93.9	89.8
+Tyrannosauridae	extinct	83.6	72.1
+Lythronax argestes	extinct	83.6	72.1
+Tyrannosaurus	extinct	72.1	66
+Tyrannosauridae	extinct	100.5	93.9
+Tarbosaurus	extinct	72.1	66
