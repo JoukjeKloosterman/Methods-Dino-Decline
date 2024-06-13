@@ -1,0 +1,85 @@
+cpu-bind=MASK - bp1-compute102, task  0  0 [129600]: mask 0x3ff0003ff set
+Loading required package: ape
+Loading required package: MASS
+Loading required package: data.table
+Loading required package: Matrix
+Loading required package: coda
+tree_001 tree_002 tree_003 tree_004 tree_005 tree_006 tree_007 tree_008 
+       3        3        3        3        3        3        3        3 
+tree_009 tree_010 tree_011 tree_012 tree_013 tree_014 tree_015 tree_016 
+       3        3        3        3        3        3        3        3 
+tree_017 tree_018 tree_019 tree_020 tree_021 tree_022 tree_023 tree_024 
+       3        3        3        3        3        3        3        3 
+tree_025 tree_026 tree_027 tree_028 tree_029 tree_030 tree_031 tree_032 
+       3        3        3        3        3        3        3        3 
+tree_033 tree_034 tree_035 tree_036 tree_037 tree_038 tree_039 tree_040 
+       3        3        3        3        3        3        3        3 
+tree_041 tree_042 tree_043 tree_044 tree_045 tree_046 tree_047 tree_048 
+       3        3        3        3        3        3        3        3 
+tree_049 tree_050 tree_051 tree_052 tree_053 tree_054 tree_055 tree_056 
+       3        3        3        3        3        3        3        3 
+tree_057 tree_058 tree_059 tree_060 tree_061 tree_062 tree_063 tree_064 
+       3        3        3        3        3        3        3        3 
+tree_065 tree_066 tree_067 tree_068 tree_069 tree_070 tree_071 tree_072 
+       3        3        3        3        3        3        3        3 
+tree_073 tree_074 tree_075 tree_076 tree_077 tree_078 tree_079 tree_080 
+       3        3        3        3        3        3        3        3 
+tree_081 tree_082 tree_083 tree_084 tree_085 tree_086 tree_087 tree_088 
+       3        3        3        3        3        3        3        3 
+tree_089 tree_090 tree_091 tree_092 tree_093 tree_094 tree_095 tree_096 
+       3        3        3        3        3        3        3        3 
+tree_097 tree_098 tree_099 tree_100 
+       3        3        3        3 
+[1] 100
+tree_001.Model_002 tree_002.Model_002 tree_003.Model_002 tree_004.Model_002 
+                 2                  2                  2                  2 
+tree_005.Model_002 tree_006.Model_002 tree_007.Model_002 tree_008.Model_002 
+                 2                  2                  2                  2 
+tree_009.Model_002 tree_010.Model_002 tree_011.Model_002 tree_012.Model_002 
+                 2                  2                  2                  2 
+tree_013.Model_002 tree_014.Model_002 tree_015.Model_002 tree_016.Model_002 
+                 2                  2                  2                  2 
+tree_017.Model_002 tree_018.Model_002 tree_019.Model_002 tree_020.Model_002 
+                 2                  2                  2                  2 
+tree_021.Model_002 tree_022.Model_002 tree_023.Model_002 tree_024.Model_002 
+                 2                  2                  2                  2 
+tree_025.Model_002 tree_026.Model_002 tree_027.Model_002 tree_028.Model_002 
+                 2                  2                  2                  2 
+tree_029.Model_002 tree_030.Model_002 tree_031.Model_002 tree_032.Model_002 
+                 2                  2                  2                  2 
+tree_033.Model_002 tree_034.Model_002 tree_035.Model_002 tree_036.Model_002 
+                 2                  2                  2                  2 
+tree_037.Model_002 tree_038.Model_002 tree_039.Model_002 tree_040.Model_002 
+                 2                  2                  2                  2 
+tree_041.Model_002 tree_042.Model_002 tree_043.Model_002 tree_044.Model_002 
+                 2                  2                  2                  2 
+tree_045.Model_002 tree_046.Model_002 tree_047.Model_002 tree_048.Model_002 
+                 2                  2                  2                  2 
+tree_049.Model_002 tree_050.Model_002 tree_051.Model_002 tree_052.Model_002 
+                 2                  2                  2                  2 
+tree_053.Model_002 tree_054.Model_002 tree_055.Model_002 tree_056.Model_002 
+                 2                  2                  2                  2 
+tree_057.Model_002 tree_058.Model_002 tree_059.Model_002 tree_060.Model_002 
+                 2                  2                  2                  2 
+tree_061.Model_002 tree_062.Model_002 tree_063.Model_002 tree_064.Model_002 
+                 2                  2                  2                  2 
+tree_065.Model_002 tree_066.Model_002 tree_067.Model_002 tree_068.Model_002 
+                 2                  2                  2                  2 
+tree_069.Model_002 tree_070.Model_002 tree_071.Model_002 tree_072.Model_002 
+                 2                  2                  2                  2 
+tree_073.Model_002 tree_074.Model_002 tree_075.Model_002 tree_076.Model_002 
+                 2                  2                  2                  2 
+tree_077.Model_002 tree_078.Model_002 tree_079.Model_002 tree_080.Model_002 
+                 2                  2                  2                  2 
+tree_081.Model_002 tree_082.Model_002 tree_083.Model_002 tree_084.Model_002 
+                 2                  2                  2                  2 
+tree_085.Model_002 tree_086.Model_002 tree_087.Model_002 tree_088.Model_002 
+                 2                  2                  2                  2 
+tree_089.Model_002 tree_090.Model_002 tree_091.Model_002 tree_092.Model_002 
+                 2                  2                  2                  2 
+tree_093.Model_002 tree_094.Model_002 tree_095.Model_002 tree_096.Model_002 
+                 2                  2                  2                  2 
+tree_097.Model_002 tree_098.Model_002 tree_099.Model_002 tree_100.Model_002 
+                 2                  2                  2                  2 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -26.74  -13.71  -13.04  -13.65  -12.10  -10.16 

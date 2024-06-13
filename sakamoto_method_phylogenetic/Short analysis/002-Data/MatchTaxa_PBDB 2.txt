@@ -1,0 +1,134 @@
+Taxon_Data	AcceptedName_PBDB	Identified_Name	Notes	InPBDB
+Avisaurus_gloriae	Gettyia_gloriae	Avisaurus n. sp. gloriae		1
+Enantiornithes_indet_YPM_57823				0
+Enantiornithes_indet_NMC_9528				0
+Enantiornithes_indet_FRDC_06_CM_012				0
+Enantiornithes_indet_FRDC_05_CM_004				0
+Enantiornithes_indet_FRDC_07_CM_001				0
+Enantiornithes_indet_RAM_14306				0
+Enantiornithes_indet_CAGS_IG_04_CM_007				0
+Enantiornithes_indet_CAGS_IG_02_0901				0
+Cimolopteryx_minima	Lamarqueavis_minima	Cimolopteryx n. sp. minima		1
+Cimolopteryx_petra	Lamarqueavis_petra	Cimolopteryx n. sp. petra		1
+Austinornis_lentus				0
+Ornithurae_indet_MOR_2918_and_SDSM_64281A_and_B_and_UCMP_175251_and_YPM_PU_17020				0
+Ornithurae_indet_UCMP_129143				0
+Ornithurae_indet_IGM_100_1309				0
+Guildavis_tener				0
+Ornithurae_indet_YPM_1732				0
+Ornithurae_indet_USNM_13011_and_USNM_181923				0
+Ornithurae_indet_RSM_P2992_dot_1_and_UCMP_187207				0
+Baptornis_varneri	Brodavis_varneri	Baptornis n. sp. varneri		1
+Ornithurae_indet_IGM_100_1310				0
+Hesperornithiformes_indet_RSM_P2604_dot_1				0
+Ornithurae_indet_TMP_98_dot_68_dot_145				0
+Palintropus_retusus				0
+Ornithurae_indet_IGM_100_1311				0
+Yanornis_wui	Aberratiodontus_wui	n. gen. Aberratiodontus n. sp. wui		1
+Ornithuromorpha_indet_FRDC_05_CM_021				0
+Dromaeosauridae_indet_DGBU_78				0
+Deinonychosauria_indet_ISMD_dash_VP09				0
+Bambiraptor_feinbergorum	Bambiraptor_feinbergi			1
+Sinornithosaurus_sp_NGMC91				0
+Troodontidae_indet_IGM_100_44				0
+Troodontidae_indet_IGM_100_slash_1126				0
+Troodontidae_indet_IGM_100_slash_1323				0
+Mononykinae_indet_UCMP_154584				0
+Alvarezsauridae_indet_MPC_100_99and120				0
+Alvarezsauridae_indet_YPM_1049				0
+Ingenia_yanshini	Ingenia			1
+Citipati_sp_IGM_100_42				0
+Caenagnathus_sp_BHM_2033				0
+Alectrosaurus_sp_GIN_100_50				0
+aff_Anserimimus_planinychus_ZPAL_MgD_I_65				0
+Ornithomimidae_indet_CMN_12068_and_12069_and_12070				0
+Tyrannosauroidea_indet_UUVP_11689				0
+Daspletosaurus_sp_MOR_590	Daspletosaurus_horneri			1
+Tyrannosauridae_indet_ZIN_PH_15_and_120_and_124_and_507_and_619_and_671_and_676_and_679_and_684_and_693_and_695_and_708_and_733_and_734_and_737_and_755_and_756_and_1033_and_1034_and_1035_and_1039_and_1239_and_2296_and_2330_and_2350_slash_16_and_USNM_538131_and_538167_and_538181_and_CCMGE_432_slash_12457				0
+Tyrannosauroidea_indet_MPC_D_102_4				0
+Megalosaurinae_indet_TATE_0012				0
+Allosauroidea_indet_IVPP_V_18060				0
+Tetanurae_indet_MM_2and8to9and11to21				0
+Carcharodontosauridae_indet_MPM_2594				0
+Megaraptor_sp_NMV_P186076				0
+Neovenatoridae_indet_NMV_P150070				0
+Ceratosauria_indet_NMV_P221202				0
+Abelisauridae_indet_AMNH_1955				0
+Carnotaurinae_indet_UNPSJB_PV247				0
+Noasaurus_sp_MACN_622				0
+Abelisauridae_indet_MPCA_56				0
+Abelisauroidea_indet_MPCM_13573				0
+Ceratosauria_indet_MSMN_V6235				0
+Coelophysoidea_indet_IGM_6624				0
+Coelophysidae_indet_MCZ_8817and9442to9469andTMM_43689				0
+Guaibasauridae_indet_ISI_R277				0
+Herrerasauridae_indet_MACN_PV_18649a				0
+Titanosauria_indet_CPP_217				0
+Titanosauria_indet_CPP_360				0
+Titanosauriformes_indet_PR_977_and_SMU_61732				0
+Titanosauria_indet_CNRST_SUNY_194to197				0
+Titanosauria_indet_Fo_0014	Somphospondyli	Somphospondyli indet.	state=Mie	1
+Titanosauria_indet_UCB_92305				0
+Agustinia_ligabuei	Somphospondyli	n. gen. Agustinia n. sp. ligabuei		1
+Titanosauria_indet_IGM_100_3005				0
+Titanosauriformes_indet_YPM_5449				0
+Paluxysaurus_jonesi	Sauroposeidon_proteles			1
+Brontomerus_mcintoshi	Titanosauriformes	n. gen. Brontomerus n. sp. mcintoshi		1
+Brachiosauridae_indet_MPEF_PV_3098				0
+Brachiosauridae_indet_MHNM_Unreferred				0
+Brachiosauridae_indet_MPEF_PV_3099				0
+Brachiosauridae_indet_SMA_0009				0
+Sauropoda_indet_MHBR_204				0
+Astrodon_johnstoni	Sauropoda	Astrodon johnstoni		1
+Galveosaurus_herreroi	Galvesaurus_herreroi	n. gen. Galvesaurus n. sp. herreroi		1
+Dinheirosaurus_lourinhanensis	Supersaurus_lourinhanensis	n. gen. Dinheirosaurus n. sp. lourinhanensis		1
+Diplodocidae_indet_PMU_R263				0
+Apatosaurus_excelsus	Brontosaurus_excelsus			1
+Apatosaurus_sp_FMNH_P25112				0
+Amphicoelias_emilieae	Suuwassea_emilieae	n. gen. Suuwassea n. sp. emilieae		1
+Rebbachisauridae_indet_MIWG_6544				0
+Rebbachisauridae_indet_Pv_6718_67_MOZ				0
+Rebbachisauridae_indet_MPS_RV_II_2to4and6to19and22to23				0
+Eusauropoda_indet_HMN_MB_dot_R_dot_2091_dot_1_dash_30				0
+Sauropoda_indet_PULR_136				0
+Plateosaurus_sp_GPIT_18392				0
+Sauropodomorpha_indet_SMNS_12216				0
+Sauropodomorpha_indet_ISI_R260				0
+Hadrosaurinae_indet_LACM_CIT_2852				0
+Saurolophus_morrisi	Augustynolophus_morrisi	Saurolophus morrisi		1
+Secernosaurus_sp_PASAC_1	Secernosaurus_koerneri			1
+Willinakaqe_salitralensis		Willinakaqe n. sp. salitralensis		1
+Saurolophinae_indet_UTEP_P37_7_222				0
+Kritosaurus_horneri				0
+Lambeosaurinae_indet_SMP_VP_slash_1534				0
+Hadrosauroidea_indet_IPS_36338				0
+Probactrosaurus_mazongshanensis	Gongpoquansaurus_mazongshanensis			1
+Dollodon_bampingi	Mantellisaurus_atherfieldensis	n. gen. Dollodon n. sp. bampingi		1
+Mantellisaurus_sp_NHMUK_R3741	Mantellisaurus_atherfieldensis			1
+Kukufeldia_tilgatensis	Barilium_dawsoni	n. gen. Kukufeldia n. sp. tilgatensis		1
+Iguanodontia_indet_NHMUK_R1831				0
+Camptosaurus_aphanoecetes	Uteodon_aphanoecetes			1
+Camptosaurus_prestwichii	Cumnoria_prestwichii	Iguanodon n. sp. prestwichii		1
+Dryosaurus_lettowvorbecki	Dysalotosaurus_lettowvorbecki			1
+Mochlodon_suessi	Rhabdodon_suessii			1
+Thescelosaurus_sp_NCSM_15728				0
+Thescelosaurus_sp_SDSM_7210				0
+Thescelosaurus_sp_LACM_33543				0
+Thescelosaurus_sp_CMN_8537	Thescelosaurus_edmontonensis			1
+Thescelosaurus_sp_MOR_979				0
+Ornithischia_indet_TMP_2002_dot_12_dot_135				0
+Orodrominae_indet_TMP_2008_dot_45_dot_02				0
+Ornithischia_indet_TMP_1997_dot_128_dot_01				0
+Torosaurus_utahensis	Triceratops_utahensis			1
+Mojoceratops_perifania	Mojoceratops	cf. Mojoceratops sp.		1
+Centrosaurinae_indet_TMP_2002_76_1				0
+Centrosaurus_brinkmani	Coronosaurus_brinkmani	Centrosaurus brinkmani		1
+Stygimoloch_spinifer	Pachycephalosaurus_wyomingensis			1
+Pachycephalosauridae_indet_SMP_VP_1084				0
+Texacephale_langstoni	Pachycephalosauridae	Texacephale langstoni		1
+Pachycephalosauridae_indet_UCMP_130051				0
+Heterodontosauridae_indet_BMNH_A100				0
+Minotaurasaurus_ramachandrani				0
+Sauropelta_edwardsi	Sauropelta_edwardsorum			1
+Stegosaurus_sp_LHNB_CN_1				0
+Stegosaurus_armatus	Stegosaurus	Stegosaurus armatus		1

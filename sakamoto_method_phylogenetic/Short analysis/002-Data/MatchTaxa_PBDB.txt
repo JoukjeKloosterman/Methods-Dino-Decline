@@ -1,0 +1,25 @@
+Taxon_Data	AcceptedName_PBDB	Identified_Name	Notes	InPBDB
+Apatosaurus_excelsus	Brontosaurus_excelsus			1
+Bambiraptor_feinbergorum	Bambiraptor_feinbergi			1
+Beipiaosaurus_inexpectus	Beipiaosaurus			1
+Camptosaurus_aphanoecetes	Uteodon_aphanoecetes			1
+Citipati_sp_IGM_100_42				0
+Daspletosaurus_sp_MOR_590	Daspletosaurus_horneri			1
+Dromaeosauridae_indet_DGBU_78				0
+Dryosaurus_lettowvorbecki	Dysalotosaurus_lettowvorbecki			1
+Ingenia_yanshini	Ingenia			1
+Mochlodon_suessi	Rhabdodon_suessii			1
+Nomingia_gobiensis	Nomingia			1
+Paluxysaurus_jonesi	Sauroposeidon_proteles			1
+Probactrosaurus_mazongshanensis	Gongpoquansaurus_mazongshanensis			1
+Rinchenia_mongoliensis				0
+Sauropelta_edwardsi	Sauropelta_edwardsorum			1
+Secernosaurus_sp_PASAC_1	Secernosaurus_koerneri			1
+Stygimoloch_spinifer	Pachycephalosaurus_wyomingensis			1
+Thescelosaurus_sp_CMN_8537	Thescelosaurus_edmontonensis			1
+Titanosauria_indet_Fo_0014	Somphospondyli	Somphospondyli indet.	state=Mie	1
+Torosaurus_utahensis	Triceratops_utahensis			1
+Troodontidae_indet_IGM_100_slash_1323				0
+Willinakaqe_salitralensis		Willinakaqe n. sp. salitralensis		1
+Yanornis_wui	Aberratiodontus_wui	n. gen. Aberratiodontus n. sp. wui		1
+Mantellisaurus_sp_NHMUK_R3741	Mantellisaurus_atherfieldensis			1
