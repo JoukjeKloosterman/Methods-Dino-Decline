@@ -1,5 +1,5 @@
 # Phylogenetic GLMMs
-This directory contains all the scripts and raw data for the analysis of the phylogenetic GLMMs.
+This directory contains all the scripts, raw data and output for the analysis of the phylogenetic GLMMs.
 The data was downloaded from: [Sakamoto et al. (2021)](https://osf.io/uct2p/)
 
 The output data in [Short Analysis/003-DataPrepped](Short%20analysis/003-DataPrepped) and [Short Analysis/004-Output--MCMCglmm](Short%20analysis/004-Output--MCMCglmm) is the same as the data from the download, the data was too large to provide through GitHib. In both directories the commandline output can be found, as a way to show that the analysis worked.
@@ -13,6 +13,7 @@ Then run the following bash script to install dependencies and execute the analy
 bash "run_analysis.sh"
 ```
 ## Dependencies
+[This](install_packages.R) file contains the code to install the following packages:
 
 - remotes
 - evoldiver
@@ -25,4 +26,5 @@ bash "run_analysis.sh"
 ## Author
 Joukje Kloosterman
 
-Email: joukje@kloosterman.org
+## License 
+Code relased under the MIT license. 
