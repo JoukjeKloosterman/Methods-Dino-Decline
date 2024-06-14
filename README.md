@@ -30,4 +30,4 @@ A tutorial on how to reanalyze our analysis for the phylogenetic GLMMs approach 
 Joukje Kloosterman
 
 ## License
-Code relased under the MIT license. 
+Code released under the MIT license. 
