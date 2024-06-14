@@ -27,4 +27,4 @@ bash "run_analysis.sh"
 Joukje Kloosterman
 
 ## License 
-Code relased under the MIT license. 
+Code released under the MIT license. 
